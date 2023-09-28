@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Galiwatch Big Book of Bees!",
+    "section": "",
+    "text": "Welcome to the big bee book!\nThis book features detailed annotations of bees of the PNW. Images have been collected from iNaturalist, and special thanks to Spencer Collection for allowing us to reproduce their specimen images as references for this book\nHow to use:\n\nLook up your favourite bees\nCompare with your own observations to help identify species\nClick any image to be taken to the database source\n\nBees are organized by genus."
+  },
+  {
+    "objectID": "andrena.html",
+    "href": "andrena.html",
+    "title": "Andrena",
+    "section": "",
+    "text": "52 species listed by Shefield and Heron (2018) including 11 with verified iNaturalist records plus one additional iNaturalist record of Andrena astragali (death camas mining bee) that was first documented in the Pacific Maritime in 2018.\n\nSummary\nThe Pacific Maritime has 53 documented species of Andrena.\n\n12 species with verified iNaturalist sightings (2018-2023) (A. amphibola, A. astragali, A. auricoma, A. columbiana, A. crataegi, A. frigida, A. milwaukeensis, A. miserabilis, A. nigrocaerulea, A. prunorum, A. transnigra, and A. vicina)\n12 species with verified iNaturalist sightings in other locations in North America (A. angustitarsata, A. barbilabris, A. caerulea, A. erythrogaster, A. forbesii, A. hippotes, A. melanchroa, A. miranda, A. nigrihirta, A. nivalis, A. rufosignata, and A. thaspii)\n18 species from the UBC Spencer collection (A. buckelli, A. candida, A. chlorura, A. cressonii infasciata, A. cupreotincta, A. cyanophila, A. hemileuca, A. medionitens, A. perarmata, A. saccate, A. saliciloris, A. scurra, A. stratifrons, A. subtilis, a. trevoris, A. vicinoides and w-scripta)\n11 species with no record in the UBC Spencer collection or iNaturalist (A. excellens, A. fulvicrista, A. lillooentensis, A. mariae, A. perplexa, A. schuhi, A. sigmundi, A. singularis, A. subaustralis, A. vierecki, and A. washingtoni)."
+  },
+  {
+    "objectID": "andrena/amphibola.html",
+    "href": "andrena/amphibola.html",
+    "title": "1  Andrena amphibola",
+    "section": "",
+    "text": "© Braden J. Hudson. 2020."
+  },
+  {
+    "objectID": "andrena/angustitarsata.html",
+    "href": "andrena/angustitarsata.html",
+    "title": "2  Andrena angustitarsata",
+    "section": "",
+    "text": "© lohump. 2021."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": ":)"
+  }
+]

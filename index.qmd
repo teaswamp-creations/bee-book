@@ -1,0 +1,13 @@
+# Preface {.unnumbered}
+
+Welcome to the big bee book!
+
+This book features detailed annotations of bees of the PNW. Images have been collected from [iNaturalist](https://www.inaturalist.org/), and special thanks to [Spencer Collection](https://www.zoology.ubc.ca/entomology/) for allowing us to reproduce their specimen images as references for this book
+
+How to use: 
+
+* Look up your favourite bees
+* Compare with your own observations to help identify species
+* Click any image to be taken to the database source
+
+Bees are organized by genus. 

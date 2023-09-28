@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Galiwatch Big Book of Bees!"
+  author: "Katherine Quayle"
+  date: "2023-09-28"
+  chapters:
+    - index.qmd
+    - part: andrena.qmd
+      chapters:
+        - andrena/amphibola.qmd
+        - andrena/angustitarsata.qmd
+    - summary.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+
+
+
