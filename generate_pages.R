@@ -11,15 +11,14 @@ dir <- 'Andrena'
 
 # generate species data
 make_page <- function(row, parent='./'){
-  print(row)
   contents <- paste0(
-    h1(paste(row['Genus'], row['Species'])),
-    p(paste0('(', row['Common name'], ')')),
-    br(),
-    paste0('[![© ', row['iNat account'], '. ', row['Date'], '.](', 
-           row['Image link'], ')](', row['Reference link'], ')')
+    '---\ntitle: ',
+    row['Genus'], ' ', row['Species'],
+    '\n---\n',
+    '(', row['Common name'], ')\n\n',
+    '[![© ', row['iNat account'], '. ', row['Date'], '.](', row['Image link'], ')](', row['Reference link'], ')'
   )
-  write(contents, paste0(tolower(parent),'/',row['Species'],'.qmd'))
+  write(contents, gsub(' ', '_', paste0(tolower(parent),'/',row['Species'],'.qmd')))
 }
 
 apply(df, FUN=make_page, MARGIN=1, parent=dir)
