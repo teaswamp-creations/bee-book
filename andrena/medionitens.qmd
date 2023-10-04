@@ -1,1 +1,6 @@
-<h1>Andrena medionitens</h1><p>(Western red-legged miner bee)</p><br/>[![© T. Haapalainen & K. Needham. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg)](NA)
+---
+title: Andrena medionitens
+---
+(Western red-legged miner bee)
+
+[![`r emo::ji("copyright")` T. Haapalainen & K. Needham. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg){height=300}](NA)

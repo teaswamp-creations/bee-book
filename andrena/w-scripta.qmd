@@ -1,1 +1,6 @@
-<h1>Andrena w-scripta</h1><p>(W-labrum miner)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena w-scripta
+---
+(W-labrum miner)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

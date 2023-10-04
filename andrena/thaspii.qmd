@@ -1,1 +1,6 @@
-<h1>Andrena thaspii</h1><p>(Meadow parsnip miner bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena thaspii
+---
+(Meadow parsnip miner bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

@@ -1,1 +1,6 @@
-<h1>Andrena chlorura</h1><p>(NA)</p><br/>[![© G.G.E Scudder. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg)](NA)
+---
+title: Andrena chlorura
+---
+(NA)
+
+[![`r emo::ji("copyright")` G.G.E Scudder. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](NA)

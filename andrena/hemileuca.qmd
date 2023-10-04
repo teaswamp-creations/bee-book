@@ -1,1 +1,6 @@
-<h1>Andrena hemileuca</h1><p>(Partly-haired miner bee)</p><br/>[![© SEM Team. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg)](NA)
+---
+title: Andrena hemileuca
+---
+(Partly-haired miner bee)
+
+[![`r emo::ji("copyright")` SEM Team. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg){height=300}](NA)

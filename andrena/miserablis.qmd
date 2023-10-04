@@ -1,1 +1,6 @@
-<h1>Andrena miserablis</h1><p>(Miserable mining bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena miserablis
+---
+(Miserable mining bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

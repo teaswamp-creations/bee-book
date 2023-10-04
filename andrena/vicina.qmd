@@ -1,1 +1,6 @@
-<h1>Andrena vicina</h1><p>(Neighbourly mining bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena vicina
+---
+(Neighbourly mining bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

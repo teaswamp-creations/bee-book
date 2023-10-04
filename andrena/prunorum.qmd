@@ -1,1 +1,6 @@
-<h1>Andrena prunorum</h1><p>(Prunus miner bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena prunorum
+---
+(Prunus miner bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

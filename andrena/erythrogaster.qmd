@@ -1,1 +1,6 @@
-<h1>Andrena erythrogaster</h1><p>(Red-tailed mining bee)</p><br/>[![© bob15noble. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg)](https://inaturalist.ca/photos/276733981)
+---
+title: Andrena erythrogaster
+---
+(Red-tailed mining bee)
+
+[![`r emo::ji("copyright")` bob15noble. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg){height=300}](https://inaturalist.ca/photos/276733981)

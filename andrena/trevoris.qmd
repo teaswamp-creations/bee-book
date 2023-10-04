@@ -1,1 +1,6 @@
-<h1>Andrena trevoris</h1><p>(Trevor's miner bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena trevoris
+---
+(Trevor's miner bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

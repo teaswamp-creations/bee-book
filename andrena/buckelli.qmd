@@ -1,1 +1,6 @@
-<h1>Andrena buckelli</h1><p>(Buckell's miner bee)</p><br/>[![© S.G. Cannings. 1986.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg)](NA)
+---
+title: Andrena buckelli
+---
+(Buckell's miner bee)
+
+[![`r emo::ji("copyright")` S.G. Cannings. 1986.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}](NA)

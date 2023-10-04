@@ -1,1 +1,6 @@
-<h1>Andrena candida</h1><p>(Bright miner)</p><br/>[![© S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(1dorsal).jpg)](NA)
+---
+title: Andrena candida
+---
+(Bright miner)
+
+[![`r emo::ji("copyright")` S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(1dorsal).jpg){height=300}](NA)

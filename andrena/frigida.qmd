@@ -1,1 +1,6 @@
-<h1>Andrena frigida</h1><p>(Frigid mining bee)</p><br/>[![© Eric Habisch. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg)](https://inaturalist.ca/photos/119442385)
+---
+title: Andrena frigida
+---
+(Frigid mining bee)
+
+[![`r emo::ji("copyright")` Eric Habisch. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg){height=300}](https://inaturalist.ca/photos/119442385)

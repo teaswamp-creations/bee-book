@@ -1,1 +1,6 @@
-<h1>Andrena rufosignata</h1><p>(Brown-fovea miner)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena rufosignata
+---
+(Brown-fovea miner)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

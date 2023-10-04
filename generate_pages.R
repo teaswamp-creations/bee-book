@@ -16,7 +16,7 @@ make_page <- function(row, parent='./'){
     row['Genus'], ' ', row['Species'],
     '\n---\n',
     '(', row['Common name'], ')\n\n',
-    '[![© ', row['iNat account'], '. ', row['Date'], '.](', row['Image link'], ')](', row['Reference link'], ')'
+    '[![`r emo::ji("copyright")` ', row['iNat account'], '. ', row['Date'], '.](', row['Image link'], '){height=300}](', row['Reference link'], ')'
   )
   write(contents, gsub(' ', '_', paste0(tolower(parent),'/',row['Species'],'.qmd')))
 }

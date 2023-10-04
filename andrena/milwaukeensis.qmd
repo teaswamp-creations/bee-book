@@ -1,1 +1,6 @@
-<h1>Andrena milwaukeensis</h1><p>(Milwaukee mining bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena milwaukeensis
+---
+(Milwaukee mining bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

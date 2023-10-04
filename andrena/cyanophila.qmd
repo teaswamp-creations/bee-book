@@ -1,1 +1,6 @@
-<h1>Andrena cyanophila</h1><p>(Dimple-cheeked miner bee)</p><br/>[![© R.J. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg)](NA)
+---
+title: Andrena cyanophila
+---
+(Dimple-cheeked miner bee)
+
+[![`r emo::ji("copyright")` R.J. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}](NA)

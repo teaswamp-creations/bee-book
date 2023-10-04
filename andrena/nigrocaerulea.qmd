@@ -1,1 +1,6 @@
-<h1>Andrena nigrocaerulea</h1><p>(Blue-and-back mining bee)</p><br/>[![© NA. NA.](NA)](NA)
+---
+title: Andrena nigrocaerulea
+---
+(Blue-and-back mining bee)
+
+[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)
