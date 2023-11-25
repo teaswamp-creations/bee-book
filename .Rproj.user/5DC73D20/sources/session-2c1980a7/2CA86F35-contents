@@ -1,9 +1,0 @@
----
-title: "Gallery"
-listing:
-  contents: bees
-  type: grid
-  categories: true
-  sort-ui: true
-  filter-ui: true
----
