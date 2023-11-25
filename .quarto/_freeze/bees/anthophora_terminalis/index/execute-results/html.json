@@ -1,0 +1,14 @@
+{
+  "hash": "54de3ff2b56dad9defc78521f15a9e7f",
+  "result": {
+    "markdown": "---\ntitle: Anthophora terminalis\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

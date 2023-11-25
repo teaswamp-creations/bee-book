@@ -1,0 +1,14 @@
+{
+  "hash": "dec3f355f34b0c7ec087829cf4e09b39",
+  "result": {
+    "markdown": "---\ntitle: Bombus appositus\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(White-shouldered bumblebee)\n\n[![©️ Bob McDougall. 1659312000.](https://inaturalist-open-data.s3.amazonaws.com/photos/223410239/medium.jpeg){height=300}](https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=320050)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

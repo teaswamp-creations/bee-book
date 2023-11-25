@@ -1,0 +1,14 @@
+{
+  "hash": "c0657fc2c99b07c2ae0ff9379a5f4d7d",
+  "result": {
+    "markdown": "---\ntitle: Melecta pacifica pacifica\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,10 @@
+---
+title: Andrena angustitarsata
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Narrow-legged miner bee)
+
+[![`r emo::ji("copyright")` lohump. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/17828498/medium.jpeg){height=300}](https://inaturalist.ca/observations/95079312)

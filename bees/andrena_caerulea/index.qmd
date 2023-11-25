@@ -1,0 +1,10 @@
+---
+title: Andrena caerulea
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Caerulean miner bee)
+
+[![`r emo::ji("copyright")` Sean Werle. 2022.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(1dorsal).jpg){height=300}](https://inaturalist.ca/observations/111668756)

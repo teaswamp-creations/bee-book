@@ -1,0 +1,14 @@
+{
+  "hash": "d84888c561ecf4f813e7fcdcd803e48a",
+  "result": {
+    "markdown": "---\ntitle: Andrena nivalis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Snowy mining bee)\n\n[![©️ Chuck Williams. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169229984)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c6c3a4c8f012e72910ec5ce70114c4c9",
+  "result": {
+    "markdown": "---\ntitle: Bombus neoboreus\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Active bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

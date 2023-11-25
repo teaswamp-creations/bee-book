@@ -1,0 +1,14 @@
+{
+  "hash": "c57021c09ef6fce9a27e11af8486e5ee",
+  "result": {
+    "markdown": "---\ntitle: Coelioxys banksi\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

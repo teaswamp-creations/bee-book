@@ -1,0 +1,10 @@
+---
+title: Andrena nigrihirta
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Black-haired miner bee)
+
+[![`r emo::ji("copyright")` Spencer Hardy. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/78763551)

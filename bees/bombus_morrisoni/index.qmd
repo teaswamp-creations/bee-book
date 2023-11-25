@@ -1,0 +1,10 @@
+---
+title: Bombus morrisoni
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Morrison's bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

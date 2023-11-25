@@ -1,0 +1,14 @@
+{
+  "hash": "505afcac960d0af70de65158e5012ff8",
+  "result": {
+    "markdown": "---\ntitle: Sphecodes pecosensis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

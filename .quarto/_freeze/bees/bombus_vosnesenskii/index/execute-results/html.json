@@ -1,0 +1,14 @@
+{
+  "hash": "db791f177dda4eece1488b8047166186",
+  "result": {
+    "markdown": "---\ntitle: Bombus vosnesenskii\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Yellow-faced bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

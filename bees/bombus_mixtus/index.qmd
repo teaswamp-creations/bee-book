@@ -1,0 +1,10 @@
+---
+title: Bombus mixtus
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Fuzzy-horned bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

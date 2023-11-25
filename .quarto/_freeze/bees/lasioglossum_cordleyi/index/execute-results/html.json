@@ -1,0 +1,14 @@
+{
+  "hash": "f15fb94d72b2cfe02f5d8f82f6274d0f",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum cordleyi\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Lasioglossum cordleyi)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

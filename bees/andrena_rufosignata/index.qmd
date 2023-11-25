@@ -1,0 +1,10 @@
+---
+title: Andrena rufosignata
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Brown-fovea miner)
+
+[![`r emo::ji("copyright")` Bernie Paquette. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/162643376)

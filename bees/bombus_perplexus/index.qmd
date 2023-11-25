@@ -1,0 +1,10 @@
+---
+title: Bombus perplexus
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Perplexing bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

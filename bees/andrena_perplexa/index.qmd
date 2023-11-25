@@ -1,0 +1,10 @@
+---
+title: Andrena perplexa
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Andrena perplexa)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

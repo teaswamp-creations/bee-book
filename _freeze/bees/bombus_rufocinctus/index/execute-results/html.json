@@ -1,0 +1,14 @@
+{
+  "hash": "a780f1e4ca3d8a239d73c8d0257aa9fe",
+  "result": {
+    "markdown": "---\ntitle: Bombus rufocinctus\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Red-belted bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

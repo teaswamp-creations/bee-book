@@ -1,0 +1,14 @@
+{
+  "hash": "17ca0725edc97431b295ca5f1352b9c1",
+  "result": {
+    "markdown": "---\ntitle: Anthophora occidentalis\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a31f9579772d4adad3b2f5e825f3a72a",
+  "result": {
+    "markdown": "---\ntitle: Panurginus ineptus\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Inept miner bee)\n\n[![©️ Jukka Jantunen. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/91927558)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

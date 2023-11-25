@@ -1,0 +1,10 @@
+---
+title: Bombus flavifrons
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Yellow fronted bumblebee)
+
+[![`r emo::ji("copyright")` Bob McDougall. 1688169600.](https://inaturalist-open-data.s3.amazonaws.com/photos/302641857/medium.jpeg){height=300}](https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=119308)

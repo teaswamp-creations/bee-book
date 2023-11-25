@@ -1,0 +1,10 @@
+---
+title: Andrena nigrocaerulea
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Blue-and-back mining bee)
+
+[![`r emo::ji("copyright")` Tamara Schwarz. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/158278461)

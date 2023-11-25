@@ -1,6 +1,0 @@
----
-title: Andrena singularis
----
-(NA)
-
-[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

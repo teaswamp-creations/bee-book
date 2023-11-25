@@ -1,0 +1,14 @@
+{
+  "hash": "a2df1f15fda3ef1b99a617ee20b511b2",
+  "result": {
+    "markdown": "---\ntitle: Bombus sylvicola\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Forest bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "34a0d3bb71e49524a7fe984ee53361be",
+  "result": {
+    "markdown": "---\ntitle: Andrena milwaukeensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Milwaukee mining bee)\n\n[![©️ Bob Carter. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/79898466)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

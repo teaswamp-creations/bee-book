@@ -1,0 +1,10 @@
+---
+title: Lasioglossum mellipes
+engine: knitr
+categories:
+  - Halictidae
+freeze: True
+---
+(Lasioglossum mellipes)
+
+[![`r emo::ji("copyright")` Sherri Elwell. 2010.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg)

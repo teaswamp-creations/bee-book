@@ -1,0 +1,10 @@
+---
+title: Lasioglossum brunneiventre
+engine: knitr
+categories:
+  - Halictidae
+freeze: True
+---
+(Brown-bellied sweat bee)
+
+[![`r emo::ji("copyright")` Sherri Elwell. 2010.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20brunneiventre%20female%20(3lateral)%20.jpg)

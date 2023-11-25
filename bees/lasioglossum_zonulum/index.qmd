@@ -1,0 +1,10 @@
+---
+title: Lasioglossum zonulum
+engine: knitr
+categories:
+  - Halictidae
+freeze: True
+---
+(Bull-headed furrow bee)
+
+[![`r emo::ji("copyright")` NA. 2009.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/)

@@ -1,0 +1,10 @@
+---
+title: Bombus vagans
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Half-black bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

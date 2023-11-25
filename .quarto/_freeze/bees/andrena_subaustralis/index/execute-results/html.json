@@ -1,0 +1,14 @@
+{
+  "hash": "8f00df5c513b181ba0f1fa86f0da4e80",
+  "result": {
+    "markdown": "---\ntitle: Andrena subaustralis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena subaustralis)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

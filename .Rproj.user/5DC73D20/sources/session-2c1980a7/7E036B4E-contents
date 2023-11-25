@@ -1,0 +1,11 @@
+---
+title: "Bee list"
+listing:
+  contents: bees
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  table-hover: true
+  fields: [title, categories]
+---

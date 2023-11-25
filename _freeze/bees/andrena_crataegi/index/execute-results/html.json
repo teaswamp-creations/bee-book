@@ -1,0 +1,14 @@
+{
+  "hash": "c547f4fa8af1effd6e79864e3b6ee208",
+  "result": {
+    "markdown": "---\ntitle: Andrena crataegi\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Hawthorn miner bee)\n\n[![©️ Bettina Harvey. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121186330)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

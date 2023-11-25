@@ -1,6 +1,0 @@
----
-title: Andrena rufosignata
----
-(Brown-fovea miner)
-
-[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

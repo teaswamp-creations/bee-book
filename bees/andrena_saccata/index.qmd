@@ -1,0 +1,10 @@
+---
+title: Andrena saccata
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Shifty miner bee)
+
+[![`r emo::ji("copyright")` E. Elle. 2005.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20saccata%20(3lateral).jpg)

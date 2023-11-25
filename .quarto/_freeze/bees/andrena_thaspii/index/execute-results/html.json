@@ -1,0 +1,14 @@
+{
+  "hash": "c34f0369b6bb8527b55e4c39461eba58",
+  "result": {
+    "markdown": "---\ntitle: Andrena thaspii\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Meadow parsnip miner bee)\n\n[![©️ Bernie Paquette. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169218633)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b23cb9b442a64befad636b389a199a5",
+  "result": {
+    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

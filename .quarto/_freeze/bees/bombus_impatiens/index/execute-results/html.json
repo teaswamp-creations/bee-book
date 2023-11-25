@@ -1,0 +1,14 @@
+{
+  "hash": "29eec9990888352a0ead1b516cd1d2cd",
+  "result": {
+    "markdown": "---\ntitle: Bombus impatiens\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Common Eastern bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

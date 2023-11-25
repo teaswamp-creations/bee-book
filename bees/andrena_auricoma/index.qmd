@@ -1,0 +1,10 @@
+---
+title: Andrena auricoma
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Golden-haired miner bee)
+
+[![`r emo::ji("copyright")` Parks Canada Growing Together Conservation and Restoration Project. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/134754453/medium.jpeg){height=300}](https://inaturalist.ca/observations/47320081)

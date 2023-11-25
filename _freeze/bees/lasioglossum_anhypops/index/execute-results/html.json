@@ -1,0 +1,14 @@
+{
+  "hash": "838f79aa6ff83e2ebc3b220db8de3f89",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum anhypops\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Miteless sweat bee)\n\n[![©️ T. Haapalainen & K. Needham. 2020.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops%20female%20(3lateral)%20%20SEM-UBC%20HYM-14756.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

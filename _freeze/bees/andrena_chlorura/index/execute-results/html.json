@@ -1,0 +1,14 @@
+{
+  "hash": "861976745343f464dc0d037c8de6d5ec",
+  "result": {
+    "markdown": "---\ntitle: Andrena chlorura\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena chlorura)\n\n[![©️ G.G.E Scudder. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "92fda7c580bb3807deb054321079d7f7",
+  "result": {
+    "markdown": "---\ntitle: Bombus vancouverensis\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Vancouver bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "27e3fa99f601641bee0332a999adb2c8",
+  "result": {
+    "markdown": "---\ntitle: Megachile parallela\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

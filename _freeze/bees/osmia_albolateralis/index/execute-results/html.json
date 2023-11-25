@@ -1,0 +1,14 @@
+{
+  "hash": "6e24ec47c9e1bf88ca501fd866a976d0",
+  "result": {
+    "markdown": "---\ntitle: Osmia albolateralis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

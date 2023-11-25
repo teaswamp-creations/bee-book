@@ -1,0 +1,10 @@
+---
+title: Lasioglossum albipenne
+engine: knitr
+categories:
+  - Halictidae
+freeze: True
+---
+(White-winged sweat bee)
+
+[![`r emo::ji("copyright")` NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/134979380)

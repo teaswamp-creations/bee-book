@@ -1,0 +1,10 @@
+---
+title: Bombus sylvicola
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Forest bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

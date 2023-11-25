@@ -1,0 +1,14 @@
+{
+  "hash": "67db12b7fa477575aae56af6b029f54a",
+  "result": {
+    "markdown": "---\ntitle: Coelioxys alternata\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

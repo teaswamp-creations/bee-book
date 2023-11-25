@@ -1,0 +1,10 @@
+---
+title: Andrena transnigra
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Black-banded mining bee)
+
+[![`r emo::ji("copyright")` Ume Hermanski. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/74647139)

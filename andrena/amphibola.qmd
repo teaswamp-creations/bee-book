@@ -1,6 +1,0 @@
----
-title: Andrena amphibola
----
-(Ambiguous miner bee)
-
-[![`r emo::ji("copyright")` Braden J. Hudson. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/80881550/medium.jpeg){height=300}](https://inaturalist.ca/photos/80881550)

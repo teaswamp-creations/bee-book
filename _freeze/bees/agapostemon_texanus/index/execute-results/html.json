@@ -1,0 +1,14 @@
+{
+  "hash": "fc86a03e34e0c945b9355037813a83f7",
+  "result": {
+    "markdown": "---\ntitle: Agapostemon texanus\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Texas striped sweat bee)\n\n[![©️ lyndas. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/167784335)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

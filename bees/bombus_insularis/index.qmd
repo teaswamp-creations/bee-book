@@ -1,0 +1,10 @@
+---
+title: Bombus insularis
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Indiscriminate Cuckoo Bumblebee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

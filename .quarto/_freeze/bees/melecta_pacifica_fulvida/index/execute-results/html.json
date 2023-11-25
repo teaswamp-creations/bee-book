@@ -1,0 +1,14 @@
+{
+  "hash": "31d67c2aeb12ed150ca0e7a4950e1c87",
+  "result": {
+    "markdown": "---\ntitle: Melecta pacifica fulvida\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

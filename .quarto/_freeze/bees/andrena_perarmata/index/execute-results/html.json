@@ -1,0 +1,14 @@
+{
+  "hash": "758069a5bfc9c03c1931083b3aeff7b4",
+  "result": {
+    "markdown": "---\ntitle: Andrena perarmata\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Large-toothed miner bee)\n\n[![©️ E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

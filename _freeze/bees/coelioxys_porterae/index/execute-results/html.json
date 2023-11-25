@@ -1,0 +1,14 @@
+{
+  "hash": "03e9f730701f0f6d295113bc26bb69c0",
+  "result": {
+    "markdown": "---\ntitle: Coelioxys porterae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "015660db9bce65d5a3bef55b593f3331",
+  "result": {
+    "markdown": "---\ntitle: Andrena salicifloris\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Willow flower miner bee)\n\n[![©️ T. Jones. 2008.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20salicifloris%20(3lateral).jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "12facb1a7a5e89e0e0dd92011f8e90d0",
+  "result": {
+    "markdown": "---\ntitle: Bombus centralis\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Great basin bumblebee)\n\n[![©️ Blythe Nilson. 1656633600.](https://inaturalist-open-data.s3.amazonaws.com/photos/213738911/medium.jpg){height=300}](https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=321463)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

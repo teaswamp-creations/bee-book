@@ -1,0 +1,14 @@
+{
+  "hash": "3cd25723f929931312f1100e59a7857c",
+  "result": {
+    "markdown": "---\ntitle: Sphecodes clematidis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "35b761278a21ea880e80ebabeacf78de",
+  "result": {
+    "markdown": "---\ntitle: Andrena subtilis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Subtle miner bee)\n\n[![©️ E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis%20(3lateral).jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

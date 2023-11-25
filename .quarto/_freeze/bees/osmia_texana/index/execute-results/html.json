@@ -1,0 +1,14 @@
+{
+  "hash": "7f768da180a557b8238a31f8018b6881",
+  "result": {
+    "markdown": "---\ntitle: Osmia texana\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

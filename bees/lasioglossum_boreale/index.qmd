@@ -1,0 +1,10 @@
+---
+title: Lasioglossum boreale
+engine: knitr
+categories:
+  - Halictidae
+freeze: True
+---
+(Boreal sweat bee)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

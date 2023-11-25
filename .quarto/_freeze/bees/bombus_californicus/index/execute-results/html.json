@@ -1,0 +1,14 @@
+{
+  "hash": "f2983cdab76b8f31e35f1173f46a24a8",
+  "result": {
+    "markdown": "---\ntitle: Bombus californicus\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(California bumblebee)\n\n[![©️ Liz Osborn. 1682899200.](https://inaturalist-open-data.s3.amazonaws.com/photos/282337944/large.jpg){height=300}](https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=124420)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

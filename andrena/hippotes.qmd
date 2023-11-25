@@ -1,6 +1,0 @@
----
-title: Andrena hippotes
----
-(Orange-legged miner bee)
-
-[![`r emo::ji("copyright")` Chantel. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/171981980/medium.jpeg){height=300}](https://inaturalist.ca/photos/171981980)

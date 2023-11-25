@@ -1,0 +1,14 @@
+{
+  "hash": "3306ad34b5a5097e1a3e73dd8f629fa4",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum albipenne\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(White-winged sweat bee)\n\n[![©️ NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/134979380)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

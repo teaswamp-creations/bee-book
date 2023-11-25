@@ -1,0 +1,632 @@
+{
+  "about.qmd": {
+    "about.html": "e76f9e7f"
+  },
+  "gallery.qmd": {
+    "gallery.html": "7b1528cb"
+  },
+  "index.qmd": {
+    "index.html": "fed511cd"
+  },
+  "bees/test-bee/index.qmd": {
+    "index.html": "55668653"
+  },
+  "listing.qmd": {
+    "listing.html": "2ac4999c"
+  },
+  "bees/agapostemon_obliquus/index.qmd": {
+    "index.html": "c6532f80"
+  },
+  "bees/andrena_amphibola/index.qmd": {
+    "index.html": "7bf2b56f"
+  },
+  "bees/macropus_nuda/index.qmd": {
+    "index.html": "0bbe42f6"
+  },
+  "bees/andrena_angustitarsata/index.qmd": {
+    "index.html": "01023a6e"
+  },
+  "bees/andrena_astragali/index.qmd": {
+    "index.html": "495134e8"
+  },
+  "bees/andrena_auricoma/index.qmd": {
+    "index.html": "670d525d"
+  },
+  "bees/andrena_barbilabris/index.qmd": {
+    "index.html": "e7eb801d"
+  },
+  "bees/andrena_buckelli/index.qmd": {
+    "index.html": "f77c8079"
+  },
+  "bees/andrena_caerulea/index.qmd": {
+    "index.html": "98a2fa9f"
+  },
+  "bees/andrena_candida/index.qmd": {
+    "index.html": "b63e490d"
+  },
+  "bees/andrena_chlorura/index.qmd": {
+    "index.html": "81c1a962"
+  },
+  "bees/andrena_cleodora/index.qmd": {
+    "index.html": "951e3f17"
+  },
+  "bees/andrena_columbiana/index.qmd": {
+    "index.html": "98ba07cb"
+  },
+  "bees/andrena_crataegi/index.qmd": {
+    "index.html": "144be0aa"
+  },
+  "bees/andrena_cressonii/index.qmd": {
+    "index.html": "c2497097"
+  },
+  "bees/andrena_cupreotincta/index.qmd": {
+    "index.html": "9fc7f551"
+  },
+  "bees/andrena_cyanophila/index.qmd": {
+    "index.html": "fe73d49b"
+  },
+  "bees/andrena_erythrogaster/index.qmd": {
+    "index.html": "b143bed3"
+  },
+  "bees/andrena_excellens/index.qmd": {
+    "index.html": "2281c187"
+  },
+  "bees/andrena_forbesii/index.qmd": {
+    "index.html": "24f9d00c"
+  },
+  "bees/andrena_frigida/index.qmd": {
+    "index.html": "db96d384"
+  },
+  "bees/andrena_fulvicrista/index.qmd": {
+    "index.html": "fa013884"
+  },
+  "bees/andrena_hemileuca/index.qmd": {
+    "index.html": "f44abf9d"
+  },
+  "bees/andrena_hippotes/index.qmd": {
+    "index.html": "96173beb"
+  },
+  "bees/andrena_lillooetensis/index.qmd": {
+    "index.html": "a9e54857"
+  },
+  "bees/andrena_mariae/index.qmd": {
+    "index.html": "160701c0"
+  },
+  "bees/andrena_medionitens/index.qmd": {
+    "index.html": "db235f44"
+  },
+  "bees/andrena_melanchroa/index.qmd": {
+    "index.html": "aa7a704b"
+  },
+  "bees/andrena_milwaukeensis/index.qmd": {
+    "index.html": "73bf9a10"
+  },
+  "bees/andrena_miranda/index.qmd": {
+    "index.html": "70fa9836"
+  },
+  "bees/andrena_miserablis/index.qmd": {
+    "index.html": "2009179f"
+  },
+  "bees/agapostemon_texanus/index.qmd": {
+    "index.html": "272c951b"
+  },
+  "bees/andrena_nigrihirta/index.qmd": {
+    "index.html": "3a33af6d"
+  },
+  "bees/andrena_nigrocaerulea/index.qmd": {
+    "index.html": "aa78a640"
+  },
+  "bees/andrena_nivalis/index.qmd": {
+    "index.html": "7bb3aaeb"
+  },
+  "bees/andrena_perarmata/index.qmd": {
+    "index.html": "a8edff74"
+  },
+  "bees/andrena_perplexa/index.qmd": {
+    "index.html": "15ee72b8"
+  },
+  "bees/andrena_prunorum/index.qmd": {
+    "index.html": "653e92db"
+  },
+  "bees/andrena_rufosignata/index.qmd": {
+    "index.html": "cd6f0c5d"
+  },
+  "bees/andrena_saccata/index.qmd": {
+    "index.html": "f89a6a45"
+  },
+  "bees/andrena_salicifloris/index.qmd": {
+    "index.html": "529cbef8"
+  },
+  "bees/andrena_schuhi/index.qmd": {
+    "index.html": "8e9ee685"
+  },
+  "bees/andrena_scurra/index.qmd": {
+    "index.html": "cb0f2b49"
+  },
+  "bees/andrena_sigmundi/index.qmd": {
+    "index.html": "0246c498"
+  },
+  "bees/andrena_singularis/index.qmd": {
+    "index.html": "5c53d77e"
+  },
+  "bees/andrena_striatifrons/index.qmd": {
+    "index.html": "5ec9a7d8"
+  },
+  "bees/andrena_subaustralis/index.qmd": {
+    "index.html": "35ca2b20"
+  },
+  "bees/andrena_subtilis/index.qmd": {
+    "index.html": "54164c02"
+  },
+  "bees/andrena_thaspii/index.qmd": {
+    "index.html": "3294038e"
+  },
+  "bees/andrena_transnigra/index.qmd": {
+    "index.html": "17576fb6"
+  },
+  "bees/andrena_trevoris/index.qmd": {
+    "index.html": "a2cd9a5d"
+  },
+  "bees/andrena_vicina/index.qmd": {
+    "index.html": "6e2c5196"
+  },
+  "bees/andrena_vicinoides/index.qmd": {
+    "index.html": "5002d4f5"
+  },
+  "bees/andrena_vierecki/index.qmd": {
+    "index.html": "5f7f22f9"
+  },
+  "bees/andrena_w-scripta/index.qmd": {
+    "index.html": "0ce3b94a"
+  },
+  "bees/andrena_washingtoni/index.qmd": {
+    "index.html": "f4d7da3f"
+  },
+  "bees/anthidium_manicatum/index.qmd": {
+    "index.html": "aff7e6a3"
+  },
+  "bees/anthophora_bomboides/index.qmd": {
+    "index.html": "3d20bffa"
+  },
+  "bees/anthophora_occidentalis/index.qmd": {
+    "index.html": "4a9688df"
+  },
+  "bees/anthophora_porterae/index.qmd": {
+    "index.html": "ddf233e5"
+  },
+  "bees/anthophora_terminalis/index.qmd": {
+    "index.html": "46802b0e"
+  },
+  "bees/anthophora_urbana/index.qmd": {
+    "index.html": "a7439877"
+  },
+  "bees/apis_mellifera/index.qmd": {
+    "index.html": "ca2227ef"
+  },
+  "bees/bombus_appositus/index.qmd": {
+    "index.html": "3ff2dc20"
+  },
+  "bees/bombus_californicus/index.qmd": {
+    "index.html": "3c7e9a15"
+  },
+  "bees/bombus_calignosis/index.qmd": {
+    "index.html": "26934e32"
+  },
+  "bees/bombus_centralis/index.qmd": {
+    "index.html": "f96af5fe"
+  },
+  "bees/bombus_fervidus/index.qmd": {
+    "index.html": "c9cb9eb9"
+  },
+  "bees/bombus_flavidus/index.qmd": {
+    "index.html": "4330773b"
+  },
+  "bees/bombus_flavifrons/index.qmd": {
+    "index.html": "738dbf4d"
+  },
+  "bees/bombus_huntii/index.qmd": {
+    "index.html": "a865449d"
+  },
+  "bees/bombus_impatiens/index.qmd": {
+    "index.html": "119dcecc"
+  },
+  "bees/bombus_insularis/index.qmd": {
+    "index.html": "06135b97"
+  },
+  "bees/bombus_melanopygus/index.qmd": {
+    "index.html": "124a5618"
+  },
+  "bees/bombus_mixtus/index.qmd": {
+    "index.html": "7dbc7bff"
+  },
+  "bees/bombus_morrisoni/index.qmd": {
+    "index.html": "ec48128f"
+  },
+  "bees/bombus_neoboreus/index.qmd": {
+    "index.html": "66009be0"
+  },
+  "bees/bombus_nevadensis/index.qmd": {
+    "index.html": "f35ecca9"
+  },
+  "bees/bombus_occidentalis/index.qmd": {
+    "index.html": "825d0f22"
+  },
+  "bees/bombus_perplexus/index.qmd": {
+    "index.html": "9b407222"
+  },
+  "bees/bombus_rufocinctus/index.qmd": {
+    "index.html": "a9519304"
+  },
+  "bees/bombus_sitkensis/index.qmd": {
+    "index.html": "a3a4ba54"
+  },
+  "bees/bombus_suckleyi/index.qmd": {
+    "index.html": "68be115b"
+  },
+  "bees/bombus_sylvicola/index.qmd": {
+    "index.html": "f8c97123"
+  },
+  "bees/bombus_vagans/index.qmd": {
+    "index.html": "77775df5"
+  },
+  "bees/bombus_vancouverensis/index.qmd": {
+    "index.html": "ae84a696"
+  },
+  "bees/bombus_vosnesenskii/index.qmd": {
+    "index.html": "a8b06542"
+  },
+  "bees/ceratina_acantha/index.qmd": {
+    "index.html": "b2512cdd"
+  },
+  "bees/ceratina_nanula/index.qmd": {
+    "index.html": "b5e0c65c"
+  },
+  "bees/ceratina_pacifica/index.qmd": {
+    "index.html": "c8739e9d"
+  },
+  "bees/coelioxys_alternata/index.qmd": {
+    "index.html": "b05efce2"
+  },
+  "bees/coelioxys_apacheorum/index.qmd": {
+    "index.html": "d98bdd1e"
+  },
+  "bees/coelioxys_banksi/index.qmd": {
+    "index.html": "635d97af"
+  },
+  "bees/coelioxys_funeraria/index.qmd": {
+    "index.html": "93e6a67f"
+  },
+  "bees/coelioxys_grindeliae/index.qmd": {
+    "index.html": "027a57a8"
+  },
+  "bees/coelioxys_moesta/index.qmd": {
+    "index.html": "8bad0b02"
+  },
+  "bees/coelioxys_porterae/index.qmd": {
+    "index.html": "0e71193e"
+  },
+  "bees/coelioxys_rufitarsis/index.qmd": {
+    "index.html": "f157b26d"
+  },
+  "bees/coelioxys_sodalis/index.qmd": {
+    "index.html": "a79a1674"
+  },
+  "bees/colletes_fulgidus/index.qmd": {
+    "index.html": "7f1f63a6"
+  },
+  "bees/colletes_kincaidii/index.qmd": {
+    "index.html": "7e1e7a3d"
+  },
+  "bees/dianthidium_subparvum/index.qmd": {
+    "index.html": "de5171d6"
+  },
+  "bees/epoleus_minimus/index.qmd": {
+    "index.html": "6e988c03"
+  },
+  "bees/epoleus_olympiellus/index.qmd": {
+    "index.html": "9ed370f8"
+  },
+  "bees/eucera_actuosa/index.qmd": {
+    "index.html": "09b7d1ec"
+  },
+  "bees/eucera_frater_lata/index.qmd": {
+    "index.html": "eb7b8a60"
+  },
+  "bees/eucera_hirsutissima/index.qmd": {
+    "index.html": "65fc5139"
+  },
+  "bees/habropoda_cineraria/index.qmd": {
+    "index.html": "c5590817"
+  },
+  "bees/habropoda_miserabilis/index.qmd": {
+    "index.html": "28eafaa5"
+  },
+  "bees/halictus_confusus/index.qmd": {
+    "index.html": "754ca339"
+  },
+  "bees/halictus_rubicundus/index.qmd": {
+    "index.html": "5fb1a55f"
+  },
+  "bees/hoplitis_albifrons_argentifrons/index.qmd": {
+    "index.html": "07aaf581"
+  },
+  "bees/hoplitis_fulgida_fulgida/index.qmd": {
+    "index.html": "9bfae581"
+  },
+  "bees/hoplitis_hypocrita/index.qmd": {
+    "index.html": "9df2b772"
+  },
+  "bees/hoplitis_louisae/index.qmd": {
+    "index.html": "843aec8e"
+  },
+  "bees/hoplitis_producta_subgracilis/index.qmd": {
+    "index.html": "fd2b232a"
+  },
+  "bees/hoplitis_robusta_robusta/index.qmd": {
+    "index.html": "f4d87a0b"
+  },
+  "bees/hoplitis_sambuci/index.qmd": {
+    "index.html": "5ac71237"
+  },
+  "bees/hylaeus_annulatus/index.qmd": {
+    "index.html": "d2a22786"
+  },
+  "bees/hylaeus_basalis/index.qmd": {
+    "index.html": "2b423e58"
+  },
+  "bees/hylaeus_modestus_citrinifrons/index.qmd": {
+    "index.html": "b0a8a41a"
+  },
+  "bees/lasioglossum_albipenne/index.qmd": {
+    "index.html": "5c88cd06"
+  },
+  "bees/lasioglossum_albohirtum/index.qmd": {
+    "index.html": "9b24c345"
+  },
+  "bees/lasioglossum_anhypops/index.qmd": {
+    "index.html": "81643335"
+  },
+  "bees/lasioglossum_argemonis/index.qmd": {
+    "index.html": "f9defa74"
+  },
+  "bees/lasioglossum_boreale/index.qmd": {
+    "index.html": "be6d851e"
+  },
+  "bees/lasioglossum_brunneiventre/index.qmd": {
+    "index.html": "7aa639b9"
+  },
+  "bees/lasioglossum_cordleyi/index.qmd": {
+    "index.html": "18f057fb"
+  },
+  "bees/lasioglossum_cressonii/index.qmd": {
+    "index.html": "89e0ded4"
+  },
+  "bees/lasioglossum_diatretum/index.qmd": {
+    "index.html": "587bf4fa"
+  },
+  "bees/lasioglossum_egregium/index.qmd": {
+    "index.html": "abb62649"
+  },
+  "bees/lasioglossum_hyalinum/index.qmd": {
+    "index.html": "ece62278"
+  },
+  "bees/lasioglossum_incompletum/index.qmd": {
+    "index.html": "0363c1e6"
+  },
+  "bees/lasioglossum_inconditum/index.qmd": {
+    "index.html": "6c0d7be1"
+  },
+  "bees/lasioglossum_knereri/index.qmd": {
+    "index.html": "40f80641"
+  },
+  "bees/lasioglossum_macoupinense/index.qmd": {
+    "index.html": "95da6468"
+  },
+  "bees/lasioglossum_marinense/index.qmd": {
+    "index.html": "339fdc36"
+  },
+  "bees/lasioglossum_mellipes/index.qmd": {
+    "index.html": "846b82c8"
+  },
+  "bees/lasioglossum_nevadense/index.qmd": {
+    "index.html": "295e93fb"
+  },
+  "bees/lasioglossum_nigrum/index.qmd": {
+    "index.html": "4a6652b6"
+  },
+  "bees/lasioglossum_novascotiae/index.qmd": {
+    "index.html": "d5de06b4"
+  },
+  "bees/lasioglossum_olympiae/index.qmd": {
+    "index.html": "8d224f3b"
+  },
+  "bees/lasioglossum_ovaliceps/index.qmd": {
+    "index.html": "74365f7b"
+  },
+  "bees/lasioglossum_pacatum/index.qmd": {
+    "index.html": "c7c0c45c"
+  },
+  "bees/lasioglossum_pacificum/index.qmd": {
+    "index.html": "38f7e9cb"
+  },
+  "bees/lasioglossum_planatum/index.qmd": {
+    "index.html": "dba4234d"
+  },
+  "bees/lasioglossum_pruinosum/index.qmd": {
+    "index.html": "f3714e3b"
+  },
+  "bees/lasioglossum_quebecense/index.qmd": {
+    "index.html": "e4e16fd2"
+  },
+  "bees/lasioglossum_reasbeckae/index.qmd": {
+    "index.html": "bb473316"
+  },
+  "bees/lasioglossum_ruidosense/index.qmd": {
+    "index.html": "005b2c0a"
+  },
+  "bees/lasioglossum_sandhousiellum/index.qmd": {
+    "index.html": "a877851f"
+  },
+  "bees/lasioglossum_sisymbrii/index.qmd": {
+    "index.html": "1010dff3"
+  },
+  "bees/lasioglossum_subversans/index.qmd": {
+    "index.html": "4b6bab1d"
+  },
+  "bees/lasioglossum_yukonae/index.qmd": {
+    "index.html": "0b087fb1"
+  },
+  "bees/lasioglossum_zonulum/index.qmd": {
+    "index.html": "c00ba545"
+  },
+  "bees/megachile_angelarum/index.qmd": {
+    "index.html": "5cc236fb"
+  },
+  "bees/megachile_apicalis/index.qmd": {
+    "index.html": "faed2c63"
+  },
+  "bees/megachile_centuncularis/index.qmd": {
+    "index.html": "aaa34ed3"
+  },
+  "bees/megachile_fidelis/index.qmd": {
+    "index.html": "f706bd34"
+  },
+  "bees/megachile_frigida/index.qmd": {
+    "index.html": "8c507eb5"
+  },
+  "bees/megachile_gemula/index.qmd": {
+    "index.html": "f7bf0c5b"
+  },
+  "bees/megachile_gentilis/index.qmd": {
+    "index.html": "97557a01"
+  },
+  "bees/megachile_lapponica/index.qmd": {
+    "index.html": "58ea7e8d"
+  },
+  "bees/megachile_melanophaea/index.qmd": {
+    "index.html": "289bbeda"
+  },
+  "bees/megachile_montivaga/index.qmd": {
+    "index.html": "38b96006"
+  },
+  "bees/megachile_parallela/index.qmd": {
+    "index.html": "20202e20"
+  },
+  "bees/megachile_perihirta/index.qmd": {
+    "index.html": "43880098"
+  },
+  "bees/megachile_relativa/index.qmd": {
+    "index.html": "3bfea12e"
+  },
+  "bees/megachile_rotundata/index.qmd": {
+    "index.html": "37067791"
+  },
+  "bees/megachile_texana/index.qmd": {
+    "index.html": "49d0f563"
+  },
+  "bees/melecta_pacifica_fulvida/index.qmd": {
+    "index.html": "6cd56629"
+  },
+  "bees/melecta_pacifica_pacifica/index.qmd": {
+    "index.html": "5e365fad"
+  },
+  "bees/melissodes_microstictus/index.qmd": {
+    "index.html": "5b7cc999"
+  },
+  "bees/nomada_bella/index.qmd": {
+    "index.html": "1a424467"
+  },
+  "bees/nomada_citrina/index.qmd": {
+    "index.html": "e5a642ff"
+  },
+  "bees/nomada_crotchii/index.qmd": {
+    "index.html": "a5c365c3"
+  },
+  "bees/nomada_edwardsii/index.qmd": {
+    "index.html": "dce51260"
+  },
+  "bees/nomada_grayi/index.qmd": {
+    "index.html": "fd22f092"
+  },
+  "bees/nomada_perbella/index.qmd": {
+    "index.html": "e1c249e1"
+  },
+  "bees/nomada_rhodomelas/index.qmd": {
+    "index.html": "17af2d8f"
+  },
+  "bees/nomada_superba/index.qmd": {
+    "index.html": "5e0fc0c0"
+  },
+  "bees/nomada_ultima/index.qmd": {
+    "index.html": "906bd9bb"
+  },
+  "bees/osmia_albolateralis/index.qmd": {
+    "index.html": "ce4e74f6"
+  },
+  "bees/osmia_bella/index.qmd": {
+    "index.html": "51a1a491"
+  },
+  "bees/osmia_brevis/index.qmd": {
+    "index.html": "669e8dfb"
+  },
+  "bees/osmia_bucephala/index.qmd": {
+    "index.html": "ebead13a"
+  },
+  "bees/osmia_caerulescens_caerulescens/index.qmd": {
+    "index.html": "51b456e9"
+  },
+  "bees/osmia_densa_densa/index.qmd": {
+    "index.html": "097c41b1"
+  },
+  "bees/osmia_dolerosa/index.qmd": {
+    "index.html": "12b189da"
+  },
+  "bees/osmia_kincaidii/index.qmd": {
+    "index.html": "ce2006e9"
+  },
+  "bees/osmia_lignaria_propinqua/index.qmd": {
+    "index.html": "9f09b431"
+  },
+  "bees/osmia_mertensiae/index.qmd": {
+    "index.html": "d7107870"
+  },
+  "bees/osmia_nanula/index.qmd": {
+    "index.html": "3fbc3bd4"
+  },
+  "bees/osmia_nigriventris/index.qmd": {
+    "index.html": "1affd495"
+  },
+  "bees/osmia_nurbane/index.qmd": {
+    "index.html": "3ddf62d0"
+  },
+  "bees/osmia_proxima/index.qmd": {
+    "index.html": "66b371b3"
+  },
+  "bees/osmia_texana/index.qmd": {
+    "index.html": "6825c527"
+  },
+  "bees/osmia_tristella_tristella/index.qmd": {
+    "index.html": "aa3e8b17"
+  },
+  "bees/panurginus_ineptus/index.qmd": {
+    "index.html": "52b660d7"
+  },
+  "bees/perdita_nevadensis/index.qmd": {
+    "index.html": "bc07d04b"
+  },
+  "bees/sphecodes_arvensiformis/index.qmd": {
+    "index.html": "4c503ae6"
+  },
+  "bees/sphecodes_clematidis/index.qmd": {
+    "index.html": "feacd1af"
+  },
+  "bees/sphecodes_pecosensis/index.qmd": {
+    "index.html": "43a4b575"
+  },
+  "bees/stelis_ashmeadiellae/index.qmd": {
+    "index.html": "1644d899"
+  },
+  "bees/triepoleus_paenepectoralis/index.qmd": {
+    "index.html": "cb716946"
+  }
+}

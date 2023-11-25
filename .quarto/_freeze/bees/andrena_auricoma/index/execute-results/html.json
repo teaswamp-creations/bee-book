@@ -1,0 +1,14 @@
+{
+  "hash": "53aaca11acf02fc5edcb010b868d6432",
+  "result": {
+    "markdown": "---\ntitle: Andrena auricoma\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Golden-haired miner bee)\n\n[![©️ Parks Canada Growing Together Conservation and Restoration Project. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/134754453/medium.jpeg){height=300}](https://inaturalist.ca/observations/47320081)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

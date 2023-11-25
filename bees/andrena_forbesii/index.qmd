@@ -1,0 +1,10 @@
+---
+title: Andrena forbesii
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Forbe's mining bee)
+
+[![`r emo::ji("copyright")` msnider400. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg){height=300}](https://inaturalist.ca/observations/118391493)

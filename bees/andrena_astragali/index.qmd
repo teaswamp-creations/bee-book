@@ -1,0 +1,10 @@
+---
+title: Andrena astragali
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Death camas mining bee)
+
+[![`r emo::ji("copyright")` Andrew Simon. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/75041482/medium.jpg){height=300}](https://inaturalist.ca/observations/12374074)

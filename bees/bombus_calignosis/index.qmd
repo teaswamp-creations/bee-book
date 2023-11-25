@@ -1,0 +1,10 @@
+---
+title: Bombus calignosis
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Fog-belt bumblebee)
+
+[![`r emo::ji("copyright")` Ryan Shaw. 1659312000.](https://inaturalist-open-data.s3.amazonaws.com/photos/208748184/medium.jpeg){height=300}](https://inaturalist.ca/observations?place_id=46&subview=map&taxon_id=344228)

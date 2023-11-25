@@ -1,0 +1,10 @@
+---
+title: Andrena nivalis
+engine: knitr
+categories:
+  - Andrenidae
+freeze: True
+---
+(Snowy mining bee)
+
+[![`r emo::ji("copyright")` Chuck Williams. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169229984)

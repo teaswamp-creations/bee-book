@@ -1,0 +1,14 @@
+{
+  "hash": "507353e93f1452af467cdee32e4c033d",
+  "result": {
+    "markdown": "---\ntitle: Andrena barbilabris\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Long-lipped miner bee)\n\n[![©️ sydcannings. 2021.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}](https://inaturalist.ca/observations/82119162)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

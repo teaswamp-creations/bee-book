@@ -1,6 +1,0 @@
----
-title: Andrena milwaukeensis
----
-(Milwaukee mining bee)
-
-[![`r emo::ji("copyright")` NA. NA.](NA){height=300}](NA)

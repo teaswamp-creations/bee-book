@@ -1,0 +1,16 @@
+{
+  "hash": "79fd46115fcdd5ff56add4e4a3bdc4b4",
+  "result": {
+    "markdown": "---\ntitle: Andrena astragali\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Death camas mining bee)\n\n[![©️ Andrew Simon. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/75041482/medium.jpg){height=300}](https://inaturalist.ca/observations/12374074)\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

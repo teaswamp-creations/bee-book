@@ -1,0 +1,14 @@
+{
+  "hash": "ad0d2304ed62cfc639fc16b1e480e273",
+  "result": {
+    "markdown": "---\ntitle: Megachile gentilis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,10 @@
+---
+title: Coelioxys moesta
+engine: knitr
+categories:
+  - Megachilidae
+freeze: True
+---
+(NA)
+
+[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)

@@ -1,0 +1,10 @@
+---
+title: Bombus centralis
+engine: knitr
+categories:
+  - Apidae
+freeze: True
+---
+(Great basin bumblebee)
+
+[![`r emo::ji("copyright")` Blythe Nilson. 1656633600.](https://inaturalist-open-data.s3.amazonaws.com/photos/213738911/medium.jpg){height=300}](https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=321463)
