@@ -2,60 +2,98 @@
 title: "Pacific Maritime Big Book of Bees"
 ---
 
+```{r include = F}
+knitr::opts_chunk$set(echo = F, warning=F, message=F)
+
+library(plotly)
+library(tidyverse)
+library(googlesheets4)
+
+# spreadsheet data
+gs4_auth('galiwatch.info@gmail.com')
+df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') 
+
+# gbif data
+gbif <- read_delim("files/0004981-231120084113126.csv", delim='\t') %>%
+  mutate(date = ymd(date(eventDate)), Year = year(date),
+         Month = lubridate::month(date, label=T),
+         lat=decimalLatitude, lon=decimalLongitude) %>%
+  drop_na(date, lat, lon, genus, occurrenceID) %>%
+  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge')
+```
+
 Big Book of Bees!  
 
 This book features annotations of bees of the PNW. Images have been collected from [iNaturalist](https://www.inaturalist.org/), and special thanks to [Spencer Collection](https://www.zoology.ubc.ca/entomology/) for allowing us to reproduce their specimen images as references for this book
 
 How to use: 
 
-* Look up your favourite bees in the gallery
-* Compare with your own observations to help identify species
+* Look up your favourite species in the gallery
+* Compare with your own observations to help identify beess
 * Click any image to be taken to the database source
 
 Bees are organized by genus. 
 
-# Last seen
+# Data Completeness
+
+Bee book gallery shows two pieces of info per species page: 
+1. bee image (curated by KQ)
+2. observation map (pulled from GBIF)
+
+Page completeness is as follows:
+
+```{r}
+upset_list = list(`Has GBIF map` = unique(gbif$Species),
+                  `In bee gallery` = unique(df$Species), 
+                  `Has image` =unique(df$Species[!is.na(df$`Image link`)])
+)
+
+UpSetR::upset(UpSetR::fromList(upset_list))
+
+```
+
+# GBIF data
 
 This map shows the 10 most recent observations on [GBIF](https://www.gbif.org/) for family Apidae. [Downloaded Nov 23 2023](https://doi.org/10.15468/dl.8bqmte). 
 
 Double click any genus to isolate it on the map. 
 
 
-```{r, message=F, warning=F, echo=F}
-library(tidyverse)
-library(plotly)
-
-df <- read_delim("files/0004981-231120084113126.csv", delim='\t') %>%
-  mutate(date = ymd(date(eventDate)), Year = year(date),
-         Month = lubridate::month(date, label=T),
-         lat=decimalLatitude, lon=decimalLongitude) %>%
-  drop_na(date, lat, lon, genus, occurrenceID) %>%
-  mutate(genus = factor(genus))
-
-```
-
-```{r, message=F, warning=F, echo=F}
-df %>%
-  group_by(genus) %>%
-  slice(tail(row_number(), 10)) %>%
-  ungroup() %>%
-  #complete(Year, genus) %>%
+```{r, include=F}
+gbif %>%
+  filter(!is.na(Species))%>%
+  mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
+  mutate(Year = ordered(Year, levels = c('Before 2015', 2015:2023))) %>%
+  complete(Year, Genus) %>%
   plot_ly() %>%
   add_trace(
     lat = ~lat, lon =~lon,
     mode = 'markers', type = 'scattermapbox',
-    #frame=~genus,
-    color = ~Year,
-    text = ~paste('Species: ', species, '\nObserved: ', stamp("March 1, 1999")(date)),
-    split = ~genus,
-    size=10, 
-    colorbar=list(x = 0.25, y=0.5)
+    frame=~Year,
+    color = ~Genus,
+    text = ~paste('Species:', Genus, Species, '\nObserved:', stamp("March 1, 1999")(date)),
+    size=10,
+    colors='Paired'
   ) %>%
   layout(mapbox = list(
     style = 'carto-positron', show_legend = T,
     #zoom=7, center = list(lon = -123, lat = 49)))
-    zoom=3.6, center = list(lon = -127, lat = 50)),
-    title = 'Last seen: 10 most recent observations of each Apidae genus') 
+    zoom=3.8, center = list(lon = -127, lat = 55)),
+    title = 'GBIF observations') 
+
+```
+
+```{r}
+gbif %>%
+  filter(!is.na(Species)) %>%
+  group_by(Genus) %>% 
+  summarize(n=n()) %>%
+  ggplot(aes(x = reorder(Genus, n), y = n)) + 
+  geom_bar(sta='identity') +
+  ggpubr::theme_pubr() +
+  coord_flip() + 
+  ggpubr::yscale("log10", .format = TRUE) + 
+  labs(x = 'Genus', y = 'Number of Observations')
 
 ```
 
@@ -74,11 +112,9 @@ When available, species information will be displayed with the following priorit
 
 The Pacific Maritime has 53 documented species of Andrena.
 
-```{r, message=F, warning=F, echo=F}
-df <- tibble(source=c('Verified iNat - PM', 'Verified iNat - other', 'Spencer collection', 'Shefield and Heron List'), n = c(12, 12, 18, 11))
-
-df %>%
-  ggplot(aes(x=source, y=n, fill=source)) + 
+```{r}
+tibble(source=c('Verified iNat - PM', 'Verified iNat - other', 'Spencer collection', 'Shefield and Heron List'), n = c(12, 12, 18, 11)) %>%
+  ggplot(aes(x=reorder(source,n), y=n, fill=source)) + 
   geom_bar(stat='identity', show.legend = F) + 
   ggpubr::theme_pubr() + 
   coord_flip() + 
