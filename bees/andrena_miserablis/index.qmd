@@ -1,10 +1,11 @@
 ---
 title: Andrena miserablis
+subtite: Miserable mining bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Miserable mining bee)
-
 [![`r emo::ji("copyright")` T.B.. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73887454)
+
+No GBIF data to display

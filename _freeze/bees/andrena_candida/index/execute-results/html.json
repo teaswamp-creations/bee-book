@@ -1,8 +1,10 @@
 {
-  "hash": "863767c53ae6abaa05df75b8dbf4ab7f",
+  "hash": "bc20d4a1356fc24a226c5456988f4687",
   "result": {
-    "markdown": "---\ntitle: Andrena candida\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Bright miner)\n\n[![©️ S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena candida\nsubtite: Bright miner\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

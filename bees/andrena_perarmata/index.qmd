@@ -1,10 +1,11 @@
 ---
 title: Andrena perarmata
+subtite: Large-toothed miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Large-toothed miner bee)
-
 [![`r emo::ji("copyright")` E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg)
+
+No GBIF data to display

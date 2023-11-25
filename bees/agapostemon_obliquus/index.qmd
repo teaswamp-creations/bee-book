@@ -1,10 +1,11 @@
 ---
 title: Agapostemon obliquus
+subtite: Oblique sweat bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Oblique sweat bee)
-
 [![`r emo::ji("copyright")` Sam Hough. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/65037673)
+
+No GBIF data to display

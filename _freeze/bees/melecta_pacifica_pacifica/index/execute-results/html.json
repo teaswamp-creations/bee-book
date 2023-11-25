@@ -1,8 +1,10 @@
 {
-  "hash": "c0657fc2c99b07c2ae0ff9379a5f4d7d",
+  "hash": "8dd2b5b6da9f57d551a9ddaa6f0a50d1",
   "result": {
-    "markdown": "---\ntitle: Melecta pacifica pacifica\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Melecta pacifica pacifica\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

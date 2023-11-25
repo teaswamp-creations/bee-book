@@ -1,8 +1,10 @@
 {
-  "hash": "32aeb885de2c856c60cc702fb8b35f95",
+  "hash": "ec479483d228d24f4e4fdf445762796e",
   "result": {
-    "markdown": "---\ntitle: Coelioxys grindeliae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Coelioxys grindeliae\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

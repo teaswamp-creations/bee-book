@@ -1,8 +1,10 @@
 {
-  "hash": "a264ff376591b0c104ae64c50c3debec",
+  "hash": "82b8eb129645fbdcadbc913224b2781d",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum diatretum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Reticulated sweat bee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum diatretum\nsubtite: Reticulated sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,10 +1,11 @@
 ---
 title: Halictus confusus
+subtite: Confusing furrow bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Confusing furrow bee)
-
 [![`r emo::ji("copyright")` NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/119366107)
+
+No GBIF data to display

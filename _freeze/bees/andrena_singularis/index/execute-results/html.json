@@ -1,8 +1,10 @@
 {
-  "hash": "865f490af165689bfdb7ba877ef2ed81",
+  "hash": "f448a75f626d14ba1c5a37d193673e13",
   "result": {
-    "markdown": "---\ntitle: Andrena singularis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena singularis)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena singularis\nsubtite: Andrena singularis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

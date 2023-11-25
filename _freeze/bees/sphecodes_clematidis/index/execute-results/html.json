@@ -1,8 +1,10 @@
 {
-  "hash": "3cd25723f929931312f1100e59a7857c",
+  "hash": "81d85270033680b536d2ec90678dbaf5",
   "result": {
-    "markdown": "---\ntitle: Sphecodes clematidis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Sphecodes clematidis\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,8 +1,10 @@
 {
-  "hash": "370e510ab4c91304271dd618fa13df97",
+  "hash": "aa8cc2dad2303b91963d65292e89327b",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum incompletum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Incomplete sweat bee)\n\n[![©️ NA. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/141379882)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum incompletum\nsubtite: Incomplete sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/141379882)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

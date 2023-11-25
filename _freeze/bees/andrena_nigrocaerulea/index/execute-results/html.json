@@ -1,8 +1,10 @@
 {
-  "hash": "d5539738d960927a34d7af122b532818",
+  "hash": "89e82e43ed5f163e67608f2e26481a99",
   "result": {
-    "markdown": "---\ntitle: Andrena nigrocaerulea\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Blue-and-back mining bee)\n\n[![©️ Tamara Schwarz. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/158278461)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena nigrocaerulea\nsubtite: Blue-and-back mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Tamara Schwarz. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/158278461)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

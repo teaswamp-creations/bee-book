@@ -1,8 +1,10 @@
 {
-  "hash": "3ec0d52601defd47ed6b1575e2ef66aa",
+  "hash": "40fbb161b09a16855751be3e89c5860d",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum nigrum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Black sweat bee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum nigrum\nsubtite: Black sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

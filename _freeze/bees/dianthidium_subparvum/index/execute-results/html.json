@@ -1,8 +1,10 @@
 {
-  "hash": "7b9215d4d5c2072e5a2de4ce67109bc4",
+  "hash": "1881d263b0c9b4a62876c869f5aa7087",
   "result": {
-    "markdown": "---\ntitle: Dianthidium subparvum\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Dianthidium subparvum\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

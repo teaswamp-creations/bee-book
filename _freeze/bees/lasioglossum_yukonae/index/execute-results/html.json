@@ -1,8 +1,10 @@
 {
-  "hash": "6c541b30412383fa2f02e0f5a1086abc",
+  "hash": "880ac86f524539215e260e644c36b9c5",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum yukonae\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum yukonae\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

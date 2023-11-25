@@ -1,8 +1,10 @@
 {
-  "hash": "60f627e36e363e267f05cc7a2c4168f9",
+  "hash": "37346a3be0faa167c1bb071b1fe8af61",
   "result": {
-    "markdown": "---\ntitle: Hylaeus modestus citrinifrons\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Hylaeus modestus citrinifrons\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

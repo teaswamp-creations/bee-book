@@ -1,10 +1,11 @@
 ---
 title: Andrena cressonii
+subtite: Dotted miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Dotted miner bee)
-
 [![`r emo::ji("copyright")` E.R. Buckell. 1929.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cressonii%20male%20(3lateral).jpg)
+
+No GBIF data to display

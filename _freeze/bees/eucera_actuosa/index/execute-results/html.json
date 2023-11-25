@@ -1,8 +1,10 @@
 {
-  "hash": "33ea9a895d71fa1994aea686f13b0bf8",
+  "hash": "ae7d7dce952f130bb11105eae481601f",
   "result": {
-    "markdown": "---\ntitle: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Eucera actuosa\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

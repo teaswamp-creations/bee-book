@@ -1,7 +1,7 @@
 {
-  "hash": "f38653e66f2d2d86b7b8fc2f7b114f5b",
+  "hash": "b396a0c4820883bfcfac70ce2eacb912",
   "result": {
-    "markdown": "---\ntitle: Megachile gemula\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
+    "markdown": "---\ntitle: Megachile gemula\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

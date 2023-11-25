@@ -1,10 +1,11 @@
 ---
 title: Lasioglossum subversans
+subtite: NA
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(NA)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+No GBIF data to display

@@ -1,8 +1,10 @@
 {
-  "hash": "6dc5b4219f616ea5a438c05e7ed81d24",
+  "hash": "0a01d5c917b0578a88dfb08387f4c25d",
   "result": {
-    "markdown": "---\ntitle: Megachile texana\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Megachile texana\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

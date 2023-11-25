@@ -1,8 +1,10 @@
 {
-  "hash": "cc32610dcf5a1e17f722a2bd96194c2d",
+  "hash": "217cd4c4b82a7bcda276d4ca17410957",
   "result": {
-    "markdown": "---\ntitle: Megachile angelarum\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Megachile angelarum\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

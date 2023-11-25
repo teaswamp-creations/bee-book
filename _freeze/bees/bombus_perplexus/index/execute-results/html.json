@@ -1,8 +1,10 @@
 {
-  "hash": "2c8dca329b20c909f01b5aef38aa9c05",
+  "hash": "baa11cc24a3ab97eaba8515ca1deb409",
   "result": {
-    "markdown": "---\ntitle: Bombus perplexus\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(Perplexing bumblebee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Bombus perplexus\nsubtite: Perplexing bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

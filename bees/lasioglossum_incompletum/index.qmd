@@ -1,10 +1,11 @@
 ---
 title: Lasioglossum incompletum
+subtite: Incomplete sweat bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Incomplete sweat bee)
-
 [![`r emo::ji("copyright")` NA. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/141379882)
+
+No GBIF data to display

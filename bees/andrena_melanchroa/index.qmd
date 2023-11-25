@@ -1,10 +1,11 @@
 ---
 title: Andrena melanchroa
+subtite: Rose miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Rose miner bee)
-
 [![`r emo::ji("copyright")` Max McCarthy. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/118931071)
+
+No GBIF data to display

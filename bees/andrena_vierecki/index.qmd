@@ -1,10 +1,11 @@
 ---
 title: Andrena vierecki
+subtite: Andrena vierecki
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Andrena vierecki)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+No GBIF data to display

@@ -1,10 +1,11 @@
 ---
 title: Lasioglossum egregium
+subtite: Distinguished sweat bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Distinguished sweat bee)
-
 [![`r emo::ji("copyright")` Grahame Gielens. 2009.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium%20female%20(3lateral)%20.jpg)
+
+No GBIF data to display

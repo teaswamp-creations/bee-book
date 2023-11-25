@@ -1,8 +1,10 @@
 {
-  "hash": "19ef276e7f9b50c542dd6dff2ed72d00",
+  "hash": "55f77a39188dd2ac17976c6f853251c3",
   "result": {
-    "markdown": "---\ntitle: Andrena cleodora\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Shiny-blue sculptured miner bee)\n\n[![©️ S.G. Cannings. 1988.](https://inaturalist-open-data.s3.amazonaws.com/photos/90328827/medium.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena cleodora\nsubtite: Shiny-blue sculptured miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ S.G. Cannings. 1988.](https://inaturalist-open-data.s3.amazonaws.com/photos/90328827/medium.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

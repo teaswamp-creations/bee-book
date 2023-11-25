@@ -1,8 +1,10 @@
 {
-  "hash": "31d67c2aeb12ed150ca0e7a4950e1c87",
+  "hash": "764177182318847a44a3473b94fa5b58",
   "result": {
-    "markdown": "---\ntitle: Melecta pacifica fulvida\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Melecta pacifica fulvida\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,8 +1,10 @@
 {
-  "hash": "6b23cb9b442a64befad636b389a199a5",
+  "hash": "dbe99cce9a71fa9ef0eb5df008376745",
   "result": {
-    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

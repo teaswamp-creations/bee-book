@@ -1,8 +1,10 @@
 {
-  "hash": "8e3e6adbbf85e4ab5d52a27372ea566e",
+  "hash": "261b00d579bb4b9d68f8b8c2aaa05145",
   "result": {
-    "markdown": "---\ntitle: Andrena fulvicrista\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena fulvicrista)\n\n[![©️ NA. NULL.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena fulvicrista\nsubtite: Andrena fulvicrista\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

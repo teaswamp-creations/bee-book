@@ -1,8 +1,10 @@
 {
-  "hash": "28a105efd6d7eb0b9caea62951a34e10",
+  "hash": "c32a3552cf0c14dae64717bcdc75bac5",
   "result": {
-    "markdown": "---\ntitle: Megachile frigida\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Megachile frigida\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

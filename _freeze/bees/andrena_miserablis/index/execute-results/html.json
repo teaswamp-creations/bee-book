@@ -1,8 +1,10 @@
 {
-  "hash": "163f35167f470845e8b37697cc331c86",
+  "hash": "e320fe749bb066d6bc34e07043793cea",
   "result": {
-    "markdown": "---\ntitle: Andrena miserablis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Miserable mining bee)\n\n[![©️ T.B.. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73887454)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena miserablis\nsubtite: Miserable mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ T.B.. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73887454)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,10 +1,11 @@
 ---
 title: Bombus neoboreus
+subtite: Active bumblebee
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(Active bumblebee)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+No GBIF data to display

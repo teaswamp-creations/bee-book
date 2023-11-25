@@ -1,10 +1,11 @@
 ---
 title: Andrena thaspii
+subtite: Meadow parsnip miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Meadow parsnip miner bee)
-
 [![`r emo::ji("copyright")` Bernie Paquette. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169218633)
+
+No GBIF data to display

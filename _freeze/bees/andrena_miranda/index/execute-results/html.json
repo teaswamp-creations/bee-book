@@ -1,8 +1,10 @@
 {
-  "hash": "89caccabaf3df6d418c60a0621816f35",
+  "hash": "740c2efb7ebb67ddaa88e972bae593ab",
   "result": {
-    "markdown": "---\ntitle: Andrena miranda\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Singular miner bee)\n\n[![©️ rsealy. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/47634544)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena miranda\nsubtite: Singular miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ rsealy. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/47634544)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

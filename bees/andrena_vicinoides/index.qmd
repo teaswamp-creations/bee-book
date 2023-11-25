@@ -1,10 +1,11 @@
 ---
 title: Andrena vicinoides
+subtite: Victoria miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Victoria miner bee)
-
 [![`r emo::ji("copyright")` E. Krebs & J.J. Robinson. 1985.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20vicinoides%20(3lateral).jpg)
+
+No GBIF data to display

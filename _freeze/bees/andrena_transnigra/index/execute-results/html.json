@@ -1,8 +1,10 @@
 {
-  "hash": "896e20400a0e520fc47be01370d7e929",
+  "hash": "6e5fb754c538bdae14f7c90b68298b76",
   "result": {
-    "markdown": "---\ntitle: Andrena transnigra\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Black-banded mining bee)\n\n[![©️ Ume Hermanski. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/74647139)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena transnigra\nsubtite: Black-banded mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Ume Hermanski. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/74647139)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

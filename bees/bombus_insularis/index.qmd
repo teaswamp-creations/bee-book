@@ -1,10 +1,14 @@
 ---
 title: Bombus insularis
+subtite: Indiscriminate Cuckoo Bumblebee
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(Indiscriminate Cuckoo Bumblebee)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("insularis")
+```

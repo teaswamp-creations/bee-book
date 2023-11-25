@@ -1,8 +1,10 @@
 {
-  "hash": "a31f9579772d4adad3b2f5e825f3a72a",
+  "hash": "9a6c7ef855b01d035a3abaad94f05b84",
   "result": {
-    "markdown": "---\ntitle: Panurginus ineptus\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Inept miner bee)\n\n[![©️ Jukka Jantunen. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/91927558)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Panurginus ineptus\nsubtite: Inept miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Jukka Jantunen. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/91927558)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

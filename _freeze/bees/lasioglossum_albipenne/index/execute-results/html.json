@@ -1,8 +1,10 @@
 {
-  "hash": "3306ad34b5a5097e1a3e73dd8f629fa4",
+  "hash": "5e9c0ae2f7692584e4b2a7b881f4cc8a",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum albipenne\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(White-winged sweat bee)\n\n[![©️ NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/134979380)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum albipenne\nsubtite: White-winged sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/134979380)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

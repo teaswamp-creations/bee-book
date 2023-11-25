@@ -1,10 +1,11 @@
 ---
 title: Andrena miranda
+subtite: Singular miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Singular miner bee)
-
 [![`r emo::ji("copyright")` rsealy. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/47634544)
+
+No GBIF data to display

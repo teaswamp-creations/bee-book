@@ -1,10 +1,11 @@
 ---
 title: Andrena crataegi
+subtite: Hawthorn miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Hawthorn miner bee)
-
 [![`r emo::ji("copyright")` Bettina Harvey. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121186330)
+
+No GBIF data to display

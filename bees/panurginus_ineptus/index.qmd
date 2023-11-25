@@ -1,10 +1,11 @@
 ---
 title: Panurginus ineptus
+subtite: Inept miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Inept miner bee)
-
 [![`r emo::ji("copyright")` Jukka Jantunen. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/91927558)
+
+No GBIF data to display

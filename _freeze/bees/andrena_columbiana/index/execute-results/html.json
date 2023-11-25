@@ -1,8 +1,10 @@
 {
-  "hash": "ccccd1994e6af3a169a701d15d63c8f8",
+  "hash": "a57bd072bd9a7aeb07cb8d082dc50ab4",
   "result": {
-    "markdown": "---\ntitle: Andrena columbiana\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(British Columbia moner bee)\n\n[![©️ Gwen L'Hirondelle. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/204553269/medium.jpg){height=300}](https://inaturalist.ca/observations/131938774)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena columbiana\nsubtite: British Columbia moner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Gwen L'Hirondelle. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/204553269/medium.jpg){height=300}](https://inaturalist.ca/observations/131938774)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

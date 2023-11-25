@@ -1,10 +1,11 @@
 ---
 title: Andrena fulvicrista
+subtite: Andrena fulvicrista
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Andrena fulvicrista)
-
 [![`r emo::ji("copyright")` NA. NULL.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg){height=300}](NA)
+
+No GBIF data to display

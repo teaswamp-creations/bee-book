@@ -1,10 +1,11 @@
 ---
 title: Andrena prunorum
+subtite: Prunus miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Prunus miner bee)
-
 [![`r emo::ji("copyright")` Lisa Hill. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/183600367)
+
+No GBIF data to display

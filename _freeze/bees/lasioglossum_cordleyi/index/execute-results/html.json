@@ -1,8 +1,10 @@
 {
-  "hash": "f15fb94d72b2cfe02f5d8f82f6274d0f",
+  "hash": "e5755e8a0b771265c0a2daa10565a659",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum cordleyi\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Lasioglossum cordleyi)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum cordleyi\nsubtite: Lasioglossum cordleyi\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

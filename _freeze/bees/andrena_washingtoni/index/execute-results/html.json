@@ -1,8 +1,10 @@
 {
-  "hash": "771b73a1516a67dcb57984fb8531bcbb",
+  "hash": "e35a6c8249b85357d4d040b693276ebb",
   "result": {
-    "markdown": "---\ntitle: Andrena washingtoni\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Washington miner bee)\n\n[![©️ L.W. Cockle. 1906.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena washingtoni\nsubtite: Washington miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ L.W. Cockle. 1906.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,8 +1,10 @@
 {
-  "hash": "89ff5b56e1eb4a228e9e2634f801a4e5",
+  "hash": "b401dac51a609f57e81a0ce450843327",
   "result": {
-    "markdown": "---\ntitle: Halictus rubicundus\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Orange-legged furrow bee)\n\n[![©️ NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/178114757)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Halictus rubicundus\nsubtite: Orange-legged furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/178114757)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

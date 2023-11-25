@@ -1,10 +1,14 @@
 ---
 title: Bombus flavidus
+subtite: Yellowish cuckoo bumblebee
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(Yellowish cuckoo bumblebee)
-
 [![`r emo::ji("copyright")` Gwen L'Hirondelle. 1661990400.](https://inaturalist-open-data.s3.amazonaws.com/photos/255612697/medium.jpeg){height=300}](https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=541839)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("flavidus")
+```

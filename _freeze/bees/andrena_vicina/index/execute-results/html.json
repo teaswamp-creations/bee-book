@@ -1,8 +1,10 @@
 {
-  "hash": "8c4b2f067c5a9021db74a1e4d56f3d34",
+  "hash": "37478d081ed319072e132015858c6a78",
   "result": {
-    "markdown": "---\ntitle: Andrena vicina\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Neighbourly mining bee)\n\n[![©️ Lee Larkin. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121097182)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena vicina\nsubtite: Neighbourly mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Lee Larkin. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121097182)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

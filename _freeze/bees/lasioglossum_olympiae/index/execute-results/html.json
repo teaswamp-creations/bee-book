@@ -1,8 +1,10 @@
 {
-  "hash": "b0bbb3d0698693587b12ca110e4e55b5",
+  "hash": "40f5a14f8953ca0c13e607675acda77a",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum olympiae\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum olympiae\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,8 +1,10 @@
 {
-  "hash": "409d830108b021f63b93d46660e5f160",
+  "hash": "eab4324c558f71932c06ac6cdd873712",
   "result": {
-    "markdown": "---\ntitle: Andrena prunorum\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Prunus miner bee)\n\n[![©️ Lisa Hill. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/183600367)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena prunorum\nsubtite: Prunus miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Lisa Hill. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/183600367)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

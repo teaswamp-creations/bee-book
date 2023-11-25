@@ -1,10 +1,11 @@
 ---
 title: Andrena barbilabris
+subtite: Long-lipped miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Long-lipped miner bee)
-
 [![`r emo::ji("copyright")` sydcannings. 2021.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}](https://inaturalist.ca/observations/82119162)
+
+No GBIF data to display

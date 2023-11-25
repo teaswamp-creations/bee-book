@@ -1,8 +1,10 @@
 {
-  "hash": "2e8bf52b7960c5d3477e85fde5a2b061",
+  "hash": "d270b8d995ec694cd8f4a11469f733f8",
   "result": {
-    "markdown": "---\ntitle: Andrena saccata\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Shifty miner bee)\n\n[![©️ E. Elle. 2005.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20saccata%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena saccata\nsubtite: Shifty miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E. Elle. 2005.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20saccata%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

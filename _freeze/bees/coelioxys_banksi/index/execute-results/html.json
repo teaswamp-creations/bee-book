@@ -1,8 +1,10 @@
 {
-  "hash": "c57021c09ef6fce9a27e11af8486e5ee",
+  "hash": "beb81957147f7ec966917ac5c985469a",
   "result": {
-    "markdown": "---\ntitle: Coelioxys banksi\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Coelioxys banksi\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

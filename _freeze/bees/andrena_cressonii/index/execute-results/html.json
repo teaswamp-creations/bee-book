@@ -1,8 +1,10 @@
 {
-  "hash": "9f1050788852b25484763e42237a98ad",
+  "hash": "c265ccfa513be8d5166f12071d817bc7",
   "result": {
-    "markdown": "---\ntitle: Andrena cressonii\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Dotted miner bee)\n\n[![©️ E.R. Buckell. 1929.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cressonii%20male%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena cressonii\nsubtite: Dotted miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E.R. Buckell. 1929.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cressonii%20male%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

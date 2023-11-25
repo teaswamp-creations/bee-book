@@ -1,8 +1,10 @@
 {
-  "hash": "e3d475b09e17a4a1ad7494974100a89a",
+  "hash": "3330fdaa218dd17b9625d2af18528265",
   "result": {
-    "markdown": "---\ntitle: Agapostemon obliquus\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Oblique sweat bee)\n\n[![©️ Sam Hough. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/65037673)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Agapostemon obliquus\nsubtite: Oblique sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Sam Hough. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/65037673)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

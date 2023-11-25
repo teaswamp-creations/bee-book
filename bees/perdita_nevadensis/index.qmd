@@ -1,10 +1,14 @@
 ---
 title: Perdita nevadensis
+subtite: Nevada miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Nevada miner bee)
-
 [![`r emo::ji("copyright")` Bob McDougall. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/168516640)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("nevadensis")
+```

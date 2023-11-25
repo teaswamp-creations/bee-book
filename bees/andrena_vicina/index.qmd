@@ -1,10 +1,11 @@
 ---
 title: Andrena vicina
+subtite: Neighbourly mining bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Neighbourly mining bee)
-
 [![`r emo::ji("copyright")` Lee Larkin. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121097182)
+
+No GBIF data to display

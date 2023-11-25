@@ -1,8 +1,10 @@
 {
-  "hash": "015660db9bce65d5a3bef55b593f3331",
+  "hash": "1a5c06c720fed64def86be0f0acb68e4",
   "result": {
-    "markdown": "---\ntitle: Andrena salicifloris\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Willow flower miner bee)\n\n[![©️ T. Jones. 2008.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20salicifloris%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena salicifloris\nsubtite: Willow flower miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ T. Jones. 2008.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20salicifloris%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

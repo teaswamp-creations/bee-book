@@ -1,10 +1,11 @@
 ---
 title: Lasioglossum hyalinum
+subtite: Hyaline sweat bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Hyaline sweat bee)
-
 [![`r emo::ji("copyright")` G.G.E. Scudder. 1982.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20hyalinum%20female%20(3lateral).jpg)
+
+No GBIF data to display

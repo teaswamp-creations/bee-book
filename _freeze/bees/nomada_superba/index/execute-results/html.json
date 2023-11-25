@@ -1,8 +1,10 @@
 {
-  "hash": "86694bbd09e5668a928775e024e1507e",
+  "hash": "c61e35bd0810ea001c44ef93be9c5461",
   "result": {
-    "markdown": "---\ntitle: Nomada superba\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Nomada superba\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

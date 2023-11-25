@@ -1,10 +1,11 @@
 ---
 title: Andrena cleodora
+subtite: Shiny-blue sculptured miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Shiny-blue sculptured miner bee)
-
 [![`r emo::ji("copyright")` S.G. Cannings. 1988.](https://inaturalist-open-data.s3.amazonaws.com/photos/90328827/medium.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg)
+
+No GBIF data to display

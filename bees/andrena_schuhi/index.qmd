@@ -1,10 +1,11 @@
 ---
 title: Andrena schuhi
+subtite: Andrena schuhi
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Andrena schuhi)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+No GBIF data to display

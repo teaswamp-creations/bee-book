@@ -1,10 +1,14 @@
 ---
 title: Anthophora bomboides
+subtite: NA
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(NA)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("bomboides")
+```

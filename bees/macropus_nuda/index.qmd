@@ -1,10 +1,11 @@
 ---
 title: Macropus nuda
+subtite: Dark-legged yellow loosestrife bee
 engine: knitr
 categories:
   - Melittidae
-freeze: True
+freeze: auto
 ---
-(Dark-legged yellow loosestrife bee)
-
 [![`r emo::ji("copyright")` rwr. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/80881550/medium.jpeg){height=300}](https://inaturalist.ca/observations/84381498)
+
+No GBIF data to display

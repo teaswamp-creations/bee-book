@@ -1,10 +1,11 @@
 ---
 title: Andrena frigida
+subtite: Frigid mining bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Frigid mining bee)
-
 [![`r emo::ji("copyright")` Eric Habisch. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73178805)
+
+No GBIF data to display

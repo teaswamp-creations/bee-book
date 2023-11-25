@@ -1,8 +1,10 @@
 {
-  "hash": "4ad091db975946d9e92497c9907584da",
+  "hash": "d050cc2fadb44f8b089b11a81d474340",
   "result": {
-    "markdown": "---\ntitle: Nomada rhodomelas\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Nomada rhodomelas\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

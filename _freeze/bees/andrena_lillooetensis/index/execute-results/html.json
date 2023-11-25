@@ -1,8 +1,10 @@
 {
-  "hash": "af62a43088b659a14d1861cfbd956823",
+  "hash": "c3f36154e7f3fa07ec0ae2505b810bc8",
   "result": {
-    "markdown": "---\ntitle: Andrena lillooetensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena lillooetensis)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena lillooetensis\nsubtite: Andrena lillooetensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

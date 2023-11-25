@@ -1,10 +1,11 @@
 ---
 title: Lasioglossum albohirtum
+subtite: Lasioglossum albohirtum
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Lasioglossum albohirtum)
-
 [![`r emo::ji("copyright")` NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/160434746)
+
+No GBIF data to display

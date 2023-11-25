@@ -1,8 +1,10 @@
 {
-  "hash": "17b53a8fed97bc70cddcd58e5b3a5f78",
+  "hash": "507741ac71b2fe60dc63ac3ef06ab47b",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum boreale\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Boreal sweat bee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum boreale\nsubtite: Boreal sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,8 +1,10 @@
 {
-  "hash": "34a0d3bb71e49524a7fe984ee53361be",
+  "hash": "0537e74807216fb83f45bb821709808f",
   "result": {
-    "markdown": "---\ntitle: Andrena milwaukeensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Milwaukee mining bee)\n\n[![©️ Bob Carter. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/79898466)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena milwaukeensis\nsubtite: Milwaukee mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Bob Carter. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/79898466)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

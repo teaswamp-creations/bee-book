@@ -1,8 +1,10 @@
 {
-  "hash": "000106e8e95d87643af6dd1d0b77adaa",
+  "hash": "5ea8a6c21236a29f16b73dba62eb5869",
   "result": {
-    "markdown": "---\ntitle: Andrena mariae\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Andrena mariae)\n\n[![©️ NA. NULL.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena mariae\nsubtite: Andrena mariae\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,10 +1,14 @@
 ---
 title: Apis mellifera
+subtite: Honeybee
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(Honeybee)
-
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("mellifera")
+```

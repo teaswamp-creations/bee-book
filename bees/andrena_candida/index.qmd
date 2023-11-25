@@ -1,10 +1,11 @@
 ---
 title: Andrena candida
+subtite: Bright miner
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Bright miner)
-
 [![`r emo::ji("copyright")` S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg)
+
+No GBIF data to display

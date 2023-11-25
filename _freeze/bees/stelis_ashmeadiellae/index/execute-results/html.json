@@ -1,8 +1,10 @@
 {
-  "hash": "32481d89ffe081ec211f0ee04a4229f5",
+  "hash": "03d7ae7c6ad68b907f6c566db718489a",
   "result": {
-    "markdown": "---\ntitle: Stelis ashmeadiellae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Stelis ashmeadiellae\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

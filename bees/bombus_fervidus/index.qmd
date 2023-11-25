@@ -1,10 +1,14 @@
 ---
 title: Bombus fervidus
+subtite: Golden Northern bumblebee
 engine: knitr
 categories:
   - Apidae
-freeze: True
+freeze: auto
 ---
-(Golden Northern bumblebee)
-
 [![`r emo::ji("copyright")` Leanne Cleaveley. 1596240000.](https://inaturalist-open-data.s3.amazonaws.com/photos/252752355/medium.jpg){height=300}](https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=52774)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("fervidus")
+```

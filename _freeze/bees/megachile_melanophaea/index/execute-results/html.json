@@ -1,8 +1,10 @@
 {
-  "hash": "2fe7377ecaed332953f319a6b2d10940",
+  "hash": "6ebd6403d8f30fafe0c6dc42779e25a5",
   "result": {
-    "markdown": "---\ntitle: Megachile melanophaea\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Megachile melanophaea\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

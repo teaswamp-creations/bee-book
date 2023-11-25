@@ -1,8 +1,10 @@
 {
-  "hash": "f0ba74af2053b8002ffae480f6a17717",
+  "hash": "3e0c925da7a3824be1a8004d302e30f5",
   "result": {
-    "markdown": "---\ntitle: Nomada ultima\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Nomada ultima\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

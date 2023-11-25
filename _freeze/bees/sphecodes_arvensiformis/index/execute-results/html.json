@@ -1,8 +1,10 @@
 {
-  "hash": "441a71ac385a65cec4fec97b83ac5ef7",
+  "hash": "37d1940089bac7e43f2a2f3597cadbe8",
   "result": {
-    "markdown": "---\ntitle: Sphecodes arvensiformis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Sphecodes arvensiformis\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

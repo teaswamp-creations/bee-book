@@ -1,8 +1,10 @@
 {
-  "hash": "77c85bd15052ebc317e9fdf1bf87bd66",
+  "hash": "222f7cc8d0a99715a3a5a698b22a2080",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum cressonii\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Cresson's sweat bee)\n\n[![©️ NA. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/48613611)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum cressonii\nsubtite: Cresson's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/48613611)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

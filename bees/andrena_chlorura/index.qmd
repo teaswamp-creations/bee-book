@@ -1,10 +1,11 @@
 ---
 title: Andrena chlorura
+subtite: Andrena chlorura
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Andrena chlorura)
-
 [![`r emo::ji("copyright")` G.G.E Scudder. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg)
+
+No GBIF data to display

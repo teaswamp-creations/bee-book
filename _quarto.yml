@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "bee-book-site"
+  title: "Bee Book Demo"
   navbar:
     left:
       - href: index.qmd

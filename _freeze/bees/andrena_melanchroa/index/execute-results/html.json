@@ -1,8 +1,10 @@
 {
-  "hash": "09c2ec4c6e80bfde797210484c0bda83",
+  "hash": "e036ff90d6e0148a5f18b8d77efe6ec9",
   "result": {
-    "markdown": "---\ntitle: Andrena melanchroa\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Rose miner bee)\n\n[![©️ Max McCarthy. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/118931071)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena melanchroa\nsubtite: Rose miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Max McCarthy. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/118931071)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

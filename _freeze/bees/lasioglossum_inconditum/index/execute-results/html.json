@@ -1,8 +1,10 @@
 {
-  "hash": "f80063edbae43f812feb2d8090d9b508",
+  "hash": "643cb0a53c83e8c9e1da954b2e11f194",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum inconditum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Misbehaved sweat bee)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum inconditum\nsubtite: Misbehaved sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

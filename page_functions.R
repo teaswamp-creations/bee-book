@@ -1,5 +1,5 @@
 library(plotly)
-library(tidyverse)
+suppressPackageStartupMessages(library(tidyverse))
 
 
 # make species map

@@ -1,10 +1,11 @@
 ---
 title: Andrena trevoris
+subtite: Trevor's miner bee
 engine: knitr
 categories:
   - Andrenidae
-freeze: True
+freeze: auto
 ---
-(Trevor's miner bee)
-
 [![`r emo::ji("copyright")` H.R. Foxlee. 1964.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris%20(3lateral).jpg)
+
+No GBIF data to display

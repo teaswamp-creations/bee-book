@@ -1,8 +1,10 @@
 {
-  "hash": "f6c5b0a24fe789307dece6e584575e2e",
+  "hash": "dbe0eb18d0930fd283bde34f63d37db7",
   "result": {
-    "markdown": "---\ntitle: Andrena trevoris\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Trevor's miner bee)\n\n[![©️ H.R. Foxlee. 1964.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena trevoris\nsubtite: Trevor's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ H.R. Foxlee. 1964.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

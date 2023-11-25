@@ -1,8 +1,10 @@
 {
-  "hash": "78c6f061c18206b06ba12caed707332c",
+  "hash": "54e8499301c662b72bedfebfc828fb77",
   "result": {
-    "markdown": "---\ntitle: Andrena w-scripta\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(W-labrum miner)\n\n[![©️ C.S. Guppy. 1981.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20w-scripta%20(3lateral).jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena w-scripta\nsubtite: W-labrum miner\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ C.S. Guppy. 1981.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20w-scripta%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

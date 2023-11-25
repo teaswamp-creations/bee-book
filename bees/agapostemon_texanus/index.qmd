@@ -1,10 +1,11 @@
 ---
 title: Agapostemon texanus
+subtite: Texas striped sweat bee
 engine: knitr
 categories:
   - Halictidae
-freeze: True
+freeze: auto
 ---
-(Texas striped sweat bee)
-
 [![`r emo::ji("copyright")` lyndas. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/167784335)
+
+No GBIF data to display

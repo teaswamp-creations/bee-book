@@ -1,8 +1,10 @@
 {
-  "hash": "15434fb15522302b4b877478c9dbae82",
+  "hash": "de55479c1e0435e6e6e99277e6f33c09",
   "result": {
-    "markdown": "---\ntitle: Osmia densa densa\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Osmia densa densa\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

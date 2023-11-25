@@ -1,8 +1,10 @@
 {
-  "hash": "636d89800b83289ebbd6b625a3c00b79",
+  "hash": "b402b2f7db94c23c102ca3ef833163ed",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum zonulum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: True\n---\n\n(Bull-headed furrow bee)\n\n[![©️ NA. 2009.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Lasioglossum zonulum\nsubtite: Bull-headed furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2009.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

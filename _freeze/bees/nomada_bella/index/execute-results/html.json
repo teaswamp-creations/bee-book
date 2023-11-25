@@ -1,8 +1,10 @@
 {
-  "hash": "ce1710f1c8e5c9c0eb482ce6f48e923f",
+  "hash": "9688890d67a1b7915e39205a7fb10567",
   "result": {
-    "markdown": "---\ntitle: Nomada bella\nengine: knitr\ncategories:\n  - Apidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Nomada bella\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

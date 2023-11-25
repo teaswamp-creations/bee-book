@@ -1,8 +1,10 @@
 {
-  "hash": "a925e87b4a917359ac8daac5c629bd4e",
+  "hash": "18152fae2d0bf2fc93746352c69bf402",
   "result": {
-    "markdown": "---\ntitle: Osmia bucephala\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Osmia bucephala\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

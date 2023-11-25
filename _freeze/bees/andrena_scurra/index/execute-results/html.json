@@ -1,8 +1,10 @@
 {
-  "hash": "8449539b0393dfb6d926e35f9325e427",
+  "hash": "7a992636eaba03fc8ed13665b039303f",
   "result": {
-    "markdown": "---\ntitle: Andrena scurra\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: True\n---\n\n(Joker miner bee)\n\n[![©️ G.Grant. 2010.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra%20female%20(3lateral)%20.jpg)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Andrena scurra\nsubtite: Joker miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ G.Grant. 2010.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra%20female%20(3lateral)%20.jpg)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

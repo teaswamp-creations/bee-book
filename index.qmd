@@ -37,6 +37,7 @@ Bees are organized by genus.
 # Data Completeness
 
 Bee book gallery shows two pieces of info per species page: 
+
 1. bee image (curated by KQ)
 2. observation map (pulled from GBIF)
 
@@ -52,14 +53,51 @@ UpSetR::upset(UpSetR::fromList(upset_list))
 
 ```
 
-# GBIF data
+# Genus coverage
 
-This map shows the 10 most recent observations on [GBIF](https://www.gbif.org/) for family Apidae. [Downloaded Nov 23 2023](https://doi.org/10.15468/dl.8bqmte). 
+```{r}
+gbif %>%
+  filter(!is.na(Species)) %>%
+  group_by(Genus) %>% 
+  summarize(n=n()) %>%
+  ggplot(aes(x = reorder(Genus, n), y = n, fill=Genus)) + 
+  geom_bar(sta='identity') +
+  ggpubr::theme_pubr() +
+  coord_flip() + 
+  scale_fill_brewer(palette = "Paired") + 
+  ggpubr::yscale("log10", .format = TRUE) + 
+  labs(x = 'Genus', y = 'Number of Observations in GBIF') +
+  theme(legend.position = 'None')
+
+```
+
+```{r, out.height='100%', out.width='100%', fig.height=6}
+pal = RColorBrewer::brewer.pal(12, 'Paired')
+names(pal) = sort(unique(gbif$Genus))
+
+df %>%
+  filter(!is.na(Species)) %>%
+  group_by(Genus) %>% 
+  summarize(n=n()) %>%
+  ggplot(aes(x = reorder(Genus, n), y = n, fill=Genus)) + 
+  geom_bar(sta='identity') +
+  ggpubr::theme_pubr() +
+  coord_flip() + 
+  scale_fill_manual(values=pal) + 
+  ggpubr::yscale("log10", .format = TRUE) + 
+  labs(x = 'Genus', y = 'Number of Species in Gallery') + 
+  theme(legend.position = 'None')
+
+```
+
+# Observations map
+
+This map shows observations from [GBIF](https://www.gbif.org/) for family Apidae. [Downloaded Nov 23 2023](https://doi.org/10.15468/dl.8bqmte). 
 
 Double click any genus to isolate it on the map. 
 
 
-```{r, include=F}
+```{r}
 gbif %>%
   filter(!is.na(Species))%>%
   mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
@@ -83,19 +121,6 @@ gbif %>%
 
 ```
 
-```{r}
-gbif %>%
-  filter(!is.na(Species)) %>%
-  group_by(Genus) %>% 
-  summarize(n=n()) %>%
-  ggplot(aes(x = reorder(Genus, n), y = n)) + 
-  geom_bar(sta='identity') +
-  ggpubr::theme_pubr() +
-  coord_flip() + 
-  ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Genus', y = 'Number of Observations')
-
-```
 
 
 # Summary of Andrena information

@@ -1,8 +1,10 @@
 {
-  "hash": "cc69e2a72d88e801408281c72cc8daf6",
+  "hash": "c1abb7fa6864a289c1dc0da820cef1fa",
   "result": {
-    "markdown": "---\ntitle: Osmia tristella tristella\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: True\n---\n\n(NA)\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n",
-    "supporting": [],
+    "markdown": "---\ntitle: Osmia tristella tristella\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
