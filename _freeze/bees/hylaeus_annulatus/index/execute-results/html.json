@@ -1,7 +1,7 @@
 {
-  "hash": "d30693646e163e0e281623c581d969c6",
+  "hash": "1d314223956f029cc9c0d20701a9be77",
   "result": {
-    "markdown": "---\ntitle: Hylaeus annulatus\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Hylaeus annulatus\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

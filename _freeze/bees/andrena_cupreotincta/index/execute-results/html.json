@@ -1,7 +1,7 @@
 {
-  "hash": "de368986c7ffc85bd593141da038d77b",
+  "hash": "434ddafaa2fb43071ff1aa42fd3911bd",
   "result": {
-    "markdown": "---\ntitle: Andrena cupreotincta\nsubtite: Copper-tinted miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E.R. Buckell. 1929.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena cupreotincta\nsubtite: Copper-tinted miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E.R. Buckell. 1929.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

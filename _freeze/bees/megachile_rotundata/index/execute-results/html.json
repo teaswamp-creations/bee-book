@@ -1,7 +1,7 @@
 {
-  "hash": "c06b93bdf9e3c8c2aa7047a8dcbff4cf",
+  "hash": "b03ca4e1180cad7ca26a5d1c3355ebec",
   "result": {
-    "markdown": "---\ntitle: Megachile rotundata\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Megachile rotundata\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

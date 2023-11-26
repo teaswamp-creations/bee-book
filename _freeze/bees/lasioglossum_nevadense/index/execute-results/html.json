@@ -1,7 +1,7 @@
 {
-  "hash": "901e6cfdeb8911d9903bc208c4443580",
+  "hash": "f9c5f0da9a72ebdc3ace9c96b30f0aed",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum nevadense\nsubtite: Nevada sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2016.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/9617648)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum nevadense\nsubtite: Nevada sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2016.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/9617648)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

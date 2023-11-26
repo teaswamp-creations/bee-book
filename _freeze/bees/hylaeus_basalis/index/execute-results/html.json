@@ -1,7 +1,7 @@
 {
-  "hash": "4a342033bbd47ce2d46914c5410ff823",
+  "hash": "9a9f7ea05831064402e6ba39245c0f15",
   "result": {
-    "markdown": "---\ntitle: Hylaeus basalis\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Hylaeus basalis\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

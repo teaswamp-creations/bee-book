@@ -1,7 +1,7 @@
 {
-  "hash": "ccc660a3c6b41b9084d5d9bc5129a349",
+  "hash": "19dea32f58d977099e0f7fa9b6525684",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum marinense\nsubtite: Marin County sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/181874582)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum marinense\nsubtite: Marin County sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/181874582)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

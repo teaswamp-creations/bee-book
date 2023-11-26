@@ -1,7 +1,7 @@
 {
-  "hash": "8878eabe31f0acedf27351703699d05a",
+  "hash": "bc80cb5475f2a26b72284f92167a2468",
   "result": {
-    "markdown": "---\ntitle: Halictus confusus\nsubtite: Confusing furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/119366107)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Halictus confusus\nsubtite: Confusing furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/119366107)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

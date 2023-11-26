@@ -1,7 +1,7 @@
 {
-  "hash": "9b8a2acbccc2b0458c577f1e207c1fdb",
+  "hash": "348df886e8374128bbda91e1d32d2c89",
   "result": {
-    "markdown": "---\ntitle: Sphecodes pecosensis\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Sphecodes pecosensis\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

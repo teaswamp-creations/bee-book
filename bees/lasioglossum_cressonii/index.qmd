@@ -8,4 +8,7 @@ freeze: auto
 ---
 [![`r emo::ji("copyright")` NA. 2020.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/48613611)
 
-No GBIF data to display
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("cressonii")
+```

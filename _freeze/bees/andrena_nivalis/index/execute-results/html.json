@@ -1,7 +1,7 @@
 {
-  "hash": "d1c3d721f3d8fe6db162d602f61f3120",
+  "hash": "60cbce5174f249a7330eaf5d6c9f5ecb",
   "result": {
-    "markdown": "---\ntitle: Andrena nivalis\nsubtite: Snowy mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Chuck Williams. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169229984)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena nivalis\nsubtite: Snowy mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Chuck Williams. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169229984)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "d865d64a1e1864f34971146ef31c36c6",
+  "hash": "d4c6d1fa78d973c3b594be832af13784",
   "result": {
-    "markdown": "---\ntitle: Macropus nuda\nsubtite: Dark-legged yellow loosestrife bee\nengine: knitr\ncategories:\n  - Melittidae\nfreeze: auto\n---\n\n[![©️ rwr. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/80881550/medium.jpeg){height=300}](https://inaturalist.ca/observations/84381498)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Macropus nuda\nsubtite: Dark-legged yellow loosestrife bee\nengine: knitr\ncategories:\n  - Melittidae\nfreeze: auto\n---\n\n[![©️ rwr. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/80881550/medium.jpeg){height=300}](https://inaturalist.ca/observations/84381498)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

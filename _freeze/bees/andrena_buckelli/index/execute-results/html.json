@@ -1,7 +1,7 @@
 {
-  "hash": "6b4ad05fbc5b081ced61bb23823691e8",
+  "hash": "8863c3e2def101623d4d0199e18f1de8",
   "result": {
-    "markdown": "---\ntitle: Andrena buckelli\nsubtite: Buckell's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ S.G. Cannings. 1986.](https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena buckelli\nsubtite: Buckell's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ S.G. Cannings. 1986.](https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

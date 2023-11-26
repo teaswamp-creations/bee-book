@@ -8,4 +8,7 @@ freeze: auto
 ---
 [![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
 
-No GBIF data to display
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("subparvum")
+```

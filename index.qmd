@@ -14,7 +14,9 @@ gs4_auth('galiwatch.info@gmail.com')
 df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') 
 
 # gbif data
-gbif <- read_delim("files/0004981-231120084113126.csv", delim='\t') %>%
+
+
+gbif <- do.call(bind_rows, lapply(paste0("files/", list.files(path="files", pattern="*231120084113126.csv")), read_delim, delim="\t")) %>%
   mutate(date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
@@ -58,34 +60,30 @@ UpSetR::upset(UpSetR::fromList(upset_list))
 ```{r}
 gbif %>%
   filter(!is.na(Species)) %>%
-  group_by(Genus) %>% 
+  group_by(family) %>% 
   summarize(n=n()) %>%
-  ggplot(aes(x = reorder(Genus, n), y = n, fill=Genus)) + 
+  ggplot(aes(x = reorder(family, n), y = n, fill=family)) + 
   geom_bar(sta='identity') +
   ggpubr::theme_pubr() +
   coord_flip() + 
-  scale_fill_brewer(palette = "Paired") + 
+  #scale_fill_brewer(palette = "Paired") + 
   ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Genus', y = 'Number of Observations in GBIF') +
+  labs(x = 'Family', y = 'Number of Observations in GBIF') +
   theme(legend.position = 'None')
 
 ```
 
 ```{r, out.height='100%', out.width='100%', fig.height=6}
-pal = RColorBrewer::brewer.pal(12, 'Paired')
-names(pal) = sort(unique(gbif$Genus))
-
 df %>%
   filter(!is.na(Species)) %>%
-  group_by(Genus) %>% 
+  group_by(Family) %>% 
   summarize(n=n()) %>%
-  ggplot(aes(x = reorder(Genus, n), y = n, fill=Genus)) + 
+  ggplot(aes(x = reorder(Family, n), y = n, fill=Family)) +
   geom_bar(sta='identity') +
   ggpubr::theme_pubr() +
   coord_flip() + 
-  scale_fill_manual(values=pal) + 
   ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Genus', y = 'Number of Species in Gallery') + 
+  labs(x = 'Family', y = 'Number of Species in Gallery') + 
   theme(legend.position = 'None')
 
 ```
@@ -97,8 +95,88 @@ This map shows observations from [GBIF](https://www.gbif.org/) for family Apidae
 Double click any genus to isolate it on the map. 
 
 
+
+```{r}
+map_plot <- function(df){
+  df %>%
+    filter(!is.na(Species))%>%
+    mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
+  mutate(Year = ordered(Year, levels = c('Before 2015', 2015:2023))) %>%
+  complete(Year, Genus) %>%
+  plot_ly() %>%
+  add_trace(
+    lat = ~lat, lon =~lon,
+    mode = 'markers', type = 'scattermapbox',
+    frame= ~Year,
+    color = ~Genus,
+    text = ~paste('Species:', Genus, Species, '\nObserved:', stamp("March 1, 1999")(date)),
+    size=10,
+    colors='Paired'
+  ) %>%
+  layout(mapbox = list(
+    style = 'carto-positron', show_legend = T,
+    #zoom=7, center = list(lon = -123, lat = 49)))
+    zoom=3.5, center = list(lon = -127, lat = 53)),
+    title = 'GBIF observations') %>%
+    return()
+}
+```
+
+::: {.panel-tabset}
+
+## Andrenidae
+
 ```{r}
 gbif %>%
+  filter(family == 'Andrenidae') %>%
+  map_plot()
+```
+
+## Apidae
+
+```{r}
+gbif %>%
+  filter(family == 'Apidae') %>%
+  map_plot()
+```
+
+## Colletidae
+
+```{r}
+gbif %>%
+  filter(family == 'Colletidae') %>%
+  map_plot()
+```
+
+## Halictidae
+
+```{r}
+gbif %>%
+  filter(family == 'Halictidae') %>%
+  map_plot()
+```
+
+## Megachilidae
+
+```{r}
+gbif %>%
+  filter(family == 'Megachilidae') %>%
+  map_plot()
+```
+
+## Melittidae
+
+```{r}
+gbif %>%
+  filter(family == 'Melittidae') %>%
+  map_plot()
+```
+:::
+
+
+```{r, include=F}
+gbif %>%
+  filter(family == 'Apidae') %>%
   filter(!is.na(Species))%>%
   mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
   mutate(Year = ordered(Year, levels = c('Before 2015', 2015:2023))) %>%
@@ -123,6 +201,7 @@ gbif %>%
 
 
 
+
 # Summary of Andrena information
 
 **Kingdom: Animalia; Phylum: Arthropoda; Class Hymenoptera; Superfamily: Apoidea; Family: Andrenidae**
@@ -130,6 +209,7 @@ gbif %>%
 52 species listed by Shefield and Heron (2018) including 11 with verified iNaturalist records plus one additional iNaturalist record of Andrena astragali (death camas mining bee) that was first documented in the Pacific Maritime in 2018.
 
 When available, species information will be displayed with the following priority: 
+
 1. Verified on iNaturalist, and seen in Pacific Maritime
 1. Verified on iNaturalist, and seen outside of the Pacific Maritime 
 1. Specimen available in the UBC [Spencer Entomological Collection](https://www.zoology.ubc.ca/entomology/)

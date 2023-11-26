@@ -8,4 +8,7 @@ freeze: auto
 ---
 [![`r emo::ji("copyright")` S.G. Cannings. 1986.](https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg)
 
-No GBIF data to display
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("buckelli")
+```

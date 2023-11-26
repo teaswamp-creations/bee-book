@@ -8,4 +8,7 @@ freeze: auto
 ---
 [![`r emo::ji("copyright")` Eric Habisch. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73178805)
 
-No GBIF data to display
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("frigida")
+```
