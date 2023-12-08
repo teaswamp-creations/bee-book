@@ -1,7 +1,7 @@
 {
-  "hash": "946e8434addfe57656bc5b0b878779b2",
+  "hash": "4bd680c2d7ebf4df247ff42e106c4743",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum reasbeckae\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Lasioglossum reasbeckae\nsubtite: Reasbeck's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

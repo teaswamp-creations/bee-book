@@ -1,7 +1,7 @@
 {
-  "hash": "d6cbae593e74936b5aaf8dffa32af2cc",
+  "hash": "ed9e4590b6ad21d1ad03c33268e5f1b3",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum knereri\nsubtite: Knerer's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Lisa Neame. 2007.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20knereri%20(3lateral)%20.jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Lasioglossum knereri\nsubtite: Knerer's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2007.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20knereri%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20knereri.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "d9759c02dfd68359e282bc049dea4b81",
+  "hash": "f3f9ca11a06406bf481cf8b531b0c9a2",
   "result": {
-    "markdown": "---\ntitle: Osmia nigriventris\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Osmia nigriventris\nsubtite: Osmia nigriventris\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ David McCorquodale. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}](https://inaturalist.ca/observations/88100502)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

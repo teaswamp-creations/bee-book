@@ -1,7 +1,7 @@
 {
-  "hash": "8fb54099bf1d5fc6a9bf05876a262250",
+  "hash": "47fe5b40e3649eb48dcf6e9af0104d77",
   "result": {
-    "markdown": "---\ntitle: Megachile melanophaea\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile melanophaea\nsubtite: Black-and-gray leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Gwen L'Hirondelle. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/223169457/large.jpeg){height=300}](https://inaturalist.ca/observations/131162952)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

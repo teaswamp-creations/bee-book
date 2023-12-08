@@ -1,0 +1,14 @@
+{
+  "hash": "372e62bfefcb91fe8b6aa42a4330bced",
+  "result": {
+    "markdown": "---\ntitle: Osmia densa\nsubtite: Osmia densa\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2009.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20densa%20female%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20densa.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

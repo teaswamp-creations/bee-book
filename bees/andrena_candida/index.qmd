@@ -6,7 +6,7 @@ categories:
   - Andrenidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` S.G. Cannings. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg)
+[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida.php)
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")

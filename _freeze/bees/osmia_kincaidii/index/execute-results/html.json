@@ -1,7 +1,7 @@
 {
-  "hash": "59b820de9eb6e577faa58c3e99d105da",
+  "hash": "7bc4e8d571535e0d5eadb2206398bbf1",
   "result": {
-    "markdown": "---\ntitle: Osmia kincaidii\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Osmia kincaidii\nsubtite: Osmia kincaidii\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2009.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20kincaidii%20female%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20kincaidii.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

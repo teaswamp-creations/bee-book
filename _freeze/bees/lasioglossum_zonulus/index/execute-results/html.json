@@ -1,0 +1,14 @@
+{
+  "hash": "b17e230dd7dbf7bff10c002d6abb6e08",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum zonulus\nsubtite: Bull-headed furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2009.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20zonulum.php)\n\nNo GBIF data to display\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+---
+title: Melecta separata
+subtite: Melecta separata
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` Bob McDougall. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/187397792/large.jpeg){height=300}](https://inaturalist.ca/observations/111036705)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("separata")
+```

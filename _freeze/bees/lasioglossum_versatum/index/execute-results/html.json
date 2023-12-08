@@ -1,0 +1,14 @@
+{
+  "hash": "ea8348fd0026125a02a71767fd275318",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum versatum\nsubtite: Experienced sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Lisa Saffell. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/200513148/large.jpg){height=300}](https://www.inaturalist.org/observations/118662705)\n\nNo GBIF data to display\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

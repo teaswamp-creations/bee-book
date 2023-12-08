@@ -1,7 +1,7 @@
 {
-  "hash": "df27b417305bdaf70cc9f78f484ee9e9",
+  "hash": "9496c730823f842fd0f4c5db0cafd17d",
   "result": {
-    "markdown": "---\ntitle: Andrena chlorura\nsubtite: Andrena chlorura\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ G.G.E Scudder. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora%20female%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena chlorura\nsubtite: Andrena chlorura\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

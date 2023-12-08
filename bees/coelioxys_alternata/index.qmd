@@ -1,11 +1,11 @@
 ---
 title: Coelioxys alternata
-subtite: NA
+subtite: Alternate cuckoo leafcutter bee
 engine: knitr
 categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` filiperibeiro. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/142652758/large.jpeg){height=300}](https://inaturalist.ca/observations/86584134)
 
 No GBIF data to display

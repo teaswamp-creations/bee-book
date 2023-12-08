@@ -1,12 +1,12 @@
 ---
 title: Habropoda miserabilis
-subtite: NA
+subtite: Pacific dune-digger bee
 engine: knitr
 categories:
   - Apidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Bonnie Zand. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/187281458/large.jpg){height=300}](https://inaturalist.ca/observations/110909415)
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")

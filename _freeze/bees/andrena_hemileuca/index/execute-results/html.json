@@ -1,7 +1,7 @@
 {
-  "hash": "610c179914d89fc83222325bbd7fe711",
+  "hash": "a6a75ad64c84e3c8ad7e6f45be893406",
   "result": {
-    "markdown": "---\ntitle: Andrena hemileuca\nsubtite: Partly-haired miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ SEM Team. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/171981980/medium.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena hemileuca\nsubtite: Partly-haired miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca%20(3lateral)%20%20SEM-UBC%20HYM-14598.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hemileuca.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

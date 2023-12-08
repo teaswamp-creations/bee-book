@@ -1,7 +1,7 @@
 {
-  "hash": "97ae14cfc31c86e75f653f728184ef21",
+  "hash": "0eb1ffde6f3f9674600614f8acf6e0c0",
   "result": {
-    "markdown": "---\ntitle: Andrena miranda\nsubtite: Singular miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ rsealy. 2019.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/47634544)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena miranda\nsubtite: Singular miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ rsealy. 2019.](https://inaturalist-open-data.s3.amazonaws.com/photos/75553726/large.jpeg){height=300}](https://inaturalist.ca/observations/47634544)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

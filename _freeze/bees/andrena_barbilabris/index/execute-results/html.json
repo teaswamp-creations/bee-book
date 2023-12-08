@@ -1,7 +1,7 @@
 {
-  "hash": "b87a0d525370e426e7a61a5d1ca97c5d",
+  "hash": "93fa283fff7d37fb198e2612d6fa8111",
   "result": {
-    "markdown": "---\ntitle: Andrena barbilabris\nsubtite: Long-lipped miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ sydcannings. 2021.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}](https://inaturalist.ca/observations/82119162)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena barbilabris\nsubtite: Long-lipped miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ sydcannings. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/134754453/large.jpeg){height=300}](https://inaturalist.ca/observations/82119162)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

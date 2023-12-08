@@ -1,7 +1,7 @@
 {
-  "hash": "b3325222b726a0e9a00631f83dff30f1",
+  "hash": "a20030dfe50e7f03658e8e6b5b86e0f2",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum hyalinum\nsubtite: Hyaline sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ G.G.E. Scudder. 1982.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20hyalinum%20female%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum hyalinum\nsubtite: Hyaline sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1982.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20hyalinum%20female%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20hyalinum.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

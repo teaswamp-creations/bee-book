@@ -1,7 +1,7 @@
 {
-  "hash": "f69b6ea1a86f2d66518c65940cc68f9c",
+  "hash": "5844747fb7ffe00eb2cc13af25a477d6",
   "result": {
-    "markdown": "---\ntitle: Dianthidium subparvum\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Dianthidium subparvum\nsubtite: Variable carder bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Thompson Hyggen. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/321901463/medium.jpg){height=300}](https://inaturalist.ca/observations/184414586)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

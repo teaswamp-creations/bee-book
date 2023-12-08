@@ -1,0 +1,14 @@
+{
+  "hash": "99805f9f18b0769e2b654fb1c30404cb",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum abundipunctum\nsubtite: Abundantly punctured sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1983.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum.php)\n\nNo GBIF data to display\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

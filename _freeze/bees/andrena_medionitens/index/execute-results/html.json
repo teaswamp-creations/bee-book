@@ -1,7 +1,7 @@
 {
-  "hash": "ec1c2327b359e23fd804ec4d9ecd8cac",
+  "hash": "a52bd2b5cf140e6c68fffbb3e2d257d6",
   "result": {
-    "markdown": "---\ntitle: Andrena medionitens\nsubtite: Western red-legged miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ T. Haapalainen & K. Needham. 2020.](https://static.inaturalist.org/photos/200997033/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena medionitens\nsubtite: Western red-legged miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

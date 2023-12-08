@@ -1,7 +1,7 @@
 {
-  "hash": "9b6886bd3ec535e5c2744be94da5a211",
+  "hash": "4e7c921866d1616566ec0f5a2e1c48a7",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum argemonis\nsubtite: Lasioglossum argemonis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Lasioglossum argemonis\nsubtite: Lasioglossum argemonis\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

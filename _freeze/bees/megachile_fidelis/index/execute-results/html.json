@@ -1,7 +1,7 @@
 {
-  "hash": "a8af94b6f22522564d46657584ba0375",
+  "hash": "7ea2a217a1eb823419026c6fdae65794",
   "result": {
-    "markdown": "---\ntitle: Megachile fidelis\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile fidelis\nsubtite: Horn-faced leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ bombusmixtus. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/230154871/large.jpeg){height=300}](https://inaturalist.ca/observations/134972749)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

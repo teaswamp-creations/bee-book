@@ -1,0 +1,14 @@
+{
+  "hash": "dd39eb07bdc77e27565fcbd28c4b5c1a",
+  "result": {
+    "markdown": "---\ntitle: Megachile pugnata\nsubtite: Pugnacious leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Liz Osborn. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/254603013/large.jpg){height=300}](https://inaturalist.ca/observations/175424576)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

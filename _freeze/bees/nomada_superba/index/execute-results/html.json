@@ -1,7 +1,7 @@
 {
-  "hash": "c61e35bd0810ea001c44ef93be9c5461",
+  "hash": "e92dabe4c58ebfb0d0cd7bd60c94e757",
   "result": {
-    "markdown": "---\ntitle: Nomada superba\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Nomada superba\nsubtite: Superb nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Mathew Zappa. 2017.](https://inaturalist-open-data.s3.amazonaws.com/photos/7630012/large.jpg){height=300}](https://inaturalist.ca/observations/6099112)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

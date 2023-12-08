@@ -6,7 +6,7 @@ categories:
   - Andrenidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Bernie Paquette. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/169218633)
+[![`r emo::ji("copyright")` Bernie Paquette. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/293350426/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20thaspii.php)
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")

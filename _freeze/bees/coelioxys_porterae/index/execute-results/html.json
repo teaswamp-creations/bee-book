@@ -1,7 +1,7 @@
 {
-  "hash": "39f674972e941dfcde51d4c569116d06",
+  "hash": "3f7aa751678dc3f3fd8fdb253bbc239f",
   "result": {
-    "markdown": "---\ntitle: Coelioxys porterae\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Coelioxys porterae\nsubtite: Coelioxys porterae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Riley Walsh. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/86243480/large.jpg){height=300}](https://inaturalist.ca/observations/54208080)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

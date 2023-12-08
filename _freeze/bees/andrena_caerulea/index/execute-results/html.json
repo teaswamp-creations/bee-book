@@ -1,7 +1,7 @@
 {
-  "hash": "3083e81d533650f3c43faae52b403e00",
+  "hash": "f4987dca3269e15f14e96b5be187c73f",
   "result": {
-    "markdown": "---\ntitle: Andrena caerulea\nsubtite: Caerulean miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Sean Werle. 2022.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(1dorsal).jpg){height=300}](https://inaturalist.ca/observations/111668756)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena caerulea\nsubtite: Caerulean miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Sean Werle. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20caerulea.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "b75a058500e25667cca354d2565e82f7",
+  "hash": "79462ae86ca1df21d80363b5830fe4ba",
   "result": {
-    "markdown": "---\ntitle: Hoplitis louisae\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Hoplitis louisae\nsubtite: Louisa's small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ David Cappaert. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/224110113/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20louisae.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

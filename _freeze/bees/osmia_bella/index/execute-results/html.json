@@ -1,7 +1,7 @@
 {
-  "hash": "79bcb087d13935ff80b59c6be6a5fbdc",
+  "hash": "364e44ddc7fc8572446a7425d94bff11",
   "result": {
-    "markdown": "---\ntitle: Osmia bella\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Osmia bella\nsubtite: Osmia bella\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Bob Lalonde. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/75015460/large.jpg){height=300}](https://inaturalist.ca/observations/47300435)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

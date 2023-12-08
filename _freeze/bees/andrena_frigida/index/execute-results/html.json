@@ -1,7 +1,7 @@
 {
-  "hash": "db53d5c47e71f68087d6f4cd90d03082",
+  "hash": "089b57bf73bfc35753c9aff066d322bd",
   "result": {
-    "markdown": "---\ntitle: Andrena frigida\nsubtite: Frigid mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Eric Habisch. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/73178805)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena frigida\nsubtite: Frigid mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Eric Habisch. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg){height=300}](https://inaturalist.ca/observations/73178805)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

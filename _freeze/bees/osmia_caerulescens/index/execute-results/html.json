@@ -1,0 +1,14 @@
+{
+  "hash": "1c14452820e904f52d72d4783bdb30c0",
+  "result": {
+    "markdown": "---\ntitle: Osmia caerulescens\nsubtite: Blue mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Bob McDougall. 2017.](https://inaturalist-open-data.s3.amazonaws.com/photos/9237057/large.jpeg){height=300}](https://inaturalist.ca/observations/7168993)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

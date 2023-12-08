@@ -1,7 +1,7 @@
 {
-  "hash": "ea1c6d823318bc1104896ea83d744ec1",
+  "hash": "0103a336c7333e7d1e77a3371d0c9ff5",
   "result": {
-    "markdown": "---\ntitle: Andrena subtilis\nsubtite: Subtle miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena subtilis\nsubtite: Subtle miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1943.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

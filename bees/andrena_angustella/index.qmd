@@ -1,0 +1,14 @@
+---
+title: Andrena angustella
+subtite: Andrena angustella
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` NA. NA.](/files/no_bee.png){height=300}](NA)
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("angustella")
+```

@@ -1,7 +1,7 @@
 {
-  "hash": "2291c50c3c08d8386ab397bd47a5c46b",
+  "hash": "1daacbaa0b5d51e472912f9aa3cec8e7",
   "result": {
-    "markdown": "---\ntitle: Coelioxys funeraria\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Coelioxys funeraria\nsubtite: Coelioxys funeraria\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

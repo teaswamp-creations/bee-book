@@ -1,12 +1,12 @@
 ---
 title: Hylaeus basalis
-subtite: NA
+subtite: Cinquefoil Masked Bee
 engine: knitr
 categories:
   - Colletidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Stewart McQuillan. 2023.](https://static.inaturalist.org/photos/283272930/large.jpeg){height=300}](https://inaturalist.ca/observations/163758341)
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")

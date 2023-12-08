@@ -1,7 +1,7 @@
 {
-  "hash": "30a041adc34ed4574e236c3da8aa8569",
+  "hash": "b167de859255bc837ec568997463d728",
   "result": {
-    "markdown": "---\ntitle: Megachile texana\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile texana\nsubtite: Texas leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Russ Paul. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/209379431/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20texana.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "aa8003a9cc621c6635ce0a22df6672c9",
+  "hash": "778d911e93e1606f0c3ee1d36e047156",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum sisymbrii\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Lasioglossum sisymbrii\nsubtite: Tansy mustard sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Bob McDougall. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/80202619/large.jpeg){height=300}](https://inaturalist.ca/observations/50513571)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

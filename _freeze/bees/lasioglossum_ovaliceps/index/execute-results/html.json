@@ -1,7 +1,7 @@
 {
-  "hash": "0dec2050892360cc12528f59fed08397",
+  "hash": "5c1a04f813eef4f3be5285fd782c9b88",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum ovaliceps\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Lasioglossum ovaliceps\nsubtite: Oval-headed sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Braden J. Judson. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/128273608/large.jpeg){height=300}](https://inaturalist.ca/observations/78386081)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

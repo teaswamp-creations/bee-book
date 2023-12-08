@@ -1,7 +1,7 @@
 {
-  "hash": "e0e69a68f87daba523b00d95679d7b33",
+  "hash": "82f9153cb09c8642e157ac473b8424da",
   "result": {
-    "markdown": "---\ntitle: Coelioxys sodalis\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Coelioxys sodalis\nsubtite: Coelioxys sodalis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ jgibbs. 2014.](https://inaturalist-open-data.s3.amazonaws.com/photos/4957659/large.jpg){height=300}](https://inaturalist.ca/observations/50093963)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "7e8c2ddb6ece2219ae65884639981d94",
+  "hash": "ab0a21eb82a911d90684e82f8f95c6e1",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum albohirtum\nsubtite: Lasioglossum albohirtum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/160434746)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum albohirtum\nsubtite: Lasioglossum albohirtum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Lisa Hill. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/277230553/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20albohirtum.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

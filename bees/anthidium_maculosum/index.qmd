@@ -1,0 +1,11 @@
+---
+title: Anthidium maculosum
+subtite: Spotted woolcarder bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` dougdanforth. 2023.](https://inaturalist.ca/photos/330153133){height=300}](https://inaturalist.ca/observations/130584798)
+
+No GBIF data to display

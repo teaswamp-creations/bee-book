@@ -1,0 +1,14 @@
+{
+  "hash": "2a48230a4560e59bb30f19dc5bb12500",
+  "result": {
+    "markdown": "---\ntitle: Hylaeus modestus\nsubtite: Modest masked bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ Chris Fluit. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/310076827/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Colletidae/Hylaeus%20modestus.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

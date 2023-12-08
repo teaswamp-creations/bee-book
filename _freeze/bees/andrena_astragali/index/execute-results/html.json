@@ -1,7 +1,7 @@
 {
-  "hash": "9b6ef8064978b846244666db9f8a4bd8",
+  "hash": "c33eab83524711f56991ecf908cf582c",
   "result": {
-    "markdown": "---\ntitle: Andrena astragali\nsubtite: Death camas mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Andrew Simon. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/75041482/medium.jpg){height=300}](https://inaturalist.ca/observations/12374074)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena astragali\nsubtite: Death camas mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Andrew Simon. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/17828498/large.jpeg){height=300}](https://inaturalist.ca/observations/12374074)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

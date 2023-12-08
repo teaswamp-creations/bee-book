@@ -1,7 +1,7 @@
 {
-  "hash": "77c8f7f8bb87d1e4c5ebc131751e0f8c",
+  "hash": "f0809260be96dfab02eea912fe345c1d",
   "result": {
-    "markdown": "---\ntitle: Osmia proxima\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Osmia proxima\nsubtite: Osmaia proxima\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ David Cappaert. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/336409860/large.jpg){height=300}](https://inaturalist.ca/observations/191724256)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

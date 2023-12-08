@@ -1,11 +1,11 @@
 ---
 title: Hoplitis fulgida fulgida
-subtite: NA
+subtite: Hoplitis fulgida fulgida
 engine: knitr
 categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Pam Piombino. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/178873678/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20fulgida.php)
 
 No GBIF data to display

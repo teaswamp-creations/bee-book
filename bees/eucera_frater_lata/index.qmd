@@ -1,11 +1,11 @@
 ---
 title: Eucera frater lata
-subtite: NA
+subtite: Eucera frater lata
 engine: knitr
 categories:
   - Apidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2023.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg){height=300}](NA)
 
 No GBIF data to display

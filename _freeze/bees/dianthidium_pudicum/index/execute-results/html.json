@@ -1,0 +1,14 @@
+{
+  "hash": "59d5874470784b0fec369eb5f285d288",
+  "result": {
+    "markdown": "---\ntitle: Dianthidium pudicum\nsubtite: Modest pebble bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ rwr. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}](https://www.inaturalist.org/observations/133036935)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

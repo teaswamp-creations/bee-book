@@ -1,7 +1,7 @@
 {
-  "hash": "7d2747c998c47aa3fb2550659188f79e",
+  "hash": "bbd0bcb29b7ad3a04ff5d0109a02c0ae",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum novascotiae\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum novascotiae\nsubtite: Nova Scotia sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1980.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

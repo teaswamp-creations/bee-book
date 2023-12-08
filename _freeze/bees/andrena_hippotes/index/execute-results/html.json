@@ -1,7 +1,7 @@
 {
-  "hash": "d0c0210e93ac54726873651b80a62837",
+  "hash": "7d9f92595edf2db277ef00daf96bc42f",
   "result": {
-    "markdown": "---\ntitle: Andrena hippotes\nsubtite: Orange-legged miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Chantel. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/102835674)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena hippotes\nsubtite: Orange-legged miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Chantel. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/171981980/medium.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hippotes.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

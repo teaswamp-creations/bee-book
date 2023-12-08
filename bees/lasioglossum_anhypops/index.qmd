@@ -6,6 +6,6 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` T. Haapalainen & K. Needham. 2020.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops%20female%20(3lateral)%20%20SEM-UBC%20HYM-14756.jpg)
+[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2020.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops%20female%20(3lateral)%20%20SEM-UBC%20HYM-14756.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops.php)
 
 No GBIF data to display

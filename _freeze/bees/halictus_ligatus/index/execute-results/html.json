@@ -1,0 +1,14 @@
+{
+  "hash": "e23b03dd09524eb583510d9f7047c577",
+  "result": {
+    "markdown": "---\ntitle: Halictus ligatus\nsubtite: Ligated furrow bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ stjayaaa. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/318279778/medium.jpg){height=300}](https://www.inaturalist.org/observations/181015307)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

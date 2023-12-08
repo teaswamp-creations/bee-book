@@ -1,7 +1,7 @@
 {
-  "hash": "7a7157cee7acd726246ef7c6b7255da2",
+  "hash": "a0cdd4504e7994ef245747c778691320",
   "result": {
-    "markdown": "---\ntitle: Megachile relativa\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile relativa\nsubtite: Golden-tailed leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Liz Osborn. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/255580317/medium.jpg){height=300}](https://inaturalist.ca/observations/136222594)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

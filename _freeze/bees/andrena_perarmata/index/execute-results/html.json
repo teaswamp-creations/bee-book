@@ -1,7 +1,7 @@
 {
-  "hash": "c9b262f26c175e7324b6e877008c61a0",
+  "hash": "1010f6152a6f82df3d2872d2b621b3fb",
   "result": {
-    "markdown": "---\ntitle: Andrena perarmata\nsubtite: Large-toothed miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena perarmata\nsubtite: Large-toothed miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1943.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "ae7d7dce952f130bb11105eae481601f",
+  "hash": "4f6399919b2c45cdf12d6162e3afcd08",
   "result": {
-    "markdown": "---\ntitle: Eucera actuosa\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Eucera actuosa\nsubtite: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Robin Gwen Agarwal. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg){height=300}](https://inaturalist.ca/observations/10583398)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "baa11cc24a3ab97eaba8515ca1deb409",
+  "hash": "82814ab65cb1a99d61f6ae9344d1b9e4",
   "result": {
-    "markdown": "---\ntitle: Bombus perplexus\nsubtite: Perplexing bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Bombus perplexus\nsubtite: Perplexing bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Jeremiah Kennedy. 2022.](https://static.inaturalist.org/photos/219770323/large.jpg){height=300}](https://inaturalist.ca/observations/126542815)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

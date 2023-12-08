@@ -1,7 +1,7 @@
 {
-  "hash": "a07e050d7e82873a7946c99054e5c677",
+  "hash": "bdb7285c530e7fc5fd28a53f956420ad",
   "result": {
-    "markdown": "---\ntitle: Andrena w-scripta\nsubtite: W-labrum miner\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ C.S. Guppy. 1981.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20w-scripta%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena w-scripta\nsubtite: W-labrum miner\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20w-scripta%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20w-scripta.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

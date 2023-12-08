@@ -1,7 +1,7 @@
 {
-  "hash": "2d14f761fab7fb1ddf3cd586fb1d0361",
+  "hash": "3aa6d1ee10328d662e7f488ffe504a1c",
   "result": {
-    "markdown": "---\ntitle: Andrena excellens\nsubtite: Andrena excellens\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena excellens\nsubtite: Andrena excellens\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "a4cf0cfc08c9d960d49a07eb61610d01",
+  "hash": "289baa0c8bebe50120eb076bf5fac2b6",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum quebecense\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Lasioglossum quebecense\nsubtite: Quebec sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Ingrid Kaatz. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/316308524/large.jpeg){height=300}](https://inaturalist.ca/observations/181510295)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

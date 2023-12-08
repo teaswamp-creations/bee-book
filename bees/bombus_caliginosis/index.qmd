@@ -1,0 +1,11 @@
+---
+title: Bombus caliginosis
+subtite: Fog-belt bumblebee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` Ryan Shaw. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/314170135/large.jpg){height=300}](https://inaturalist.ca/observations/180368387)
+
+No GBIF data to display

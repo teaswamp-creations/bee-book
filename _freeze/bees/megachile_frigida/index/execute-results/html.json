@@ -1,7 +1,7 @@
 {
-  "hash": "b7e3095d2cb3a1452c4dc98119cf2de4",
+  "hash": "415ad384dc28e8f1dd838411b31b9079",
   "result": {
-    "markdown": "---\ntitle: Megachile frigida\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile frigida\nsubtite: Frigid leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ beespeaker. 2019.](https://inaturalist-open-data.s3.amazonaws.com/photos/168819765/large.jpeg){height=300}](https://inaturalist.ca/observations/101109432)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

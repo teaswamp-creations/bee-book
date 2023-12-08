@@ -1,7 +1,7 @@
 {
-  "hash": "1d314223956f029cc9c0d20701a9be77",
+  "hash": "6553534f1a77f0f657c94834fa62fecb",
   "result": {
-    "markdown": "---\ntitle: Hylaeus annulatus\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Hylaeus annulatus\nsubtite: Annulate masked bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ Denis Doucet. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/296561284/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Colletidae/Hylaeus%20annulatus.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

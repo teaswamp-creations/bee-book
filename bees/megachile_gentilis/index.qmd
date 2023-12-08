@@ -1,11 +1,11 @@
 ---
 title: Megachile gentilis
-subtite: NA
+subtite: Megachile gentilis
 engine: knitr
 categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Héctor Villalón Moreno. 2018.](https://static.inaturalist.org/photos/27318782/large.jpeg){height=300}](https://inaturalist.ca/observations/17889668)
 
 No GBIF data to display

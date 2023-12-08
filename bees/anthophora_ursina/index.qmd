@@ -1,0 +1,11 @@
+---
+title: Anthophora ursina
+subtite: Anthophora ursina
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` Will Stuart. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}](https://inaturalist.ca/observations/115649275)
+
+No GBIF data to display

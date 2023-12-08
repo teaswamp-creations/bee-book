@@ -1,0 +1,14 @@
+{
+  "hash": "383bddeac03fd64aaaa2fe1b69b4dadb",
+  "result": {
+    "markdown": "---\ntitle: Anthidium maculosum\nsubtite: Spotted woolcarder bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ dougdanforth. 2023.](https://inaturalist.ca/photos/330153133){height=300}](https://inaturalist.ca/observations/130584798)\n\nNo GBIF data to display\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

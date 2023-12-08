@@ -1,7 +1,7 @@
 {
-  "hash": "beb81957147f7ec966917ac5c985469a",
+  "hash": "66d1904ce139cae0890c38b1ab9b19f6",
   "result": {
-    "markdown": "---\ntitle: Coelioxys banksi\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Coelioxys banksi\nsubtite: Coelioxys banksi\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Louise Woodrich. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/253433525/large.jpeg){height=300}](https://inaturalist.ca/observations/147296555)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "7d2c624b794256b7e9bb37816d138410",
+  "hash": "b850ecebf3234ddf9d34f5dc603821c4",
   "result": {
-    "markdown": "---\ntitle: Megachile lapponica\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile lapponica\nsubtite: Megachile lapponica\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Vladimir Bryukhov. 2016.](https://inaturalist-open-data.s3.amazonaws.com/photos/58924097/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20lapponica.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

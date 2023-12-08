@@ -1,7 +1,7 @@
 {
-  "hash": "2e24f0c39b2d2e7e561f5931c81fe1f3",
+  "hash": "8a97bfcb82c254f07ecdd3a9b2eb2043",
   "result": {
-    "markdown": "---\ntitle: Sphecodes clematidis\nsubtite: NA\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Sphecodes clematidis\nsubtite: Clematis blood bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

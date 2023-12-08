@@ -1,7 +1,7 @@
 {
-  "hash": "9a0e41c3c7d4e3ad2f4f2aff700edd6e",
+  "hash": "ddd3e95f06167013edacea3f8107c997",
   "result": {
-    "markdown": "---\ntitle: Andrena nigrihirta\nsubtite: Black-haired miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Spencer Hardy. 2021.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/78763551)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena nigrihirta\nsubtite: Black-haired miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Spencer Hardy. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/128937917/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20nigrihirta.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "5f8a5ca6151373bc82bed766c8b0f26b",
+  "hash": "93e2877dd6076138b22276000c4943e9",
   "result": {
-    "markdown": "---\ntitle: Megachile centuncularis\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Megachile centuncularis\nsubtite: Patchwork leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Richard Peters. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/135705799)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

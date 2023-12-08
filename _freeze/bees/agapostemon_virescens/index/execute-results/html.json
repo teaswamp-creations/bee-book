@@ -1,0 +1,14 @@
+{
+  "hash": "eb9b50cd37d636cfaf6b966468b91194",
+  "result": {
+    "markdown": "---\ntitle: Agapostemon virescens\nsubtite: Bicoloured striped sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Thompson Hyggen. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg){height=300}](https://inaturalist.ca/observations/182116961)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "hash": "3decd32b1cf9b97de70367b3db3b3f92",
+  "hash": "dcdab72081a74e5c823d669cee0b9e5f",
   "result": {
-    "markdown": "---\ntitle: Andrena crataegi\nsubtite: Hawthorn miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Bettina Harvey. 2022.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/121186330)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena crataegi\nsubtite: Hawthorn miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Bettina Harvey. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/205045047/large.jpg){height=300}](https://inaturalist.ca/observations/121186330)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

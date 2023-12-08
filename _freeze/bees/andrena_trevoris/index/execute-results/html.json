@@ -1,7 +1,7 @@
 {
-  "hash": "5d0e978f9c8c538df23a80dab6b7a416",
+  "hash": "1ac30082cc82fd2863c6a196dfc75a2e",
   "result": {
-    "markdown": "---\ntitle: Andrena trevoris\nsubtite: Trevor's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ H.R. Foxlee. 1964.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena trevoris\nsubtite: Trevor's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1964.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20trevoris.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "417b1d5df75a58f4bd9c366a39f33b07",
+  "hash": "9e83b6aa744ac3121d61352783cdbf17",
   "result": {
-    "markdown": "---\ntitle: Andrena cyanophila\nsubtite: Dimple-cheeked miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ R.J. Cannings. 1981.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena cyanophila\nsubtite: Dimple-cheeked miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1981.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

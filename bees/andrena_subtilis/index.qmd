@@ -6,7 +6,7 @@ categories:
   - Andrenidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` E.R. Buckell. 1943.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis%20(3lateral).jpg)
+[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1943.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis.php)
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")

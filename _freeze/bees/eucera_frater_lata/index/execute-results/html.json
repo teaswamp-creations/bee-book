@@ -1,7 +1,7 @@
 {
-  "hash": "0b61fa1581c7a997bb258e284928ad8c",
+  "hash": "447e3906dd06602fccc6f29ae6b35bb2",
   "result": {
-    "markdown": "---\ntitle: Eucera frater lata\nsubtite: NA\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Eucera frater lata\nsubtite: Eucera frater lata\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2023.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg){height=300}](NA)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

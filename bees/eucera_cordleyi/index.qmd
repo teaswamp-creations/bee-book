@@ -1,0 +1,11 @@
+---
+title: Eucera cordleyi
+subtite: Cordley's long-horned bee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+---
+[![`r emo::ji("copyright")` Tyler Kelly. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}](https://www.inaturalist.org/observations/167751725)
+
+No GBIF data to display

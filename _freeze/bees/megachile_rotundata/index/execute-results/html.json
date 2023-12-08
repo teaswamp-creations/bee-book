@@ -1,7 +1,7 @@
 {
-  "hash": "b03ca4e1180cad7ca26a5d1c3355ebec",
+  "hash": "40178d28fd3d7b9051488fcf00c4827e",
   "result": {
-    "markdown": "---\ntitle: Megachile rotundata\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile rotundata\nsubtite: Alfalfa leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Nicki B. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/298719491/large.jpeg){height=300}](https://inaturalist.ca/observations/172102982)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

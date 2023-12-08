@@ -1,7 +1,7 @@
 {
-  "hash": "61993d86cd1f9cf8bbded5d64baf823a",
+  "hash": "3e75916a8920cb962158650391dbeb32",
   "result": {
-    "markdown": "---\ntitle: Osmia dolerosa\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Osmia dolerosa\nsubtite: Osmia delorosa\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2009.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa%20female%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

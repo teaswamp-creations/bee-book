@@ -1,11 +1,11 @@
 ---
 title: Lasioglossum quebecense
-subtite: NA
+subtite: Quebec sweat bee
 engine: knitr
 categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` NA. NULL.](/files/no_bee.png){height=300}](NA)
+[![`r emo::ji("copyright")` Ingrid Kaatz. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/316308524/large.jpeg){height=300}](https://inaturalist.ca/observations/181510295)
 
 No GBIF data to display

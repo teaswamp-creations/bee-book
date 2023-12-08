@@ -1,7 +1,7 @@
 {
-  "hash": "1b54d0df7bba2b72c62b652355c1cdc3",
+  "hash": "5141798f5a96b0b34ac46fd05992ec1c",
   "result": {
-    "markdown": "---\ntitle: Andrena erythrogaster\nsubtite: Red-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ bob15noble. 2023.](/files/no_bee.png){height=300}](https://inaturalist.ca/observations/160153524)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Andrena erythrogaster\nsubtite: Red-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ bob15noble. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20erythrogaster.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

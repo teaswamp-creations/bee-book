@@ -55,7 +55,7 @@ UpSetR::upset(UpSetR::fromList(upset_list))
 
 ```
 
-# Genus coverage
+# Family coverage
 
 ```{r}
 gbif %>%

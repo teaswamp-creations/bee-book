@@ -1,7 +1,7 @@
 {
-  "hash": "8328d926306f6dd1db8528e15e644c8f",
+  "hash": "d55b7dff5541c6859b73f29b0024e991",
   "result": {
-    "markdown": "---\ntitle: Megachile angelarum\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Megachile angelarum\nsubtite: Megachile angelarum\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Gwen L'Hirondelle. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/165742936/large.jpeg){height=300}](https://inaturalist-open-data.s3.amazonaws.com/photos/165742936/large.jpeg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

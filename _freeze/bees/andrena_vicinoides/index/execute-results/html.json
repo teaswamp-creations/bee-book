@@ -1,7 +1,7 @@
 {
-  "hash": "1c12fd6f3d1ce5b1c527922797255929",
+  "hash": "7bb2bec2c4590a647a2ef933f3c509c3",
   "result": {
-    "markdown": "---\ntitle: Andrena vicinoides\nsubtite: Victoria miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ E. Krebs & J.J. Robinson. 1985.](/files/no_bee.png){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20vicinoides%20(3lateral).jpg)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Andrena vicinoides\nsubtite: Victoria miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1985.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20vicinoides%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20vicinoides.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],

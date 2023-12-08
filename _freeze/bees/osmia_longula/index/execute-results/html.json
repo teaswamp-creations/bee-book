@@ -1,0 +1,14 @@
+{
+  "hash": "8298c3345e9c0da3b5a6d606ea3ce175",
+  "result": {
+    "markdown": "---\ntitle: Osmia longula\nsubtite: Osmia longula\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ bee_safari1. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/107687885/medium.jpeg){height=300}](https://www.inaturalist.org/observations/66756681)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "hash": "dbe99cce9a71fa9ef0eb5df008376745",
+  "hash": "15fb29e5c10b992db9ce5ba501bac6ed",
   "result": {
-    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nsubtite: NA\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nsubtite: Silver-fronted small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1987.](https://inaturalist-open-data.s3.amazonaws.com/photos/224154577/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20albifrons.php)\n\nNo GBIF data to display\n",
     "supporting": [
       "index_files"
     ],

@@ -1,7 +1,7 @@
 {
-  "hash": "b09ddf9fb03204a777adc1c43403a983",
+  "hash": "70d30c2be67f32159cd19424bff9ec69",
   "result": {
-    "markdown": "---\ntitle: Colletes fulgidus\nsubtite: NA\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ NA. NULL.](/files/no_bee.png){height=300}](NA)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Colletes fulgidus\nsubtite: Glittering cellophane bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\n---\n\n[![©️ Pete Lypkie. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/296610632/large.jpg){height=300}](https://inaturalist.ca/observations/170944273)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
