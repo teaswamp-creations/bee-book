@@ -3,7 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Bee Book Demo"
+  title: "Bee Book"
+  favicon: "images/teaswamp_transparent.png"
+  page-footer:
+    center: |
+      *a Tea Swamp project* 
+      <br>
+      <img src="https://raw.githubusercontent.com/teaswamp-creations/galiwatch.ca/quarto-website/images/teaswamp_transparent.png" alt="logo" class="image" style="width: 2.5em;">
   navbar:
     left:
       - href: index.qmd
@@ -16,8 +22,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: [yeti, css/light-theme.scss]
+    css: [css/styles.css, https://use.fontawesome.com/releases/v6.0.0/css/all.css]
+    include-after_body: footer.html
     toc: true
 
 

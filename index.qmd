@@ -7,48 +7,76 @@ knitr::opts_chunk$set(echo = F, warning=F, message=F)
 
 library(plotly)
 library(tidyverse)
+library(kableExtra)
 library(googlesheets4)
 
 # spreadsheet data
 gs4_auth('galiwatch.info@gmail.com')
-df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') 
+df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') %>%
+  mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list"))
 
 # gbif data
-
-
-gbif <- do.call(bind_rows, lapply(paste0("files/", list.files(path="files", pattern="*231120084113126.csv")), read_delim, delim="\t")) %>%
+gbif <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
   mutate(date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
   drop_na(date, lat, lon, genus, occurrenceID) %>%
-  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge')
+  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge') %>%
+  mutate(Species=ifelse(Species=='nr', NA, Species))
 ```
 
-Big Book of Bees!  
+## Big Book of Bees!  
 
-This book features annotations of bees of the PNW. Images have been collected from [iNaturalist](https://www.inaturalist.org/), and special thanks to [Spencer Collection](https://www.zoology.ubc.ca/entomology/) for allowing us to reproduce their specimen images as references for this book
+This book features annotations of bees of the PNW. Images have been collected from [iNaturalist](https://www.inaturalist.org/), and special thanks to  for allowing us to reproduce their specimen images as references for this book
 
-How to use: 
+This book features a gallery of wild bee species that have been documented in BC’s Pacific Maritime ecozone at one time or another. The gallery is based on the comprehensive list of species published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001) together with more recent research grade sightings in [iNaturalist](https://www.inaturalist.org/), and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/).
 
-* Look up your favourite species in the gallery
-* Compare with your own observations to help identify beess
-* Click any image to be taken to the database source
+Images have been collected from iNaturalist as well as from the [Spencer Entomological Collection (SEC) Collection](https://www.zoology.ubc.ca/entomology/), to whom we give special thanks for allowing us to reproduce their specimen images for this book.
 
-Bees are organized by genus. 
+Example usage: 
+
+* Select a species in the gallery
+* Check out the GBIF (Global Biodiversity Information Facility) map where available
+* Compare with your own observations to help identify bees
+* Click any image to be taken to the database source showing where and when bees have been seen in the region
+* ![](files/no_bee.png){width=50px} indicates a bee species listed by Sheffield and Heron for which there is no record in GBIF, iNaturalist, or the SEC.
+
+When available, species information will be displayed with the following priority:
+
+1.	Research grade on iNaturalist, and seen in Pacific Maritime
+2.	Specimen available in the UBC SEC, and seen in the Pacific Maritime
+3.	Research grade on iNaturalist, with sighting outside of the Pacific Maritime
+4.	Galiano Life List
+5.	Specimen available in the SEC, with sighting outside of the Pacific Maritime 
+6.	Species listed by Sheffield and Heron but not otherwise documented in GBIF, iNaturalist, the Spencer Entomological Collection
+
+
+# Ecozones of British Columbia
+
+
+![Modified from Cannings (2016) [^1] to include the boundary of the Western Interior Basin (WIB), which is comparable to the Southern Interior ecoprovince of BC’s Ecoregion Classification System [^2]. ](files/ecozones.png){width=60% float=center fig_alt="Map of BC shaded to show ecozones. Pacific maritime is highlighted on the west coast of BC, Canada"}
+
+[^1]: Cannings, R. A. (2016). The Ecozones of British Columbia, with special reference to Lepidoptera.
+
+
+[^2]: Demarchi DA. Third edition March, 2011. An introduction to the ecoregions of British Columbia. https://www2.gov.bc.ca/assets/gov/environment/plants-animals-and-ecosystems/ecosystems/broad-ecosystem/an_introduction_to_the_ecoregions_of_british_columbia.pdf. Accessed 25/08/2023.
+
+See the [Ecozones Framework of Canada](http://www.ecozones.ca) for more informaiton. 
+
 
 # Data Completeness
 
 Bee book gallery shows two pieces of info per species page: 
 
-1. bee image (curated by KQ)
-2. observation map (pulled from GBIF)
+1. Bee image (curated by KQ)
+2. Map of observations in Pacific Maritime (pulled from GBIF)
 
 Page completeness is as follows:
 
 ```{r}
 upset_list = list(`Has GBIF map` = unique(gbif$Species),
                   `In bee gallery` = unique(df$Species), 
-                  `Has image` =unique(df$Species[!is.na(df$`Image link`)])
+                  `Has image` = unique(df$Species[!is.na(df$`Image link`)])
 )
 
 UpSetR::upset(UpSetR::fromList(upset_list))
@@ -60,39 +88,32 @@ UpSetR::upset(UpSetR::fromList(upset_list))
 ```{r}
 gbif %>%
   filter(!is.na(Species)) %>%
+  group_by(family, Species) %>% 
+  summarize(n()) %>%
   group_by(family) %>% 
-  summarize(n=n()) %>%
-  ggplot(aes(x = reorder(family, n), y = n, fill=family)) + 
-  geom_bar(sta='identity') +
+  summarize(gbif=n()) %>%
+  rename(Family=family) %>%
+  merge(df %>%
+    filter(!is.na(Species)) %>%
+    group_by(Family) %>% 
+    summarize(gallery=n())
+  ) %>%
+  pivot_longer(-c(Family)) %>%
+  ggplot(aes(x = reorder(Family, value), y = value, fill=name)) + 
+  geom_bar(stat='identity', position = 'dodge') +
   ggpubr::theme_pubr() +
   coord_flip() + 
   #scale_fill_brewer(palette = "Paired") + 
-  ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Family', y = 'Number of Observations in GBIF') +
-  theme(legend.position = 'None')
+  #ggpubr::yscale("log10", .format = TRUE) + 
+  labs(x = 'Family', y = 'Number of Species', fill = "Aggregator") +
+  scale_fill_manual(values = c('grey70', '#376D61'), labels = c("GBIF", "Bee Book Gallery"))
 
 ```
 
-```{r, out.height='100%', out.width='100%', fig.height=6}
-df %>%
-  filter(!is.na(Species)) %>%
-  group_by(Family) %>% 
-  summarize(n=n()) %>%
-  ggplot(aes(x = reorder(Family, n), y = n, fill=Family)) +
-  geom_bar(sta='identity') +
-  ggpubr::theme_pubr() +
-  coord_flip() + 
-  ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Family', y = 'Number of Species in Gallery') + 
-  theme(legend.position = 'None')
 
-```
+# Bee families in the Pacific Maritime
 
-# Observations map
-
-This map shows observations from [GBIF](https://www.gbif.org/) for family Apidae. [Downloaded Nov 23 2023](https://doi.org/10.15468/dl.8bqmte). 
-
-Double click any genus to isolate it on the map. 
+These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. 37 historical datasets are represented in our GBIF data, [downloaded December 27th 2023](https://doi.org/10.15468/dl.vtr55y). 
 
 
 
@@ -116,11 +137,61 @@ map_plot <- function(df){
   layout(mapbox = list(
     style = 'carto-positron', show_legend = T,
     #zoom=7, center = list(lon = -123, lat = 49)))
-    zoom=3.5, center = list(lon = -127, lat = 53)),
+    zoom=3.5, center = list(lon = -127, lat = 52)),
     title = 'GBIF observations') %>%
     return()
 }
 ```
+
+```{r}
+options(knitr.kable.NA = '')
+
+inline_summary <- function(df){
+  g <- df %>% 
+    group_by(Genus) %>%
+    summarize(n=n()) 
+  paste0(dim(g)[1], " genuses, ", sum(g$n), " species (", 
+         paste(apply(g, FUN=function(r){paste0(r["Genus"], ', ', trimws(r["n"]))}, MARGIN=1), collapse = "; "), 
+         ")")
+}
+
+table_summary <- function(df){
+  r = ifelse(nrow(df)>10,3,1)
+  paste(
+  df %>%
+    filter((Sheffield=='Y') & (physical_record==F)) %>%
+    mutate(Species = paste(Genus, Species)) %>% 
+    select(Species) %>%
+    mutate(name = 1:nrow(.) %% r,
+           row=rep(1:(ceiling(nrow(.)/r)), each=r)[1:nrow(.)]) %>%
+    pivot_wider(values_from=Species) %>%
+    select(-c(row)) %>%
+    kable(caption = paste0("Bee species on Sheffield and Heron’s list but with no physical record (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
+  kable_styling(bootstrap_options = "striped", full_width = T) %>%
+    column_spec(1:r, italic=T),
+    
+  df %>%
+    filter((Sheffield=='Y') & (physical_record==T)) %>%
+    mutate(Species = paste(Genus, Species)) %>% 
+    select(Species) %>%
+    mutate(name = 1:nrow(.) %% r,
+           row=rep(1:(ceiling(nrow(.)/r)), each=r)[1:nrow(.)]) %>%
+    pivot_wider(values_from=Species) %>%
+    select(-c(row)) %>%
+    kable(caption = paste0("Bee species on Sheffield and Heron’s list and with physical records (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
+  kable_styling(bootstrap_options = "striped", full_width = T) %>%
+    column_spec(1:r, italic=T),
+  df %>%
+    filter((Sheffield=='N') & (physical_record==T)) %>%
+    mutate(Species = paste(Genus, Species)) %>% 
+    select(Species, `Summary note`) %>%
+    kable(caption = paste0("Bee species with physical records, but not on Sheffield and Heron’s list (", sum(!is.na(.)), " species)"), rownames=F) %>%
+  kable_styling(bootstrap_options = "striped", full_width = T) %>%
+    column_spec(1, italic=T)
+  ) 
+}
+```
+
 
 ::: {.panel-tabset}
 
@@ -132,6 +203,14 @@ gbif %>%
   map_plot()
 ```
 
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Andrenidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Andrenidae") %>% filter(physical_record) %>% inline_summary()`.
+
+`r df %>% filter(Family=="Andrenidae") %>% table_summary()`
+
 ## Apidae
 
 ```{r}
@@ -140,6 +219,14 @@ gbif %>%
   map_plot()
 ```
 
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Apidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Apidae") %>% filter(physical_record) %>% inline_summary()`.
+
+`r df %>% filter(Family=="Apidae") %>% table_summary()`
+
 ## Colletidae
 
 ```{r}
@@ -147,6 +234,13 @@ gbif %>%
   filter(family == 'Colletidae') %>%
   map_plot()
 ```
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Colletidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Colletidae") %>% filter(physical_record) %>% inline_summary()`.
+
+`r df %>% filter(Family=="Colletidae") %>% table_summary()`
 
 ## Halictidae
 
@@ -156,6 +250,14 @@ gbif %>%
   map_plot()
 ```
 
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Halictidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Halictidae") %>% filter(physical_record) %>% inline_summary()`.
+
+`r df %>% filter(Family=="Halictidae") %>% table_summary()`
+
 ## Megachilidae
 
 ```{r}
@@ -164,6 +266,14 @@ gbif %>%
   map_plot()
 ```
 
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Megachilidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Megachilidae") %>% filter(physical_record) %>% inline_summary()`.
+
+`r df %>% filter(Family=="Megachilidae") %>% table_summary()`
+
 ## Melittidae
 
 ```{r}
@@ -171,59 +281,26 @@ gbif %>%
   filter(family == 'Melittidae') %>%
   map_plot()
 ```
+
+
+<br>
+
+* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Melittidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
+
+* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Melittidae") %>% filter(physical_record) %>% inline_summary()`.
+
+```{r}
+df %>% 
+  filter(Family=="Melittidae") %>%
+    filter((Sheffield=='Y') & (physical_record==T)) %>%
+    mutate(Species = paste(Genus, Species)) %>% 
+    select(Species) %>%
+    kable(caption = paste0("Bee species on Sheffield and Heron’s list and with physical records (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
+  kable_styling(bootstrap_options = "striped", full_width = T) %>%
+    column_spec(1, italic=T)
+```
+
 :::
 
 
-```{r, include=F}
-gbif %>%
-  filter(family == 'Apidae') %>%
-  filter(!is.na(Species))%>%
-  mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
-  mutate(Year = ordered(Year, levels = c('Before 2015', 2015:2023))) %>%
-  complete(Year, Genus) %>%
-  plot_ly() %>%
-  add_trace(
-    lat = ~lat, lon =~lon,
-    mode = 'markers', type = 'scattermapbox',
-    frame=~Year,
-    color = ~Genus,
-    text = ~paste('Species:', Genus, Species, '\nObserved:', stamp("March 1, 1999")(date)),
-    size=10,
-    colors='Paired'
-  ) %>%
-  layout(mapbox = list(
-    style = 'carto-positron', show_legend = T,
-    #zoom=7, center = list(lon = -123, lat = 49)))
-    zoom=3.8, center = list(lon = -127, lat = 55)),
-    title = 'GBIF observations') 
-
-```
-
-
-
-
-# Summary of Andrena information
-
-**Kingdom: Animalia; Phylum: Arthropoda; Class Hymenoptera; Superfamily: Apoidea; Family: Andrenidae**
-
-52 species listed by Shefield and Heron (2018) including 11 with verified iNaturalist records plus one additional iNaturalist record of Andrena astragali (death camas mining bee) that was first documented in the Pacific Maritime in 2018.
-
-When available, species information will be displayed with the following priority: 
-
-1. Verified on iNaturalist, and seen in Pacific Maritime
-1. Verified on iNaturalist, and seen outside of the Pacific Maritime 
-1. Specimen available in the UBC [Spencer Entomological Collection](https://www.zoology.ubc.ca/entomology/)
-1. Species listed on the [Shefield and Heron List](https://journal.entsocbc.ca/index.php/journal/article/view/1001), but not otherwise observed
-
-The Pacific Maritime has 53 documented species of Andrena.
-
-```{r}
-tibble(source=c('Verified iNat - PM', 'Verified iNat - other', 'Spencer collection', 'Shefield and Heron List'), n = c(12, 12, 18, 11)) %>%
-  ggplot(aes(x=reorder(source,n), y=n, fill=source)) + 
-  geom_bar(stat='identity', show.legend = F) + 
-  ggpubr::theme_pubr() + 
-  coord_flip() + 
-  labs(x = 'Source', y = 'Number of species')
-
-```
-
+Last updated: `r now()`
