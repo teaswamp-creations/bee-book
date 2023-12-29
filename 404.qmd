@@ -1,0 +1,16 @@
+---
+css: styles.css
+---
+
+
+<center>
+# 404 - Page Not Found
+
+The page you requested cannot be found (perhaps it hopped away).
+
+You may want to try searching to find the page's new location.
+
+
+![](files/teaswamp_404.png){width=50%}
+
+</center>

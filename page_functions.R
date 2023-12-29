@@ -3,7 +3,7 @@ suppressPackageStartupMessages(library(tidyverse))
 
 
 # make species map
-gbif <- read_delim("../../files/0004981-231120084113126.csv", delim='\t') %>%
+gbif <- read_delim("../../files/0037810-231120084113126.csv", delim='\t') %>%
   mutate(date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
@@ -33,7 +33,9 @@ make_species_map <- function(species){
     layout(mapbox = list(
       style = 'carto-positron', show_legend = T,
       #zoom=7, center = list(lon = -123, lat = 49)),
-      zoom=3.8, center = list(lon = -127, lat = 55)),
-      title = 'GBIF observations') %>%
+      zoom=3.8, center = list(lon = -127, lat = 50)),
+      title = 'GBIF observations in the Pacific Maritime region') %>%
     return()
 }
+
+# make buttons 

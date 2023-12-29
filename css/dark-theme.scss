@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+// Base document colors
+$primary:     #2D2D2D;    
+$secondary:   #A0CFC4; 
+$link-color:  $secondary;
+
+$body-color:  #FFF;
+$body-bg: #181818;
+
+/*-- scss:rules --*/
+
+h1, .h1{
+  color: $secondary;
+}
+
+/* ---------- TOC ---------- */
+#TOC {
+  top: 40%;
+  position: fixed;
+  width: 210px;
+}
+
+div.callout-note.callout {
+  border-left-color: #A0CFC4;
+}
+
+div.callout-note.callout-style-default > .callout-header {
+  background-color: #376D61;
+}
