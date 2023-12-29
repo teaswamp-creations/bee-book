@@ -1,10 +1,8 @@
 {
-  "hash": "1daacbaa0b5d51e472912f9aa3cec8e7",
+  "hash": "6c5b59f1877c1c1aecd4a06d0b2f3abb",
   "result": {
-    "markdown": "---\ntitle: Coelioxys funeraria\nsubtite: Coelioxys funeraria\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Coelioxys funeraria\nsubtite: Coelioxys funeraria\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys funeraria in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

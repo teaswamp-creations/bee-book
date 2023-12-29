@@ -1,10 +1,8 @@
 {
-  "hash": "3d8e0e0966883d98396cd56fae594429",
+  "hash": "0dacaae7825a69d3cd9621d88071334a",
   "result": {
-    "markdown": "---\ntitle: Hoplitis producta subgracilis\nsubtite: Hoplitis producta subgracilis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Hoplitis producta subgracilis\nsubtite: Hoplitis producta subgracilis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis producta subgracilis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

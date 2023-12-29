@@ -1,0 +1,14 @@
+{
+  "hash": "a2843e7583658ed69bf6541d4535c909",
+  "result": {
+    "markdown": "---\ntitle: Osmia pusilla\nsubtite: Osmia pusilla\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20pusilla%20male%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20pusilla.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia pusilla in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

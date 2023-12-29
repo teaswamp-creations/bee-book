@@ -1,10 +1,8 @@
 {
-  "hash": "fe1b516c1e0ade881bd5b4c642697b64",
+  "hash": "e80a800d639715b3941e5ed0ef411e81",
   "result": {
-    "markdown": "---\ntitle: Panurginus ineptus\nsubtite: Inept miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Jukka Jantunen. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/152132817/large.jpg){height=300}](https://inaturalist.ca/observations/91927558)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Panurginus ineptus\nsubtite: Inept miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ Jukka Jantunen.](https://inaturalist-open-data.s3.amazonaws.com/photos/152132817/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=459037\"><button type=\"button\" class=\"btn btn-secondary\">See all Panurginus ineptus in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

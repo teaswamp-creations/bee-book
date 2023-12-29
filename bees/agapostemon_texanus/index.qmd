@@ -6,9 +6,19 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` lyndas. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/290699251/large.jpeg){height=300}](https://inaturalist.ca/observations/167784335)
+![`r emo::ji("copyright")` lyndas.](https://inaturalist-open-data.s3.amazonaws.com/photos/290699251/large.jpeg){height=300}
+
+
+
+
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")
 make_species_map("texanus")
 ```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=133797"><button type="button" class="btn btn-secondary">See all Agapostemon texanus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -1,10 +1,8 @@
 {
-  "hash": "a6d3de75407d0e35faedcb1d748f8801",
+  "hash": "79bd08e512e7c597841be2919865d483",
   "result": {
-    "markdown": "---\ntitle: Osmia brevis\nsubtite: Osmai brevis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Robb Hannawacker. 1944.](https://inaturalist-open-data.s3.amazonaws.com/photos/181575680/large.jpeg){height=300}](https://inaturalist.ca/observations/107910090)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Osmia brevis\nsubtite: Osmai brevis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Robb Hannawacker.](https://inaturalist-open-data.s3.amazonaws.com/photos/181575680/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=361576\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia brevis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

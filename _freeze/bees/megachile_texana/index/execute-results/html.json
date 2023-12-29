@@ -1,10 +1,8 @@
 {
-  "hash": "b167de859255bc837ec568997463d728",
+  "hash": "676a6994ab3ac4ded298f0b0d90c13f4",
   "result": {
-    "markdown": "---\ntitle: Megachile texana\nsubtite: Texas leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Russ Paul. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/209379431/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20texana.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Megachile texana\nsubtite: Texas leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Russ Paul.](https://inaturalist-open-data.s3.amazonaws.com/photos/209379431/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20texana.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile texana in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -6,9 +6,14 @@ categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Max McCarthy. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/300235034/medium.jpg){height=300}](https://inaturalist.ca/observations/86514271)
+![`r emo::ji("copyright")` Max McCarthy.](https://inaturalist-open-data.s3.amazonaws.com/photos/300235034/medium.jpg){height=300}
 
-```{r warning=F, message=F, echo=F}
-source("../../page_functions.R")
-make_species_map("bucephala")
-```
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199125"><button type="button" class="btn btn-secondary">See all Osmia bucephala in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

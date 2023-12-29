@@ -1,0 +1,24 @@
+---
+title: Lasioglossum colatum
+subtite: Classy sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+---
+![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20colatum%20female%20(3lateral)%20.jpg){height=300}
+
+Sighted on Vancouver Island in 2005 (specimen in the Spencer Entomological Collection) with no subsequent sightings
+
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("colatum")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20colatum.php"><button type="button" class="btn btn-secondary">See all Lasioglossum colatum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

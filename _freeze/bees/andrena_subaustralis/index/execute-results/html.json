@@ -1,10 +1,8 @@
 {
-  "hash": "dc7566bf361ea2c0d3f1490bb0aea838",
+  "hash": "bbd9efc7ff20824ff3ee1898a92038fa",
   "result": {
-    "markdown": "---\ntitle: Andrena subaustralis\nsubtite: Andrena subaustralis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena subaustralis\nsubtite: Andrena subaustralis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena subaustralis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

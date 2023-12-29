@@ -1,10 +1,8 @@
 {
-  "hash": "f42740aebe55bdfd2aa05dbcd2da6e1a",
+  "hash": "0e066a99d4fef15811cdbe53c10be964",
   "result": {
-    "markdown": "---\ntitle: Megachile parallela\nsubtite: Megachile parallela\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Tom Barnes. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/333764337/original.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20parallela.php)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Megachile parallela\nsubtite: Megachile parallela\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Tom Barnes.](https://inaturalist-open-data.s3.amazonaws.com/photos/333764337/original.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20parallela.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile parallela in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

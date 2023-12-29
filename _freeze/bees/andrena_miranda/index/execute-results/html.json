@@ -1,10 +1,8 @@
 {
-  "hash": "0eb1ffde6f3f9674600614f8acf6e0c0",
+  "hash": "a009ded1334a65461ada78764ab82f04",
   "result": {
-    "markdown": "---\ntitle: Andrena miranda\nsubtite: Singular miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ rsealy. 2019.](https://inaturalist-open-data.s3.amazonaws.com/photos/75553726/large.jpeg){height=300}](https://inaturalist.ca/observations/47634544)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena miranda\nsubtite: Singular miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ rsealy.](https://inaturalist-open-data.s3.amazonaws.com/photos/75553726/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198980\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena miranda in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

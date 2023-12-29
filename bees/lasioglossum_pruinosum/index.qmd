@@ -6,9 +6,14 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Lisa Hill. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/176449140/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20pruinosum.php)
+![`r emo::ji("copyright")` Lisa Hill.](https://inaturalist-open-data.s3.amazonaws.com/photos/176449140/large.jpg){height=300}
 
-```{r warning=F, message=F, echo=F}
-source("../../page_functions.R")
-make_species_map("pruinosum")
-```
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20pruinosum.php"><button type="button" class="btn btn-secondary">See all Lasioglossum pruinosum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

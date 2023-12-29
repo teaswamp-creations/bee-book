@@ -6,9 +6,19 @@ categories:
   - Apidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Paul Prappas. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/287901953/medium.jpeg){height=300}](https://inaturalist.ca/observations/166265641)
+![`r emo::ji("copyright")` Paul Prappas.](https://inaturalist-open-data.s3.amazonaws.com/photos/287901953/medium.jpeg){height=300}
+
+Sighted in Garibaldi, Squamish in 2021 with multiple sightings throughout BC’s interior from 2013 to 2023 (iNaturalist)
+
+
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")
 make_species_map("vagans")
 ```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=128670"><button type="button" class="btn btn-secondary">See all Bombus vagans in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

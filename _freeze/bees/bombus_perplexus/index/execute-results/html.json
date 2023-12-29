@@ -1,10 +1,8 @@
 {
-  "hash": "82814ab65cb1a99d61f6ae9344d1b9e4",
+  "hash": "4072ed518bcbc4a1f40c0196c6cc4474",
   "result": {
-    "markdown": "---\ntitle: Bombus perplexus\nsubtite: Perplexing bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Jeremiah Kennedy. 2022.](https://static.inaturalist.org/photos/219770323/large.jpg){height=300}](https://inaturalist.ca/observations/126542815)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Bombus perplexus\nsubtite: Perplexing bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ Jeremiah Kennedy.](https://static.inaturalist.org/photos/219770323/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=155085\"><button type=\"button\" class=\"btn btn-secondary\">See all Bombus perplexus in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,10 +1,8 @@
 {
-  "hash": "b0cf0e7db10a5bfa3b0520b32a826f0a",
+  "hash": "b4973f4209b014888c00ffc083c9b0b6",
   "result": {
-    "markdown": "---\ntitle: Andrena scurra\nsubtite: Joker miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2010.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra%20female%20(3lateral)%20.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena scurra\nsubtite: Joker miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20scurra.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena scurra in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

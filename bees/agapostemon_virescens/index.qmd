@@ -6,9 +6,19 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Thompson Hyggen. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg){height=300}](https://inaturalist.ca/observations/182116961)
+![`r emo::ji("copyright")` Thompson Hyggen.](https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg){height=300}
+
+Sighted in the Lower mainland and on Vancouver Island in 2023 (iNaturalist)
+
+
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")
 make_species_map("virescens")
 ```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=82530"><button type="button" class="btn btn-secondary">See all Agapostemon virescens in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

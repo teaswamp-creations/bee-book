@@ -1,10 +1,8 @@
 {
-  "hash": "528689bec9484f2ecdd8a92d148b4e4a",
+  "hash": "41dee70e2d8b805fea30f11581e207da",
   "result": {
-    "markdown": "---\ntitle: Megachile gentilis\nsubtite: Megachile gentilis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ H�ctor Villal�n Moreno. 2018.](https://static.inaturalist.org/photos/27318782/large.jpeg){height=300}](https://inaturalist.ca/observations/17889668)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Megachile gentilis\nsubtite: Megachile gentilis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ H�ctor Villal�n Moreno.](https://static.inaturalist.org/photos/27318782/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=309084\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile gentilis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

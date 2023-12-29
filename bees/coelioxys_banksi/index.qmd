@@ -6,6 +6,14 @@ categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Louise Woodrich. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/253433525/large.jpeg){height=300}](https://inaturalist.ca/observations/147296555)
+![`r emo::ji("copyright")` Louise Woodrich.](https://inaturalist-open-data.s3.amazonaws.com/photos/253433525/large.jpeg){height=300}
 
-No GBIF data to display
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=626602"><button type="button" class="btn btn-secondary">See all Coelioxys banksi in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

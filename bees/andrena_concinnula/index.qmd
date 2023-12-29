@@ -1,0 +1,24 @@
+---
+title: Andrena concinnula
+subtite: Andrena concinnula
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+---
+![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula%20(3lateral).jpg){height=300}
+
+
+
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("concinnula")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula.php"><button type="button" class="btn btn-secondary">See all Andrena concinnula in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -1,0 +1,14 @@
+{
+  "hash": "d044bd44624c069e69400bcdf2b2abf1",
+  "result": {
+    "markdown": "---\ntitle: Coelioxys modesta\nsubtite: Modest sharptail\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Stephen Mirick.](https://inaturalist-open-data.s3.amazonaws.com/photos/326894793/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=636878\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys modesta in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

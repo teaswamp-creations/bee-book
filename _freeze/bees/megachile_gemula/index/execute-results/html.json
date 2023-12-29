@@ -1,10 +1,8 @@
 {
-  "hash": "d5636dcfd976c7e5c4fd0ebdf8d4d5d5",
+  "hash": "4a95b426b0582977d5cd82fe05a1399d",
   "result": {
-    "markdown": "---\ntitle: Megachile gemula\nsubtite: Small handed leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ hobiecat. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/290427942/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20gemula.php)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Megachile gemula\nsubtite: Small handed leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ hobiecat.](https://inaturalist-open-data.s3.amazonaws.com/photos/290427942/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20gemula.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile gemula in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,14 @@
+{
+  "hash": "a8813151ad1332ddd93a4e82a0ba28dc",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum titusi\nsubtite: Titus's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}\n\nFirst reported in Cowichan Garry Oak Reserve in 2005 and again in 2009 (specimens in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum titusi in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

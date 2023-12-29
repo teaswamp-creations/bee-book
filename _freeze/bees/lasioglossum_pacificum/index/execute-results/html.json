@@ -1,10 +1,8 @@
 {
-  "hash": "9aa1b92e29d663b3020aabfda30363d3",
+  "hash": "8145ac84d77b2aee3b9c746fb9bb1665",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum pacificum\nsubtite: Pacific sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Peter Abrahamsen. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/321994390/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20pacificum.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Lasioglossum pacificum\nsubtite: Pacific sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Peter Abrahamsen.](https://inaturalist-open-data.s3.amazonaws.com/photos/321994390/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20pacificum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum pacificum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

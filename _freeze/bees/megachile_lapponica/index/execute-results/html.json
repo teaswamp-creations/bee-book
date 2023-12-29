@@ -1,10 +1,8 @@
 {
-  "hash": "b850ecebf3234ddf9d34f5dc603821c4",
+  "hash": "f2c7590eb124600be55ca2b6f4937306",
   "result": {
-    "markdown": "---\ntitle: Megachile lapponica\nsubtite: Megachile lapponica\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Vladimir Bryukhov. 2016.](https://inaturalist-open-data.s3.amazonaws.com/photos/58924097/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20lapponica.php)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Megachile lapponica\nsubtite: Megachile lapponica\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Vladimir Bryukhov.](https://inaturalist-open-data.s3.amazonaws.com/photos/58924097/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20lapponica.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile lapponica in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

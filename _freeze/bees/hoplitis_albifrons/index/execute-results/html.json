@@ -1,7 +1,7 @@
 {
-  "hash": "818d349153cb64fef121e788ce4734e1",
+  "hash": "52ba32fbe663eaa3cfc74a4bd16bfd02",
   "result": {
-    "markdown": "---\ntitle: Hoplitis albifrons\nsubtite: White-fronted small mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ jofrog. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/224154577/large.jpg){height=300}](https://inaturalist.ca/observations/131695330)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: Hoplitis albifrons\nsubtite: White-fronted small mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ jofrog.](https://inaturalist-open-data.s3.amazonaws.com/photos/224154577/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199150\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis albifrons in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

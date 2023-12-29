@@ -1,10 +1,8 @@
 {
-  "hash": "b8818b584636b8a874a454fe2cbdd037",
+  "hash": "e5509ed9a390bf92401010e897fdf8a6",
   "result": {
-    "markdown": "---\ntitle: Andrena schuhi\nsubtite: Andrena schuhi\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena schuhi\nsubtite: Andrena schuhi\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena schuhi in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

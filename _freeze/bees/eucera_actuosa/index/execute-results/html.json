@@ -1,10 +1,8 @@
 {
-  "hash": "4f6399919b2c45cdf12d6162e3afcd08",
+  "hash": "c9125c8121c024cf360f04d968a65b79",
   "result": {
-    "markdown": "---\ntitle: Eucera actuosa\nsubtite: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Robin Gwen Agarwal. 2018.](https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg){height=300}](https://inaturalist.ca/observations/10583398)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Eucera actuosa\nsubtite: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ Robin Gwen Agarwal.](https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=345432\"><button type=\"button\" class=\"btn btn-secondary\">See all Eucera actuosa in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

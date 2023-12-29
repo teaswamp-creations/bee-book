@@ -1,0 +1,14 @@
+{
+  "hash": "34ca38a3a67d135d11c1c3b889bb1d42",
+  "result": {
+    "markdown": "---\ntitle: Lasioglossum sedi\nsubtite: Sedum sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi%20female%20(3lateral)%20.jpg){height=300}\n\nCollected in the Lower Mainland in 1940 with subsequent sightings in Manning Park in 1981 and 1983, Winter Harbour 1979, Ucluelet 1985, and Texada Island 1986 (specimens in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sedi in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,10 +1,8 @@
 {
-  "hash": "940c9fe3e8415e61f530776bfcbca259",
+  "hash": "9215952d26dce4d055b865c5342554ce",
   "result": {
-    "markdown": "---\ntitle: Andrena striatifrons\nsubtite: Line-faced miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1943.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons%20(3lateral).jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena striatifrons\nsubtite: Line-faced miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena striatifrons in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

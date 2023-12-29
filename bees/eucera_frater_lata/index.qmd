@@ -6,6 +6,14 @@ categories:
   - Apidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 2023.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg){height=300}](NA)
+![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg){height=300}
 
-No GBIF data to display
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Eucera frater lata in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

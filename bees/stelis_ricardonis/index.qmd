@@ -1,0 +1,19 @@
+---
+title: Stelis ricardonis
+subtite: Ricardo's cuckoo bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+---
+![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
+
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Stelis ricardonis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

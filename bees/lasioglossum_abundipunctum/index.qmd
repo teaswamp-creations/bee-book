@@ -6,6 +6,14 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1983.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum.php)
+![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}
 
-No GBIF data to display
+Collected on Galiano Island in 1983 (specimen in the Spencer Entomological Collection)
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum.php"><button type="button" class="btn btn-secondary">See all Lasioglossum abundipunctum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -6,9 +6,19 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Katja Schulz. 2019.](https://inaturalist-open-data.s3.amazonaws.com/photos/77145305/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20cressonii.php)
+![`r emo::ji("copyright")` Katja Schulz.](https://inaturalist-open-data.s3.amazonaws.com/photos/77145305/large.jpeg){height=300}
+
+
+
+
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")
 make_species_map("cressonii")
 ```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20cressonii.php"><button type="button" class="btn btn-secondary">See all Lasioglossum cressonii in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

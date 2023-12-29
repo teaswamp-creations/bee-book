@@ -1,7 +1,7 @@
 {
-  "hash": "54437b28db3c1835f5d25d53e035f00a",
+  "hash": "c944a267f8257fe88a61e6a8039d0a31",
   "result": {
-    "markdown": "---\ntitle: Osmia subaustralis\nsubtite: Osmia subaustralis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
+    "markdown": "---\ntitle: Osmia subaustralis\nsubtite: Osmia subaustralis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Andrew Simon.](https://inaturalist-open-data.s3.amazonaws.com/photos/43353636/large.jpeg){height=300}\n\nCollected on Galiano Island in 2018 (iNaturalist)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=226682\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia subaustralis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

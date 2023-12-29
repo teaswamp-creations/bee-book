@@ -1,10 +1,8 @@
 {
-  "hash": "15fb29e5c10b992db9ce5ba501bac6ed",
+  "hash": "39ecc104b8009d20880c418c00207287",
   "result": {
-    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nsubtite: Silver-fronted small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. 1987.](https://inaturalist-open-data.s3.amazonaws.com/photos/224154577/large.jpg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20albifrons.php)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Hoplitis albifrons argentifrons\nsubtite: Silver-fronted small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20albifrons%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20albifrons.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis albifrons argentifrons in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

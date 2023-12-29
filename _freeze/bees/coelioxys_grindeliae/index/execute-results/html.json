@@ -1,10 +1,8 @@
 {
-  "hash": "75af468a55b3397c77f71e4b1ca47e49",
+  "hash": "4854c3e352c6398d3169c5652b97b5dd",
   "result": {
-    "markdown": "---\ntitle: Coelioxys grindeliae\nsubtite: Coelioxys grindeliae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Coelioxys grindeliae\nsubtite: Coelioxys grindeliae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys grindeliae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

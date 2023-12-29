@@ -1,10 +1,8 @@
 {
-  "hash": "a631b58a19587705b63681011a2a6ea7",
+  "hash": "fdf9363c1aa1de68a9f2376005cca6c9",
   "result": {
-    "markdown": "---\ntitle: Agapostemon obliquus\nsubtite: Oblique sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ Sam Hough. 2020.](https://inaturalist-open-data.s3.amazonaws.com/photos/104649792/large.jpeg){height=300}](https://inaturalist.ca/observations/65037673)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Agapostemon obliquus\nsubtite: Oblique sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Sam Hough.](https://inaturalist-open-data.s3.amazonaws.com/photos/104649792/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=458979\"><button type=\"button\" class=\"btn btn-secondary\">See all Agapostemon obliquus in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

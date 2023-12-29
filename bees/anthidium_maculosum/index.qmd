@@ -6,6 +6,14 @@ categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` dougdanforth. 2023.](https://inaturalist.ca/photos/330153133){height=300}](https://inaturalist.ca/observations/130584798)
+![`r emo::ji("copyright")` dougdanforth.](https://static.inaturalist.org/photos/222102501/medium.jpeg){height=300}
 
-No GBIF data to display
+Sighted on Vancouver Island in 2022 with no subsequent sightings (iNaturalist)
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=308703"><button type="button" class="btn btn-secondary">See all Anthidium maculosum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

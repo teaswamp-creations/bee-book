@@ -1,10 +1,8 @@
 {
-  "hash": "d74eb6aeaa94c7e2ddd852d5d50ef489",
+  "hash": "a528170a51fa3ab1621750033294e4a2",
   "result": {
-    "markdown": "---\ntitle: Melecta pacifica fulvida\nsubtite: Melecta pacifica fulvida\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ Steven Mlodinow. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/210106427/large.jpg){height=300}](https://inaturalist.ca/observations/123986669)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Melecta pacifica fulvida\nsubtite: Melecta pacifica fulvida\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ Steven Mlodinow.](https://inaturalist-open-data.s3.amazonaws.com/photos/210106427/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=237238\"><button type=\"button\" class=\"btn btn-secondary\">See all Melecta pacifica fulvida in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -6,6 +6,14 @@ categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Héctor Villalón Moreno. 2018.](https://static.inaturalist.org/photos/27318782/large.jpeg){height=300}](https://inaturalist.ca/observations/17889668)
+![`r emo::ji("copyright")` Héctor Villalón Moreno.](https://static.inaturalist.org/photos/27318782/large.jpeg){height=300}
 
-No GBIF data to display
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=309084"><button type="button" class="btn btn-secondary">See all Megachile gentilis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

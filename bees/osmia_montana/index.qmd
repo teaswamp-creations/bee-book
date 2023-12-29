@@ -1,0 +1,24 @@
+---
+title: Osmia montana
+subtite: Osmia montana
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+---
+![`r emo::ji("copyright")` NA.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana%20female%20(3lateral).jpg){height=300}
+
+Collected in North Vancouver in 1987, on Hornby Island in 1989 and in the Lower Mainland in 2003 (specimens in the Spencer Entomological Collection)
+
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("montana")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana.php"><button type="button" class="btn btn-secondary">See all Osmia montana in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

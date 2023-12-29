@@ -1,10 +1,8 @@
 {
-  "hash": "20c39f6d4494e26fc1ed749bea2fbf35",
+  "hash": "70877a8f959a5fea6d7a8b1d6e3f6c6d",
   "result": {
-    "markdown": "---\ntitle: Osmia mertensiae\nsubtite: Osmia mertensiae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Osmia mertensiae\nsubtite: Osmia mertensiae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia mertensiae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

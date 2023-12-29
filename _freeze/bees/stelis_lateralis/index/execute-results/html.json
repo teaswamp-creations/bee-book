@@ -1,0 +1,14 @@
+{
+  "hash": "58de5940b4774db1c3633108f31a3574",
+  "result": {
+    "markdown": "---\ntitle: Stelis lateralis\nsubtite: Spot-sided dark bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Riley Walsh.](https://inaturalist-open-data.s3.amazonaws.com/photos/133501889/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=199118\"><button type=\"button\" class=\"btn btn-secondary\">See all Stelis lateralis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

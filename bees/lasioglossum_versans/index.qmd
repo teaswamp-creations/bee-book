@@ -6,6 +6,14 @@ categories:
   - Halictidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Spencer Hardy. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}](https://www.inaturalist.org/observations/122634709)
+![`r emo::ji("copyright")` Spencer Hardy.](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}
 
-No GBIF data to display
+Collected in Lion’s Bay, 1965 and subsequently in the Gulf Islands 1979 and again in 1983 (specimens in the Spencer Entomological Collection)
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20versans.php"><button type="button" class="btn btn-secondary">See all Lasioglossum versans in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

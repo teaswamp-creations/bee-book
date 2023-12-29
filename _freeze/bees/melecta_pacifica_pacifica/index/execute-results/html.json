@@ -1,10 +1,8 @@
 {
-  "hash": "746a4b11dfa4fa083284eb856331c7b3",
+  "hash": "bac99a42228ef7cc648353ba760b1668",
   "result": {
-    "markdown": "---\ntitle: Melecta pacifica pacifica\nsubtite: Melecta pacifica pacifica\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Melecta pacifica pacifica\nsubtite: Melecta pacifica pacifica\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Melecta pacifica pacifica in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

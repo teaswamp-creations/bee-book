@@ -1,0 +1,24 @@
+---
+title: Xylocopa brasilianorum
+subtite: Xlocopa brasilianorum
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+---
+![`r emo::ji("copyright")` Thais Andrade.](https://inaturalist-open-data.s3.amazonaws.com/photos/67851428/large.jpeg){height=300}
+
+
+
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("brasilianorum")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=574678"><button type="button" class="btn btn-secondary">See all Xylocopa brasilianorum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

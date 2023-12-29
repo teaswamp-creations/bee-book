@@ -1,10 +1,8 @@
 {
-  "hash": "30f8760aa83df507007e3d88cfdb94c0",
+  "hash": "d77b4b76808f13510f8c3938b06f17cb",
   "result": {
-    "markdown": "---\ntitle: Osmia lignaria propinqua\nsubtite: Western bue orchard bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ dL thompson. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/206433487/large.jpg){height=300}](https://inaturalist.ca/observations/121957327)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Osmia lignaria propinqua\nsubtite: Western bue orchard bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ dL thompson.](https://inaturalist-open-data.s3.amazonaws.com/photos/206433487/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=361607\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia lignaria propinqua in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

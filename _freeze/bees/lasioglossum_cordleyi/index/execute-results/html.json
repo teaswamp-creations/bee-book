@@ -1,10 +1,8 @@
 {
-  "hash": "f79bf670cc534386119c1a9d1f5db66f",
+  "hash": "0f66db1ae0b9795eab8f65ac70d767a1",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum cordleyi\nsubtite: Lasioglossum cordleyi\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Lasioglossum cordleyi\nsubtite: Lasioglossum cordleyi\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum cordleyi in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

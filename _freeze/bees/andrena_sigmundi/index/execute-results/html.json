@@ -1,10 +1,8 @@
 {
-  "hash": "90f718d907f2775fdf811c7a69d63d1d",
+  "hash": "f51262ec5ac6427cd5d405e3f628912d",
   "result": {
-    "markdown": "---\ntitle: Andrena sigmundi\nsubtite: Andrena sigmundi\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena sigmundi\nsubtite: Andrena sigmundi\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena sigmundi in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

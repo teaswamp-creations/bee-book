@@ -1,10 +1,8 @@
 {
-  "hash": "bd0d88b47eeae2a009782263d109bd1b",
+  "hash": "89a7fc6e811e32bc57b2aaf1f37f9d51",
   "result": {
-    "markdown": "---\ntitle: Andrena lillooetensis\nsubtite: Andrena lillooetensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena lillooetensis\nsubtite: Andrena lillooetensis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena lillooetensis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

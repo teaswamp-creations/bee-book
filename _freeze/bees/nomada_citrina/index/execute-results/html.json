@@ -1,10 +1,8 @@
 {
-  "hash": "b723030a7e849bb35bb390ea5bfe323c",
+  "hash": "45df627fe707ed2d386775f8e651156a",
   "result": {
-    "markdown": "---\ntitle: Nomada citrina\nsubtite: Nomada citrina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Nomada citrina\nsubtite: Nomada citrina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada citrina in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

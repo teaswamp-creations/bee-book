@@ -1,10 +1,8 @@
 {
-  "hash": "719aa01fd3a86a200b235e8b89816220",
+  "hash": "e475def0e9cf975e0c041251b8f30f9c",
   "result": {
-    "markdown": "---\ntitle: Coelioxys alternata\nsubtite: Alternate cuckoo leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ filiperibeiro. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/142652758/large.jpeg){height=300}](https://inaturalist.ca/observations/86584134)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Coelioxys alternata\nsubtite: Alternate cuckoo leafcutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ filiperibeiro.](https://inaturalist-open-data.s3.amazonaws.com/photos/142652758/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=626546\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys alternata in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

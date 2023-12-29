@@ -1,10 +1,8 @@
 {
-  "hash": "c53507bf98b977670d438e6d57f0c4d8",
+  "hash": "006ef0c79b6ec7ab895c4aae22486e31",
   "result": {
-    "markdown": "---\ntitle: Nomada rhodomelas\nsubtite: Red-marked cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Nomada rhodomelas\nsubtite: Red-marked cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada rhodomelas in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

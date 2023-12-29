@@ -1,10 +1,8 @@
 {
-  "hash": "5aa3b850081574addf4e62e95f16df79",
+  "hash": "c426d2bb1bab3544d3b441f2e2dce3e7",
   "result": {
-    "markdown": "---\ntitle: Andrena mariae\nsubtite: Andrena mariae\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ NA. NA.](/files/no_bee.png){height=300}](NA)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena mariae\nsubtite: Andrena mariae\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena mariae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

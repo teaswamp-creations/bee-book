@@ -6,6 +6,14 @@ categories:
   - Megachilidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` David McCorquodale. 2021.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}](https://inaturalist.ca/observations/88100502)
+![`r emo::ji("copyright")` David McCorquodale.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}
 
-No GBIF data to display
+
+
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=452480"><button type="button" class="btn btn-secondary">See all Osmia nigriventris in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

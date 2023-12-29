@@ -1,10 +1,8 @@
 {
-  "hash": "1ec28a3df3208c2beb2767c180084f73",
+  "hash": "7481df2a278a8cbd418ffdaf1f5d78dd",
   "result": {
-    "markdown": "---\ntitle: Osmia bucephala\nsubtite: Bufflehead mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n[![©️ Max McCarthy. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/300235034/medium.jpg){height=300}](https://inaturalist.ca/observations/86514271)\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"no GBIF data to display\"\n```\n:::\n:::\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Osmia bucephala\nsubtite: Bufflehead mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Max McCarthy.](https://inaturalist-open-data.s3.amazonaws.com/photos/300235034/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199125\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia bucephala in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

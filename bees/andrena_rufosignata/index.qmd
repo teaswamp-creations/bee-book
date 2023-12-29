@@ -6,9 +6,19 @@ categories:
   - Andrenidae
 freeze: auto
 ---
-[![`r emo::ji("copyright")` Bernie Paquette. 2023.](https://inaturalist-open-data.s3.amazonaws.com/photos/281241133/large.jpeg){height=300}](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20rufosignata.php)
+![`r emo::ji("copyright")` Bernie Paquette.](https://inaturalist-open-data.s3.amazonaws.com/photos/298527330/large.jpeg){height=300}
+
+
+
+
 
 ```{r warning=F, message=F, echo=F}
 source("../../page_functions.R")
 make_species_map("rufosignata")
 ```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20rufosignata.php"><button type="button" class="btn btn-secondary">See all Andrena rufosignata in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

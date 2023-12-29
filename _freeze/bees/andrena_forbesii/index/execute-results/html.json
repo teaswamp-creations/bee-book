@@ -1,10 +1,8 @@
 {
-  "hash": "fc409d11a68389500a2b3a68d2e8ed8e",
+  "hash": "ed4d5d2b101ffea5e111added3ce64d1",
   "result": {
-    "markdown": "---\ntitle: Andrena forbesii\nsubtite: Forbe's mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n[![©️ msnider400. 2022.](https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg){height=300}](https://inaturalist.ca/observations/118391493)\n\nNo GBIF data to display\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: Andrena forbesii\nsubtite: Forbe's mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ msnider400.](https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198993\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena forbesii in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
