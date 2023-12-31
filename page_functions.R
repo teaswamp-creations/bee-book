@@ -37,7 +37,3 @@ make_species_map <- function(species){
     return()
 }
 
-# make evidence badges 
-
-#SH-list
-#Physical evidence in PM

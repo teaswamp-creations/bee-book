@@ -4,7 +4,22 @@ listing:
   contents: bees
   type: grid
   categories: true
-  filter-ui: true
-  sort-ui: true
-  fields: [title, image, categories]
+  filter-ui: [title, categories, description]
+  sort-ui: [title, description]
+  field-display-names:
+    description: "Evidence"
+    categories: "Family"
+    title: "Species"
+  fields: [title, image, categories, description]
 ---
+
+<style>
+.badge {
+  background-color: blue;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 5px;
+  font-size: 0.8em;
+}
+</style>
+
