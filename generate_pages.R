@@ -9,7 +9,7 @@ df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee fa
 
 
 # make species map
-gbif <- read_delim("../../files/0037810-231120084113126.csv", delim='\t') %>%
+gbif <- read_delim("files/0037810-231120084113126.csv", delim='\t') %>%
   mutate(date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%

@@ -8,7 +8,7 @@ freeze: auto
 ---
 ![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
 
-
+Collected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-3745, private collection)
 
 No GBIF observations in Pacific Maritime to display.
 <br><br>

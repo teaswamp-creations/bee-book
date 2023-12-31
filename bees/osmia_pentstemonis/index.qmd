@@ -8,7 +8,7 @@ freeze: auto
 ---
 ![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
 
-
+Collected in the Fraser Valley in 1988 (specimen in the Bee Biology and Systematics Laboratory)
 
 
 

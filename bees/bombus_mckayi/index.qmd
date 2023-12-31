@@ -8,7 +8,7 @@ freeze: auto
 ---
 ![`r emo::ji("copyright")` Thompson Hyggen.](https://inaturalist-open-data.s3.amazonaws.com/photos/323894034/large.jpg){height=300}
 
-
+Sighted in the Stikine region in 2020, 2022, amd 2023 (iNaturalist)
 
 
 
