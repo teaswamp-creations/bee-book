@@ -27,9 +27,7 @@ gbif <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
 
 ## Big Book of Bees!  
 
-This book features annotations of bees of the PNW. Images have been collected from [iNaturalist](https://www.inaturalist.org/), and special thanks to  for allowing us to reproduce their specimen images as references for this book
-
-This book features a gallery of wild bee species that have been documented in BC’s Pacific Maritime ecozone at one time or another. The gallery is based on the comprehensive list of species published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001) together with more recent research grade sightings in [iNaturalist](https://www.inaturalist.org/), and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/).
+This book features a gallery of native bee species that have been documented in BC’s Pacific Maritime ecozone at one time or another. The gallery is based on the comprehensive list of species published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001) together with more recent research grade sightings in [iNaturalist](https://www.inaturalist.org/), [GBIF](https://www.gbif.org/) and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/).
 
 Images have been collected from iNaturalist as well as from the [Spencer Entomological Collection (SEC) Collection](https://www.zoology.ubc.ca/entomology/), to whom we give special thanks for allowing us to reproduce their specimen images for this book.
 
