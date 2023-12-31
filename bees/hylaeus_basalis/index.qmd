@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Colletidae
 freeze: auto
+description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Stewart McQuillan.](https://static.inaturalist.org/photos/283272930/large.jpeg){height=300}
 

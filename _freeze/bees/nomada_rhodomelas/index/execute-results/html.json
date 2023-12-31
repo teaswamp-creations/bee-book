@@ -1,7 +1,7 @@
 {
-  "hash": "006ef0c79b6ec7ab895c4aae22486e31",
+  "hash": "5f32b61b1adde9db5defb2b39351a1eb",
   "result": {
-    "markdown": "---\ntitle: Nomada rhodomelas\nsubtite: Red-marked cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada rhodomelas in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Nomada rhodomelas\nsubtite: Red-marked cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada rhodomelas in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

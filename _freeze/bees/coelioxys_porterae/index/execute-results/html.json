@@ -1,7 +1,7 @@
 {
-  "hash": "f54569fb27544d876d5578c999c83ee8",
+  "hash": "00b2a030045ce04325dd26141bc48da2",
   "result": {
-    "markdown": "---\ntitle: Coelioxys porterae\nsubtite: Coelioxys porterae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Riley Walsh.](https://inaturalist-open-data.s3.amazonaws.com/photos/86243480/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=626637\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys porterae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Coelioxys porterae\nsubtite: Coelioxys porterae\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Riley Walsh.](https://inaturalist-open-data.s3.amazonaws.com/photos/86243480/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=626637\"><button type=\"button\" class=\"btn btn-secondary\">See all Coelioxys porterae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

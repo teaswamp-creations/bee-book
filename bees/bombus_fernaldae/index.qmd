@@ -5,8 +5,9 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 Collected on Vancouver Island, in the Gulf Islands, and the Lower Mainland in the 1930's and 1950's, and in the Northern Pacific maritime in the 1960's. The most recent specimen was collected in the Lower Mainland in 1982 (specimens in multiple museum collections including the Snow Entomological Museum Collection and the Bombus of Canada Collection)
 

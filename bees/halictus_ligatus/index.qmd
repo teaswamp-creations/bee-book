@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` stjayaaa.](https://inaturalist-open-data.s3.amazonaws.com/photos/318279778/medium.jpg){height=300}
 

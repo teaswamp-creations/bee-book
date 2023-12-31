@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Liz Osborn.](https://inaturalist-open-data.s3.amazonaws.com/photos/282337944/large.jpg){height=300}
 

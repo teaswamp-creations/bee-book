@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Stefanie Mückner.](https://inaturalist-open-data.s3.amazonaws.com/photos/205480108/large.jpeg){height=300}
 

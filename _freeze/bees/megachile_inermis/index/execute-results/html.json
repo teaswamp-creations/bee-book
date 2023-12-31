@@ -1,7 +1,7 @@
 {
-  "hash": "0addd62b56ebe6ab4fa49bde3dd9305e",
+  "hash": "5c33d242a378a8d778a10d3415af70fe",
   "result": {
-    "markdown": "---\ntitle: Megachile inermis\nsubtite: Megachile inermis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Liz Osborn.](https://inaturalist-open-data.s3.amazonaws.com/photos/256878440/large.jpg){height=300}\n\nSighted in North Vancouver in 2021 with no subsequent sightings (iNaturalist)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199134\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile inermis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Megachile inermis\nsubtite: Megachile inermis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Liz Osborn.](https://inaturalist-open-data.s3.amazonaws.com/photos/256878440/large.jpg){height=300}\n\nSighted in North Vancouver in 2021 with no subsequent sightings (iNaturalist)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199134\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile inermis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

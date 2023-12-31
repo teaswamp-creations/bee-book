@@ -1,7 +1,7 @@
 {
-  "hash": "18c007ed647f22eb6f3a35770daaf209",
+  "hash": "fa8a37a24e7b2cfe1eecd22797ea8c1d",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum boreale\nsubtite: Boreal sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum boreale in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum boreale\nsubtite: Boreal sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum boreale in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

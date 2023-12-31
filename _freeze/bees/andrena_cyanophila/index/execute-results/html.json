@@ -1,7 +1,7 @@
 {
-  "hash": "fca7ec06cdc4b9a3e4551476aaf63bab",
+  "hash": "78f8a135c2e222f4e476b230ffd92121",
   "result": {
-    "markdown": "---\ntitle: Andrena cyanophila\nsubtite: Dimple-cheeked miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena cyanophila in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Andrena cyanophila\nsubtite: Dimple-cheeked miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cyanophila.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena cyanophila in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

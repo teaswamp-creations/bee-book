@@ -1,7 +1,7 @@
 {
-  "hash": "c8d32967599900feb03c873057ec626a",
+  "hash": "0f977bdfdf3fe27232d8c45c47a16bf7",
   "result": {
-    "markdown": "---\ntitle: Ceratina nanula\nsubtite: Tiny small carpenter bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\n---\n\n![©️ lohump.](https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=309463\"><button type=\"button\" class=\"btn btn-secondary\">See all Ceratina nanula in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Ceratina nanula\nsubtite: Tiny small carpenter bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ lohump.](https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=309463\"><button type=\"button\" class=\"btn btn-secondary\">See all Ceratina nanula in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

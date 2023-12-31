@@ -1,7 +1,7 @@
 {
-  "hash": "13dfd8e3b86484ba4282797ed7208cc3",
+  "hash": "236d5b55b09c98e2116b908f1126dc75",
   "result": {
-    "markdown": "---\ntitle: Anthidium maculosum\nsubtite: Spotted woolcarder bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ dougdanforth.](https://static.inaturalist.org/photos/222102501/medium.jpeg){height=300}\n\nSighted on Vancouver Island in 2022 with no subsequent sightings (iNaturalist)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=308703\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthidium maculosum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Anthidium maculosum\nsubtite: Spotted woolcarder bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ dougdanforth.](https://static.inaturalist.org/photos/222102501/medium.jpeg){height=300}\n\nSighted on Vancouver Island in 2022 with no subsequent sightings (iNaturalist)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=308703\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthidium maculosum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

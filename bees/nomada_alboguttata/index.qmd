@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Andrea Kreuzhage.](https://inaturalist-open-data.s3.amazonaws.com/photos/273979160/large.jpeg){height=300}
 

@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` mothlady41.](https://inaturalist-open-data.s3.amazonaws.com/photos/338376559/large.jpeg){height=300}
 

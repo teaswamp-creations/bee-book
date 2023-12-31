@@ -5,8 +5,9 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
 ---
-![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 Collected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-3745, private collection)
 

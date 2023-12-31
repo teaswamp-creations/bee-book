@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` NA.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana%20female%20(3lateral).jpg){height=300}
 

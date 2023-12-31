@@ -1,7 +1,7 @@
 {
-  "hash": "0d224b1cda87e02ac35689a42c635159",
+  "hash": "c4ab18fc65fb9c5c0194f283e57a3951",
   "result": {
-    "markdown": "---\ntitle: Hoplitis louisae\nsubtite: Louisa's small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ David Cappaert.](https://inaturalist-open-data.s3.amazonaws.com/photos/224110113/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20louisae.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis louisae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Hoplitis louisae\nsubtite: Louisa's small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David Cappaert.](https://inaturalist-open-data.s3.amazonaws.com/photos/224110113/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20louisae.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis louisae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

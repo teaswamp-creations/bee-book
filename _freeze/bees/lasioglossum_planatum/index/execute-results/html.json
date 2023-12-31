@@ -1,7 +1,7 @@
 {
-  "hash": "b61db8020fb1c3b32ff5060c8fd66565",
+  "hash": "9df61ade5c9373aaf4aed1ec3aeba5ce",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum planatum\nsubtite: Flattened sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum planatum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum planatum\nsubtite: Flattened sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum planatum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

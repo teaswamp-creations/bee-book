@@ -1,7 +1,7 @@
 {
-  "hash": "55c99e7dd7fe5c79db166a55668b7db5",
+  "hash": "b2b7a4b1012f9d3f4fe4cbb6b5adf215",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum albipenne\nsubtite: White-winged sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Spencer Hardy.](https://inaturalist-open-data.s3.amazonaws.com/photos/230165199/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20albipenne.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum albipenne in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum albipenne\nsubtite: White-winged sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Spencer Hardy.](https://inaturalist-open-data.s3.amazonaws.com/photos/230165199/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20albipenne.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum albipenne in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

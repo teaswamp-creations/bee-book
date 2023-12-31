@@ -1,7 +1,7 @@
 {
-  "hash": "a65def9ba6fa5557f987301f1403e980",
+  "hash": "aa0b26c983d85b65beaa7089c7ed1df2",
   "result": {
-    "markdown": "---\ntitle: Megachile mendica\nsubtite: Flat-tailed leaf cutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg){height=300}\n\nCollected in Vancouver in 1957 with no subsequent sightings (specimen in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile mendica in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Megachile mendica\nsubtite: Flat-tailed leaf cutter bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg){height=300}\n\nCollected in Vancouver in 1957 with no subsequent sightings (specimen in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Megachile mendica in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

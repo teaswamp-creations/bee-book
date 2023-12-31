@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
+description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20medionitens%20female%20(3lateral)%20%20SEM-UBC%20HYM-14755.jpg){height=300}
 

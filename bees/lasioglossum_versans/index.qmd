@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
 ---
 ![`r emo::ji("copyright")` Spencer Hardy.](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}
 

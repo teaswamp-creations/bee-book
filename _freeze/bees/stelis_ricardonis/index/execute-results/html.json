@@ -1,7 +1,7 @@
 {
-  "hash": "71453573e7bda7fe4f4d43e73fa58426",
+  "hash": "94f03517c22a974929ea6f808199ed12",
   "result": {
-    "markdown": "---\ntitle: Stelis ricardonis\nsubtite: Ricardo's cuckoo bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Stelis ricardonis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Stelis ricardonis\nsubtite: Ricardo's cuckoo bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Stelis ricardonis in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

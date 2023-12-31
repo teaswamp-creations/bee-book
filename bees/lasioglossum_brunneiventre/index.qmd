@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
+description:  <span class="sh-badge">SH list</span>
 ---
 ![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20brunneiventre%20female%20(3lateral)%20.jpg){height=300}
 

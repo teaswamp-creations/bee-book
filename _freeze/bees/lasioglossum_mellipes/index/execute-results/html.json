@@ -1,7 +1,7 @@
 {
-  "hash": "273ca51b48368a5e69e2e682e4945a66",
+  "hash": "6016411be06462746ddbe7d5db919618",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum mellipes\nsubtite: Lasioglossum mellipes\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum mellipes in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum mellipes\nsubtite: Lasioglossum mellipes\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum mellipes in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

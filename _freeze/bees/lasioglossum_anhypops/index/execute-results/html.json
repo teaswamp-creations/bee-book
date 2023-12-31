@@ -1,7 +1,7 @@
 {
-  "hash": "37661488f8c0f13a162bd7b41f64df43",
+  "hash": "4391e3c45a344c4549a525a49b63d2ad",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum anhypops\nsubtite: Miteless sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops%20female%20(3lateral)%20%20SEM-UBC%20HYM-14756.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum anhypops in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum anhypops\nsubtite: Miteless sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops%20female%20(3lateral)%20%20SEM-UBC%20HYM-14756.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20anhypops.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum anhypops in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

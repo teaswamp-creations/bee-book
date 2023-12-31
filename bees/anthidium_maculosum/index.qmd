@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` dougdanforth.](https://static.inaturalist.org/photos/222102501/medium.jpeg){height=300}
 

@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Thompson Hyggen.](https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg){height=300}
 

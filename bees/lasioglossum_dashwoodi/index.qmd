@@ -5,8 +5,9 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 Collected on Vancouver Island in 2005 and 2009 (material sample in iBOL Project)
 

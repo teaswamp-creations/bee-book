@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` kbildner.](https://inaturalist-open-data.s3.amazonaws.com/photos/266683986/medium.jpeg){height=300}
 

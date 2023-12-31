@@ -1,7 +1,7 @@
 {
-  "hash": "d8f033343206b7e9ae0853e136ffa292",
+  "hash": "1c4a00cac88bbcfc9408c88d15784c7d",
   "result": {
-    "markdown": "---\ntitle: Osmia dolerosa\nsubtite: Osmia delorosa\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia dolerosa in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Osmia dolerosa\nsubtite: Osmia delorosa\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20dolerosa.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia dolerosa in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

@@ -5,6 +5,7 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Molly Jacobson.](https://inaturalist-open-data.s3.amazonaws.com/photos/171034039/medium.jpeg){height=300}
 

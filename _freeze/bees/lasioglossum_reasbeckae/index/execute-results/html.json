@@ -1,7 +1,7 @@
 {
-  "hash": "59225ff75002d1469b158d7eb27b04ee",
+  "hash": "4c9722643950493625e54b34b2382bba",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum reasbeckae\nsubtite: Reasbeck's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum reasbeckae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum reasbeckae\nsubtite: Reasbeck's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum reasbeckae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

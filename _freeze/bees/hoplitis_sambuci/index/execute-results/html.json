@@ -1,7 +1,7 @@
 {
-  "hash": "a12b69ea9a73fc78fe2dfda4dbe4367b",
+  "hash": "6a0ab4b207ff490738dec523b41e9605",
   "result": {
-    "markdown": "---\ntitle: Hoplitis sambuci\nsubtite: Elderberry small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\n---\n\n![©️ NA.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis sambuci in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Hoplitis sambuci\nsubtite: Elderberry small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis sambuci in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

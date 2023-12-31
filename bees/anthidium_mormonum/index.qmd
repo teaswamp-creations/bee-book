@@ -5,8 +5,9 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
+description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` NA.](/files/no_bee.png){height=300}
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 Collected in the Fraser Valley in 1931 and 1951 (specimens in the Snow Entomological Museum Collection)
 

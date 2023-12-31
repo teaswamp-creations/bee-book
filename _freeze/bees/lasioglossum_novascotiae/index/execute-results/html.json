@@ -1,7 +1,7 @@
 {
-  "hash": "0967c453c99cd816e33f1cf34941b063",
+  "hash": "3f7d39282eab986e0bb988b497e3b761",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum novascotiae\nsubtite: Nova Scotia sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum novascotiae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum novascotiae\nsubtite: Nova Scotia sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20novascotiae.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum novascotiae in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
