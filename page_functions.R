@@ -26,10 +26,9 @@ make_species_map <- function(species){
       color = ~Year,
       text = ~paste('Species:', Genus, Species, '\nObserved:', stamp("March 1, 1999")(date)),
       size=10,
-      opacity=1,
-      colors='Blues',
       name=""
     ) %>%
+    colorbar(dtick=1) %>%
     layout(mapbox = list(
       style = 'carto-positron', show_legend = T,
       #zoom=7, center = list(lon = -123, lat = 49)),
@@ -38,4 +37,7 @@ make_species_map <- function(species){
     return()
 }
 
-# make buttons 
+# make evidence badges 
+
+#SH-list
+#Physical evidence in PM
