@@ -37,5 +37,23 @@ div.callout-note.callout-style-default > .callout-header {
   padding: 3px 6px;
   border-radius: 5px;
   font-size: 0.8em;
+  white-space: nowrap;
 }
 
+.pe-badge {
+  background-color: #A0CFC4;
+  color: black;
+  padding: 3px 6px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.gali-badge {
+  background-color: gold;
+  color: black;
+  padding: 3px 6px;
+  border-radius: 5px;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
