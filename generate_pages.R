@@ -8,7 +8,8 @@ gs4_auth('galiwatch.info@gmail.com')
 df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') %>%
   mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list")) %>%
   mutate(Observer = ifelse(is.na(`Image link`), 'Cait Harrigan', Observer)) %>%
-  mutate(`Image link` = replace_na(`Image link`, '/files/no_bee.png'))
+  mutate(`Image link` = replace_na(`Image link`, '/files/no_bee.png')) %>%
+  mutate(`Common name` = ifelse(`Common name` == paste(Genus, Species), NA, `Common name`))
 
 # gbif data
 gbif <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
@@ -56,7 +57,7 @@ make_page <- function(row){
   contents <- paste0(
     '---\ntitle: ',
     row['Genus'], ' ', row['Species'],
-    '\nsubtite: ', row['Common name'], 
+    ifelse(is.na(row['Common name']), '', paste0('\nsubtitle: ', row['Common name'])),
     '\nengine: knitr',
     '\ncategories:\n  - ', row['Family'], 
     '\nfreeze: auto',
@@ -69,7 +70,7 @@ make_page <- function(row){
                    ),
     '\n<br><br>\n<center>\n',
     '\n\n<a href="', row['Map Link'], '"><button type="button" class="btn btn-secondary">See all ', row['Genus'], ' ', row['Species'], 
-    ' in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>',
+    ' <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>',
     '\n</center>'
     )
   write(contents, file.path('bees', parent, 'index.qmd'))
@@ -95,7 +96,7 @@ table_summary <- function(df){
              row=rep(1:(ceiling(nrow(.)/r)), each=r)[1:nrow(.)]) %>%
       pivot_wider(values_from=Species) %>%
       select(-c(row)) %>%
-      kable(caption = paste0("Bee species on Sheffield and Heron’s list but with no physical record (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
+      kable(caption = paste0("Bee species on Sheffield and Heron's list but with no physical record (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
       kable_styling(bootstrap_options = "striped", full_width = T) %>%
       column_spec(1:r, italic=T),
     
@@ -107,18 +108,18 @@ table_summary <- function(df){
              row=rep(1:(ceiling(nrow(.)/r)), each=r)[1:nrow(.)]) %>%
       pivot_wider(values_from=Species) %>%
       select(-c(row)) %>%
-      kable(caption = paste0("Bee species on Sheffield and Heron’s list and with physical records (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
+      kable(caption = paste0("Bee species on Sheffield and Heron's list and with physical records (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
       kable_styling(bootstrap_options = "striped", full_width = T) %>%
       column_spec(1:r, italic=T),
     df %>%
       filter((Sheffield=='N') & (physical_record==T)) %>%
       mutate(Species = paste(Genus, Species)) %>% 
       select(Species, `Summary note`) %>%
-      kable(caption = paste0("Bee species with physical records, but not on Sheffield and Heron’s list (", sum(!is.na(.)), " species)"), rownames=F) %>%
+      kable(caption = paste0("Bee species with physical records, but not on Sheffield and Heron's list (", nrow(.), " species)"), rownames=F) %>%
       kable_styling(bootstrap_options = "striped", full_width = T) %>%
       column_spec(1, italic=T)
   ) 
 }
 
 # run this line to regenerate bee pages
-#apply(df, FUN=make_page, MARGIN=1)
+#apply(head(df), FUN=make_page, MARGIN=1)

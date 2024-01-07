@@ -2,6 +2,8 @@
 title: "Pacific Maritime Big Book of Bees"
 ---
 
+Created and designed by Cait Harrigan & Kath Quayle
+
 ```{r include = F}
 knitr::opts_chunk$set(echo = F, warning=F, message=F)
 options(knitr.kable.NA = '')
@@ -37,19 +39,26 @@ We made this book to provide easy access to information that can help you identi
 
 We focus on the Pacific Maritime region, and link out to records of the same species if they've been spotted elsewhere in the world. Our goal is not to duplicate functionality of well-established aggregators, but to provide different options for organizing and visualizing the same data. 
 
+::: {.callout-note icon=false}
+## Feedback 
 
 If you find this resource useful we'd love to hear about it! 
 Let us know using our [survey page](https://forms.gle/WQtfTvAeJDGKkrP37). Any comments and feedback re missing bees, incorrect entries, etc. are also much appreciated!
-
+:::
 
 Example usage: 
 
 * Select a species in the gallery
 * Check out the GBIF (Global Biodiversity Information Facility) map where available
 * Compare with your own observations to help identify bees
-* ![](files/no_bee.png){width=50px} indicates a bee species listed by Sheffield and Heron for which there is no research-grade image available.
 
 The species pages are set up to help answer "When was this species last seen in the Pacific Maritime?" 
+
+ 
+<center>
+<a href="gallery.html"><button type="button" class="btn btn-secondary">Take me to the bees! <i class="fa-solid fa-arrow-right"></i> </button></a>
+</center>
+
 
 # Ecozones of British Columbia
 
@@ -106,7 +115,6 @@ gbif %>%
   coord_flip() + 
   #scale_fill_brewer(palette = "Paired") + 
   #ggpubr::yscale("log10", .format = TRUE) + 
-  labs(x = 'Family', y = 'Number of Species in Pacific Maritime', fill = "Aggregator") +
   scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF"))
 
 ```

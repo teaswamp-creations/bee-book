@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "Bees of the Pacific Maritime"
 listing:
   contents: bees
   type: grid
