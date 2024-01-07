@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Bee Book"
-  favicon: "images/teaswamp_transparent.png"
+  title: ""
+  favicon: "files/no_bee.png"
   page-footer:
     center: |
       *a Tea Swamp project* 
       <br>
       <img src="https://raw.githubusercontent.com/teaswamp-creations/galiwatch.ca/quarto-website/images/teaswamp_transparent.png" alt="logo" class="image" style="width: 2.5em;">
   navbar:
+    logo: "files/no_bee.png"
     left:
       - href: index.qmd
         text: Home
-      - gallery.qmd
+      - href: gallery.qmd
+        text: Bees! 
     right:
       - href: https://www.galiwatch.ca/index.html
         text: Operation Galiwatch
