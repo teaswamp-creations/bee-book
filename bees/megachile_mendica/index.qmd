@@ -1,6 +1,6 @@
 ---
 title: Megachile mendica
-subtite: Flat-tailed leaf cutter bee
+subtitle: Flat-tailed leaf cutter bee
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica.php"><button type="button" class="btn btn-secondary">See all Megachile mendica in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica.php"><button type="button" class="btn btn-secondary">See all Megachile mendica <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

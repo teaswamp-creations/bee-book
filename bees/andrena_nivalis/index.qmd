@@ -1,6 +1,6 @@
 ---
 title: Andrena nivalis
-subtite: Snowy mining bee
+subtitle: Snowy mining bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("nivalis")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20nivalis.php"><button type="button" class="btn btn-secondary">See all Andrena nivalis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20nivalis.php"><button type="button" class="btn btn-secondary">See all Andrena nivalis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Andrena cleodora
-subtite: Shiny-blue sculptured miner bee
+subtitle: Shiny-blue sculptured miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("cleodora")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora.php"><button type="button" class="btn btn-secondary">See all Andrena cleodora in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cleodora.php"><button type="button" class="btn btn-secondary">See all Andrena cleodora <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

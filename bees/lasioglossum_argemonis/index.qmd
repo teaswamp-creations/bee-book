@@ -1,6 +1,5 @@
 ---
 title: Lasioglossum argemonis
-subtite: Lasioglossum argemonis
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +20,5 @@ make_species_map("argemonis")
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum argemonis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum argemonis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

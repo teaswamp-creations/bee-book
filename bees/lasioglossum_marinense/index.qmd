@@ -1,6 +1,6 @@
 ---
 title: Lasioglossum marinense
-subtite: Marin County sweat bee
+subtitle: Marin County sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +21,5 @@ make_species_map("marinense")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=459089"><button type="button" class="btn btn-secondary">See all Lasioglossum marinense in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=459089"><button type="button" class="btn btn-secondary">See all Lasioglossum marinense <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,5 @@
 ---
 title: Osmia albolateralis
-subtite: Osmia albolateralis
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +20,5 @@ make_species_map("albolateralis")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20albolateralis.php"><button type="button" class="btn btn-secondary">See all Osmia albolateralis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20albolateralis.php"><button type="button" class="btn btn-secondary">See all Osmia albolateralis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

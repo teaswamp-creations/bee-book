@@ -1,6 +1,6 @@
 ---
 title: Andrena candida
-subtite: Bright miner
+subtitle: Bright miner
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("candida")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida.php"><button type="button" class="btn btn-secondary">See all Andrena candida in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida.php"><button type="button" class="btn btn-secondary">See all Andrena candida <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

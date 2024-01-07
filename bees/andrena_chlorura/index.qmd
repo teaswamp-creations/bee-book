@@ -1,6 +1,5 @@
 ---
 title: Andrena chlorura
-subtite: Andrena chlorura
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +20,5 @@ make_species_map("chlorura")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura.php"><button type="button" class="btn btn-secondary">See all Andrena chlorura in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura.php"><button type="button" class="btn btn-secondary">See all Andrena chlorura <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

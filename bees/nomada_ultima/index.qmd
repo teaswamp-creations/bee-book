@@ -1,6 +1,5 @@
 ---
 title: Nomada ultima
-subtite: Nomada ultima
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada ultima in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada ultima <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Halictus tripartitus
-subtite: Tripartite sweat bee
+subtitle: Tripartite sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -9,7 +9,7 @@ description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge"
 ---
 ![`r emo::ji("copyright")` Bob McDougall.](https://inaturalist-open-data.s3.amazonaws.com/photos/141800827/large.jpeg){height=300}
 
-Sighted on Vancouver Island in 2021 with subsequent sightings in 2023 (iNaturalist)
+Collected on Galiano Island, 2018 (iNaturalist - non research grade). Sighted on Vancouver Island in 2021 with subsequent sightings in 2023 (iNaturalist)
 
 
 
@@ -21,5 +21,5 @@ make_species_map("tripartitus")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=309390"><button type="button" class="btn btn-secondary">See all Halictus tripartitus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=309390"><button type="button" class="btn btn-secondary">See all Halictus tripartitus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

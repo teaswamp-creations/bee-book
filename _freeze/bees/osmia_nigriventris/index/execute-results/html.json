@@ -1,7 +1,7 @@
 {
-  "hash": "40ba59536df5b6a193b0d3e037e8384c",
+  "hash": "ff5e115ee5456e77daa8440476b22705",
   "result": {
-    "markdown": "---\ntitle: Osmia nigriventris\nsubtite: Osmia nigriventris\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David McCorquodale.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=452480\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nigriventris in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Osmia nigriventris\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David McCorquodale.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=452480\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nigriventris <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

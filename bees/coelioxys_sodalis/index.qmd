@@ -1,6 +1,5 @@
 ---
 title: Coelioxys sodalis
-subtite: Coelioxys sodalis
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +20,5 @@ make_species_map("sodalis")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=626758"><button type="button" class="btn btn-secondary">See all Coelioxys sodalis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=626758"><button type="button" class="btn btn-secondary">See all Coelioxys sodalis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

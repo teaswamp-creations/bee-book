@@ -1,6 +1,6 @@
 ---
 title: Lasioglossum inconditum
-subtite: Misbehaved sweat bee
+subtitle: Misbehaved sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum inconditum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum inconditum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

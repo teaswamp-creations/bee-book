@@ -1,6 +1,5 @@
 ---
 title: Anthophora ursina
-subtite: Anthophora ursina
 engine: knitr
 categories:
   - Apidae
@@ -9,12 +8,12 @@ description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge"
 ---
 ![`r emo::ji("copyright")` Will Stuart.](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}
 
-Sighted on Galiano Island, 2018 (iNaturalist)
+Collected on Galiano Island, 2018 (iNaturalist - non research grade)
 
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=213792"><button type="button" class="btn btn-secondary">See all Anthophora ursina in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=213792"><button type="button" class="btn btn-secondary">See all Anthophora ursina <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

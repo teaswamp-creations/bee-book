@@ -1,6 +1,6 @@
 ---
 title: Osmia brevis
-subtite: Osmai brevis
+subtitle: Osmai brevis
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=361576"><button type="button" class="btn btn-secondary">See all Osmia brevis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361576"><button type="button" class="btn btn-secondary">See all Osmia brevis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,7 +1,7 @@
 {
-  "hash": "5487bae51d60d0d98a424a15e9ec8ad6",
+  "hash": "77b0dc875c79662f593765896436be1b",
   "result": {
-    "markdown": "---\ntitle: Andrena erythrogaster\nsubtite: Red-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ bob15noble.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20erythrogaster.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena erythrogaster in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Andrena erythrogaster\nsubtitle: Red-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ bob15noble.](https://inaturalist-open-data.s3.amazonaws.com/photos/276733981/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20erythrogaster.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena erythrogaster <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

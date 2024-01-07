@@ -1,6 +1,6 @@
 ---
 title: Halictus ligatus
-subtite: Ligated furrow bee
+subtitle: Ligated furrow bee
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +21,5 @@ make_species_map("ligatus")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=154298"><button type="button" class="btn btn-secondary">See all Halictus ligatus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=154298"><button type="button" class="btn btn-secondary">See all Halictus ligatus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

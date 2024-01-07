@@ -1,6 +1,6 @@
 ---
 title: Bombus neoboreus
-subtite: Active bumblebee
+subtitle: Active bumblebee
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=452447"><button type="button" class="btn btn-secondary">See all Bombus neoboreus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=452447"><button type="button" class="btn btn-secondary">See all Bombus neoboreus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

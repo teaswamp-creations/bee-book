@@ -1,6 +1,6 @@
 ---
 title: Lasioglossum titusi
-subtite: Titus's sweat bee
+subtitle: Titus's sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi.php"><button type="button" class="btn btn-secondary">See all Lasioglossum titusi in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi.php"><button type="button" class="btn btn-secondary">See all Lasioglossum titusi <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

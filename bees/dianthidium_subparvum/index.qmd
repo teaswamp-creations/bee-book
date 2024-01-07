@@ -1,6 +1,6 @@
 ---
 title: Dianthidium subparvum
-subtite: Variable carder bee
+subtitle: Variable carder bee
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +21,5 @@ make_species_map("subparvum")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=271475"><button type="button" class="btn btn-secondary">See all Dianthidium subparvum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=271475"><button type="button" class="btn btn-secondary">See all Dianthidium subparvum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

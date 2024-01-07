@@ -1,6 +1,5 @@
 ---
 title: Lasioglossum cinctipes
-subtite: Lasioglossum cinctipes
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +20,5 @@ make_species_map("cinctipes")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=199106"><button type="button" class="btn btn-secondary">See all Lasioglossum cinctipes in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199106"><button type="button" class="btn btn-secondary">See all Lasioglossum cinctipes <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

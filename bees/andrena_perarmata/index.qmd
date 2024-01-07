@@ -1,6 +1,6 @@
 ---
 title: Andrena perarmata
-subtite: Large-toothed miner bee
+subtitle: Large-toothed miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata.php"><button type="button" class="btn btn-secondary">See all Andrena perarmata in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata.php"><button type="button" class="btn btn-secondary">See all Andrena perarmata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

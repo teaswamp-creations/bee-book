@@ -1,7 +1,7 @@
 {
-  "hash": "3ffd4635177099b4172d5ed2d75f9ec0",
+  "hash": "0708ce2c08a451d2ca7721d7c7304cd7",
   "result": {
-    "markdown": "---\ntitle: Andrena washingtoni\nsubtite: Washington miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena washingtoni in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Andrena washingtoni\nsubtitle: Washington miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena washingtoni <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

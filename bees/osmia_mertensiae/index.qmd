@@ -1,6 +1,5 @@
 ---
 title: Osmia mertensiae
-subtite: Osmia mertensiae
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Osmia mertensiae in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Osmia mertensiae <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

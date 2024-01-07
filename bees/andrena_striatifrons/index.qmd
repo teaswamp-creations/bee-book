@@ -1,6 +1,6 @@
 ---
 title: Andrena striatifrons
-subtite: Line-faced miner bee
+subtitle: Line-faced miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php"><button type="button" class="btn btn-secondary">See all Andrena striatifrons in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php"><button type="button" class="btn btn-secondary">See all Andrena striatifrons <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

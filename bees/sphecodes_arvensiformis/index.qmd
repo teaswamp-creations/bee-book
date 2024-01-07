@@ -1,6 +1,5 @@
 ---
 title: Sphecodes arvensiformis
-subtite: Sphecodes arvensiformis
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +20,5 @@ make_species_map("arvensiformis")
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Sphecodes arvensiformis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Sphecodes arvensiformis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

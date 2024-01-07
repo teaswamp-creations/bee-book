@@ -1,6 +1,6 @@
 ---
 title: Eucera cordleyi
-subtite: Cordley's long-horned bee
+subtitle: Cordley's long-horned bee
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=361449"><button type="button" class="btn btn-secondary">See all Eucera cordleyi in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361449"><button type="button" class="btn btn-secondary">See all Eucera cordleyi <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

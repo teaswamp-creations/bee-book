@@ -1,6 +1,6 @@
 ---
 title: Megachile centuncularis
-subtite: Patchwork leafcutter bee
+subtitle: Patchwork leafcutter bee
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=124406"><button type="button" class="btn btn-secondary">See all Megachile centuncularis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=124406"><button type="button" class="btn btn-secondary">See all Megachile centuncularis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Panurginus ineptus
-subtite: Inept miner bee
+subtitle: Inept miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=459037"><button type="button" class="btn btn-secondary">See all Panurginus ineptus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=459037"><button type="button" class="btn btn-secondary">See all Panurginus ineptus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

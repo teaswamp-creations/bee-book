@@ -1,7 +1,7 @@
 {
-  "hash": "b163e6a2b5f14c1831fdb3b98a6b271c",
+  "hash": "bb41ef6eb72b43cd489a47baa5448084",
   "result": {
-    "markdown": "---\ntitle: Osmia texana\nsubtite: Texas mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Martin Lucas.](https://inaturalist-open-data.s3.amazonaws.com/photos/311686473/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=226684\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia texana in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Osmia texana\nsubtitle: Texas mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Martin Lucas.](https://inaturalist-open-data.s3.amazonaws.com/photos/311686473/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=226684\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia texana <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

@@ -1,6 +1,5 @@
 ---
 title: Andrena angustella
-subtite: Andrena angustella
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +20,5 @@ make_species_map("angustella")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20angustella.php"><button type="button" class="btn btn-secondary">See all Andrena angustella in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20angustella.php"><button type="button" class="btn btn-secondary">See all Andrena angustella <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

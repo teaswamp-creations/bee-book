@@ -1,6 +1,6 @@
 ---
 title: Megachile pugnata
-subtite: Pugnacious leafcutter bee
+subtitle: Pugnacious leafcutter bee
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +21,5 @@ make_species_map("pugnata")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=198850"><button type="button" class="btn btn-secondary">See all Megachile pugnata in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=198850"><button type="button" class="btn btn-secondary">See all Megachile pugnata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

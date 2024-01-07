@@ -1,6 +1,6 @@
 ---
 title: Bombus flavifrons
-subtite: Yellow fronted bumblebee
+subtitle: Yellow fronted bumblebee
 engine: knitr
 categories:
   - Apidae
@@ -21,5 +21,5 @@ make_species_map("flavifrons")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=119308"><button type="button" class="btn btn-secondary">See all Bombus flavifrons in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=119308"><button type="button" class="btn btn-secondary">See all Bombus flavifrons <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,5 @@
 ---
 title: Andrena lillooetensis
-subtite: Andrena lillooetensis
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena lillooetensis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena lillooetensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

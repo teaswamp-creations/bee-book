@@ -1,6 +1,5 @@
 ---
 title: Megachile angelarum
-subtite: Megachile angelarum
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +20,5 @@ make_species_map("angelarum")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=271430"><button type="button" class="btn btn-secondary">See all Megachile angelarum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=271430"><button type="button" class="btn btn-secondary">See all Megachile angelarum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

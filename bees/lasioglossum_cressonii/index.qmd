@@ -1,6 +1,6 @@
 ---
 title: Lasioglossum cressonii
-subtite: Cresson's sweat bee
+subtitle: Cresson's sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +21,5 @@ make_species_map("cressonii")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20cressonii.php"><button type="button" class="btn btn-secondary">See all Lasioglossum cressonii in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20cressonii.php"><button type="button" class="btn btn-secondary">See all Lasioglossum cressonii <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

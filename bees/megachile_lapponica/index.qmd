@@ -1,6 +1,5 @@
 ---
 title: Megachile lapponica
-subtite: Megachile lapponica
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20lapponica.php"><button type="button" class="btn btn-secondary">See all Megachile lapponica in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20lapponica.php"><button type="button" class="btn btn-secondary">See all Megachile lapponica <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

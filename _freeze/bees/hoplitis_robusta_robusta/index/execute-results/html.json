@@ -1,7 +1,7 @@
 {
-  "hash": "49fd31956f749b2ad9a259a99ed825fd",
+  "hash": "7f7dc4e47e80dbf85aefe23c6ebc9a6b",
   "result": {
-    "markdown": "---\ntitle: Hoplitis robusta robusta\nsubtite: Robust small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Alex (Alexandria) Wenninger.](https://inaturalist-open-data.s3.amazonaws.com/photos/321122603/original.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20robusta.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis robusta robusta in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Hoplitis robusta robusta\nsubtitle: Robust small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Alex (Alexandria) Wenninger.](https://inaturalist-open-data.s3.amazonaws.com/photos/321122603/original.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20robusta.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis robusta robusta <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

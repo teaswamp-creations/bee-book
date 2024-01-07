@@ -1,6 +1,6 @@
 ---
 title: Andrena fuscicauda
-subtite: Dark-tailed mining bee
+subtitle: Dark-tailed mining bee
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena fuscicauda in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena fuscicauda <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

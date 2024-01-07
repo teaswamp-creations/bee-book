@@ -1,6 +1,5 @@
 ---
 title: Melecta pacifica fulvida
-subtite: Melecta pacifica fulvida
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=237238"><button type="button" class="btn btn-secondary">See all Melecta pacifica fulvida in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=237238"><button type="button" class="btn btn-secondary">See all Melecta pacifica fulvida <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

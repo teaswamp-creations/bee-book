@@ -1,7 +1,7 @@
 {
-  "hash": "1957a49f299dccb6186b55015d504201",
+  "hash": "b871608e9c0561eb401425a43097b0be",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum versatum\nsubtite: Experienced sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Lisa Saffell.](https://inaturalist-open-data.s3.amazonaws.com/photos/200513148/large.jpg){height=300}\n\nFirst reported on Galiano Island in 1984 (specimen in the Spencer Entomological collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20versatum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum versatum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum versatum\nsubtitle: Experienced sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Lisa Saffell.](https://inaturalist-open-data.s3.amazonaws.com/photos/200513148/large.jpg){height=300}\n\nFirst reported on Galiano Island in 1984 (specimen in the Spencer Entomological collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20versatum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum versatum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

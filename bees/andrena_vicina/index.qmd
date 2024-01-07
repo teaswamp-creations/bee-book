@@ -1,6 +1,6 @@
 ---
 title: Andrena vicina
-subtite: Neighbourly mining bee
+subtitle: Neighbourly mining bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("vicina")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=198958"><button type="button" class="btn btn-secondary">See all Andrena vicina in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198958"><button type="button" class="btn btn-secondary">See all Andrena vicina <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

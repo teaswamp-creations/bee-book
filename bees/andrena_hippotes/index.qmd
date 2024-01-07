@@ -1,6 +1,6 @@
 ---
 title: Andrena hippotes
-subtite: Orange-legged miner bee
+subtitle: Orange-legged miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("hippotes")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hippotes.php"><button type="button" class="btn btn-secondary">See all Andrena hippotes in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20hippotes.php"><button type="button" class="btn btn-secondary">See all Andrena hippotes <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

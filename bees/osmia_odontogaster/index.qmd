@@ -1,6 +1,5 @@
 ---
 title: Osmia odontogaster
-subtite: Osmia odontogaster
 engine: knitr
 categories:
   - Megachilidae
@@ -21,5 +20,5 @@ make_species_map("odontogaster")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20odontogaster.php"><button type="button" class="btn btn-secondary">See all Osmia odontogaster in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20odontogaster.php"><button type="button" class="btn btn-secondary">See all Osmia odontogaster <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

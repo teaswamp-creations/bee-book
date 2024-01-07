@@ -1,7 +1,7 @@
 {
-  "hash": "a3884d0e640b12ad4894e169b8ac3f8d",
+  "hash": "da528e839ca3ca99a3df6187222a20d1",
   "result": {
-    "markdown": "---\ntitle: Bombus neoboreus\nsubtite: Active bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ sydcannings.](https://inaturalist-open-data.s3.amazonaws.com/photos/67365194/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=452447\"><button type=\"button\" class=\"btn btn-secondary\">See all Bombus neoboreus in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Bombus neoboreus\nsubtitle: Active bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ sydcannings.](https://inaturalist-open-data.s3.amazonaws.com/photos/67365194/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=452447\"><button type=\"button\" class=\"btn btn-secondary\">See all Bombus neoboreus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

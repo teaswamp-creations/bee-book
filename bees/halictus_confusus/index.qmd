@@ -1,6 +1,6 @@
 ---
 title: Halictus confusus
-subtite: Confusing furrow bee
+subtitle: Confusing furrow bee
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +21,5 @@ make_species_map("confusus")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=199115"><button type="button" class="btn btn-secondary">See all Halictus confusus in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=199115"><button type="button" class="btn btn-secondary">See all Halictus confusus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Andrena transnigra
-subtite: Black-banded mining bee
+subtitle: Black-banded mining bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("transnigra")
 <center>
 
 
-<a href="https://www.inaturalist.org/observations?place_id=7085&subview=map&taxon_id=213600"><button type="button" class="btn btn-secondary">See all Andrena transnigra in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.inaturalist.org/observations?place_id=any&quality_grade=research&subview=map&taxon_id=213600"><button type="button" class="btn btn-secondary">See all Andrena transnigra <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

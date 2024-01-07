@@ -1,6 +1,6 @@
 ---
 title: Nomada perbella
-subtite: Gorgeous cuckoo nomad bee
+subtitle: Gorgeous cuckoo nomad bee
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada perbella in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada perbella <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,5 @@
 ---
 title: Xylocopa brasilianorum
-subtite: Xlocopa brasilianorum
 engine: knitr
 categories:
   - Apidae
@@ -9,7 +8,7 @@ description:  <span class="pe-badge">PM Evidence</span>
 ---
 ![`r emo::ji("copyright")` Thais Andrade.](https://inaturalist-open-data.s3.amazonaws.com/photos/67851428/large.jpeg){height=300}
 
-
+Collected in the Lower Mainland in 1949 (specimen in the C.A. Triplehorn Insect Collection)
 
 
 
@@ -21,5 +20,5 @@ make_species_map("brasilianorum")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=574678"><button type="button" class="btn btn-secondary">See all Xylocopa brasilianorum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=574678"><button type="button" class="btn btn-secondary">See all Xylocopa brasilianorum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Lasioglossum dashwoodi
-subtite: Dashwood's sweat bee
+subtitle: Dashwood's sweat bee
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +21,5 @@ make_species_map("dashwoodi")
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum dashwoodi in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum dashwoodi <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

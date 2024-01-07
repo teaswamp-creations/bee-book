@@ -1,6 +1,5 @@
 ---
 title: Andrena concinnula
-subtite: Andrena concinnula
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +20,5 @@ make_species_map("concinnula")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula.php"><button type="button" class="btn btn-secondary">See all Andrena concinnula in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula.php"><button type="button" class="btn btn-secondary">See all Andrena concinnula <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

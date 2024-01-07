@@ -1,6 +1,6 @@
 ---
 title: Nomada crotchii
-subtite: Crotch's nomad bee
+subtitle: Crotch's nomad bee
 engine: knitr
 categories:
   - Apidae
@@ -21,5 +21,5 @@ make_species_map("crotchii")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=1426446"><button type="button" class="btn btn-secondary">See all Nomada crotchii in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1426446"><button type="button" class="btn btn-secondary">See all Nomada crotchii <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

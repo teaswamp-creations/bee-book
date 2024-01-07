@@ -1,6 +1,5 @@
 ---
 title: Nomada citrina
-subtite: Nomada citrina
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada citrina in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada citrina <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

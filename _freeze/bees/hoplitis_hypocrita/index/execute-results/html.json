@@ -1,7 +1,7 @@
 {
-  "hash": "d91bca4e531b9e717528b959ab84d73e",
+  "hash": "60bd349133b66e2040e82068ab58e2e2",
   "result": {
-    "markdown": "---\ntitle: Hoplitis hypocrita\nsubtite: Mimic small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David Cappaert.](https://inaturalist-open-data.s3.amazonaws.com/photos/108521775/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20hypocrita.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis hypocrita in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Hoplitis hypocrita\nsubtitle: Mimic small-mason bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David Cappaert.](https://inaturalist-open-data.s3.amazonaws.com/photos/108521775/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20hypocrita.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis hypocrita <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

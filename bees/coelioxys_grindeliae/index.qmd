@@ -1,6 +1,5 @@
 ---
 title: Coelioxys grindeliae
-subtite: Coelioxys grindeliae
 engine: knitr
 categories:
   - Megachilidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Coelioxys grindeliae in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Coelioxys grindeliae <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

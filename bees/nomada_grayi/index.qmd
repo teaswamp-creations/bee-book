@@ -1,6 +1,5 @@
 ---
 title: Nomada grayi
-subtite: Nomada grayi
 engine: knitr
 categories:
   - Apidae
@@ -16,5 +15,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada grayi in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Nomada grayi <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Andrena subtilis
-subtite: Subtle miner bee
+subtitle: Subtle miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -21,5 +21,5 @@ make_species_map("subtilis")
 <center>
 
 
-<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis.php"><button type="button" class="btn btn-secondary">See all Andrena subtilis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20subtilis.php"><button type="button" class="btn btn-secondary">See all Andrena subtilis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

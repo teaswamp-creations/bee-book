@@ -1,6 +1,5 @@
 ---
 title: Sphecodes mandibularis
-subtite: Sphecodes mandibularis
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +20,5 @@ make_species_map("mandibularis")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199065"><button type="button" class="btn btn-secondary">See all Sphecodes mandibularis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199065"><button type="button" class="btn btn-secondary">See all Sphecodes mandibularis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -1,6 +1,6 @@
 ---
 title: Andrena melanochroa
-subtite: Rose miner bee
+subtitle: Rose miner bee
 engine: knitr
 categories:
   - Andrenidae
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198982"><button type="button" class="btn btn-secondary">See all Andrena melanochroa in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=198982"><button type="button" class="btn btn-secondary">See all Andrena melanochroa <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

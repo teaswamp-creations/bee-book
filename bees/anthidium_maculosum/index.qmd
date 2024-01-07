@@ -1,13 +1,13 @@
 ---
 title: Anthidium maculosum
-subtite: Spotted woolcarder bee
+subtitle: Spotted woolcarder bee
 engine: knitr
 categories:
   - Megachilidae
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` dougdanforth.](https://static.inaturalist.org/photos/222102501/medium.jpeg){height=300}
+![`r emo::ji("copyright")` Paule Hjertaas.](https://inaturalist-open-data.s3.amazonaws.com/photos/332635849/medium.jpg){height=300}
 
 Sighted on Vancouver Island in 2022 with no subsequent sightings (iNaturalist)
 
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=308703"><button type="button" class="btn btn-secondary">See all Anthidium maculosum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=308703"><button type="button" class="btn btn-secondary">See all Anthidium maculosum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

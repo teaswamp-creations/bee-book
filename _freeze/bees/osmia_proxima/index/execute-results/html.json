@@ -1,7 +1,7 @@
 {
-  "hash": "eead61ec641f45884699577a3a041afc",
+  "hash": "71256f4b5b4f286117c744132f5e18ac",
   "result": {
-    "markdown": "---\ntitle: Osmia proxima\nsubtite: Osmaia proxima\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ David Cappaert.](https://inaturalist-open-data.s3.amazonaws.com/photos/336409860/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198853\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia proxima in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Osmia proxima\nsubtitle: Osmaia proxima\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=198853\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia proxima <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

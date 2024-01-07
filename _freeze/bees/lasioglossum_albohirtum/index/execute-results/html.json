@@ -1,7 +1,7 @@
 {
-  "hash": "8c8da280a43a136712fb95317138a131",
+  "hash": "72b861db12673a1284c314866ad54d25",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum albohirtum\nsubtite: Lasioglossum albohirtum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Lisa Hill.](https://inaturalist-open-data.s3.amazonaws.com/photos/277230553/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20albohirtum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum albohirtum in BC <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Lasioglossum albohirtum\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Lisa Hill.](https://inaturalist-open-data.s3.amazonaws.com/photos/277230553/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20albohirtum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum albohirtum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

@@ -1,6 +1,5 @@
 ---
 title: Bombus fernaldae
-subtite: Bombus fernaldae
 engine: knitr
 categories:
   - Apidae
@@ -21,5 +20,5 @@ make_species_map("fernaldae")
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Bombus fernaldae in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="NA"><button type="button" class="btn btn-secondary">See all Bombus fernaldae <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

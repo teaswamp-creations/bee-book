@@ -1,6 +1,5 @@
 ---
 title: Sphecodes pecosensis
-subtite: Sphecodes pecosensis
 engine: knitr
 categories:
   - Halictidae
@@ -21,5 +20,5 @@ make_species_map("pecosensis")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=453354"><button type="button" class="btn btn-secondary">See all Sphecodes pecosensis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=453354"><button type="button" class="btn btn-secondary">See all Sphecodes pecosensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

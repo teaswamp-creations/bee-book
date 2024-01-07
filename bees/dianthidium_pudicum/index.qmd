@@ -1,6 +1,6 @@
 ---
 title: Dianthidium pudicum
-subtite: Modest pebble bee
+subtitle: Modest pebble bee
 engine: knitr
 categories:
   - Megachilidae
@@ -9,12 +9,12 @@ description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge"
 ---
 ![`r emo::ji("copyright")` rwr.](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}
 
-Collected on Galiano Island, 2018 (iNaturalist)
+Collected on Galiano Island, 2018 (iNaturalist - non research grade)
 
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=218318"><button type="button" class="btn btn-secondary">See all Dianthidium pudicum in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218318"><button type="button" class="btn btn-secondary">See all Dianthidium pudicum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

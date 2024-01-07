@@ -1,6 +1,5 @@
 ---
 title: Melecta separata
-subtite: Melecta separata
 engine: knitr
 categories:
   - Apidae
@@ -21,5 +20,5 @@ make_species_map("separata")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=361455"><button type="button" class="btn btn-secondary">See all Melecta separata in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361455"><button type="button" class="btn btn-secondary">See all Melecta separata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

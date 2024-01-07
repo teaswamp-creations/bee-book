@@ -1,11 +1,11 @@
 ---
 title: Bombus centralis
-subtite: Great basin bumblebee
+subtitle: Great basin bumblebee
 engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="sh-badge">SH list</span>
 ---
 ![`r emo::ji("copyright")` Blythe Nilson.](https://inaturalist-open-data.s3.amazonaws.com/photos/213738911/large.jpg){height=300}
 
@@ -16,5 +16,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=321463"><button type="button" class="btn btn-secondary">See all Bombus centralis in BC <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=321463"><button type="button" class="btn btn-secondary">See all Bombus centralis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>
