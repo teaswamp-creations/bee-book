@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}
 
 First reported in Cowichan Garry Oak Reserve in 2005 and again in 2009 (specimens in the Spencer Entomological Collection)
 

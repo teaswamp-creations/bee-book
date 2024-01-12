@@ -6,7 +6,7 @@ categories:
 freeze: auto
 description:  <span class="sh-badge">SH list</span>
 ---
-![`r emo::ji("copyright")` David McCorquodale.](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}
+![`r emo::ji("copyright")` [David McCorquodale ](https://inaturalist.ca/photos/145321672).](https://inaturalist-open-data.s3.amazonaws.com/photos/145321672/large.jpg){height=300}
 
 
 

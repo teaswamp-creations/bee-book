@@ -1,7 +1,7 @@
 {
-  "hash": "219a6ce3cae3b3a3a3018d786449552a",
+  "hash": "0690c929a41656663aa594d1224c27b6",
   "result": {
-    "markdown": "---\ntitle: Hylaeus basalis\nsubtitle: Cinquefoil Masked Bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Denis Doucet.](https://inaturalist-open-data.s3.amazonaws.com/photos/296218493/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199052\"><button type=\"button\" class=\"btn btn-secondary\">See all Hylaeus basalis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Hylaeus basalis\nsubtitle: Cinquefoil Masked Bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ [Denis Doucet ](https://inaturalist.ca/photos/296218493).](https://inaturalist-open-data.s3.amazonaws.com/photos/296218493/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199052\"><button type=\"button\" class=\"btn btn-secondary\">See all Hylaeus basalis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

@@ -1,7 +1,7 @@
 {
-  "hash": "3167a2ba7f122f5407cf39bc3900a27d",
+  "hash": "3784c4e525e1d31c8a9d16c1a7b16739",
   "result": {
-    "markdown": "---\ntitle: Osmia subaustralis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Andrew Simon.](https://inaturalist-open-data.s3.amazonaws.com/photos/43353636/large.jpeg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=226682\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia subaustralis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Osmia subaustralis\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [Andrew Simon ](https://inaturalist.ca/photos/43353636/).](https://inaturalist-open-data.s3.amazonaws.com/photos/43353636/large.jpeg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=226682\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia subaustralis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

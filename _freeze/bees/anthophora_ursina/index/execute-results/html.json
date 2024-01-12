@@ -1,7 +1,7 @@
 {
-  "hash": "cf1a05613b405c08c41c024d44680d86",
+  "hash": "8374b31db068d840ee99b783d1ed96d7",
   "result": {
-    "markdown": "---\ntitle: Anthophora ursina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Will Stuart.](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=213792\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthophora ursina <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Anthophora ursina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [Will Stuart ](https://inaturalist.ca/photos/16987052).](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=213792\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthophora ursina <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

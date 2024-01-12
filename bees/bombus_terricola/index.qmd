@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Thompson Hyggen.](https://inaturalist-open-data.s3.amazonaws.com/photos/327719921/large.jpg){height=300}
+![`r emo::ji("copyright")` [Thompson Hyggen ](https://inaturalist.ca/photos/327719921/).](https://inaturalist-open-data.s3.amazonaws.com/photos/327719921/large.jpg){height=300}
 
 Collected on Vancouver Island (1961) and the Lower Mainland (1964) and again on Vancouver in 1978 (specimens in the Bee Biology and Systematics Laboratory and the LACM entomology Collection)
 

@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg){height=300}
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg){height=300}
 
 Collected in Vancouver in 1957 with no subsequent sightings (specimen in the Spencer Entomological Collection)
 

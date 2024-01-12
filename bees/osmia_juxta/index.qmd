@@ -6,7 +6,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Don Griffiths. Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20juxta%20female%20(3lateral)%20.jpg){height=300}
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20juxta%20female%20(3lateral)%20.jpg){height=300}
 
 Collected on Vancouver Island in 1903 (Bee Biology and Systematics Laboratory dataset) with a subsequent sighting on the Island in 2009 (specimen in the Spencer Entomological Collection)
 

@@ -6,10 +6,13 @@ library(googlesheets4)
 # spreadsheet data
 gs4_auth('galiwatch.info@gmail.com')
 df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') %>%
-  mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list")) %>%
-  mutate(Observer = ifelse(is.na(`Image link`), 'Cait Harrigan', Observer)) %>%
-  mutate(`Image link` = replace_na(`Image link`, '/files/no_bee.png')) %>%
-  mutate(`Common name` = ifelse(`Common name` == paste(Genus, Species), NA, `Common name`))
+  separate(Observer, into=c('Observer', 'obs_link'), '\\(') %>%
+  mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list"),
+         Observer = ifelse(is.na(`Image link`), 'Cait Harrigan', Observer),
+         `Image link` = replace_na(`Image link`, '/files/no_bee.png'),
+         `Common name` = ifelse(`Common name` == paste(Genus, Species), NA, `Common name`),
+         obs_link = gsub("\\)", "", obs_link)
+         ) 
 
 # gbif data
 gbif <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
@@ -63,7 +66,10 @@ make_page <- function(row){
     '\nfreeze: auto',
     '\ndescription: ', make_badges(row),
     '\n---\n',
-    '![`r emo::ji("copyright")` ', row['Observer'], '.](', row['Image link'], '){height=300}', 
+    ifelse(is.na(row['obs_link']), 
+           paste0('![`r emo::ji("copyright")` ', row['Observer'], '.](', row['Image link'], '){height=300}'),
+           paste0('![`r emo::ji("copyright")` [', row['Observer'], '](', row['obs_link'], ')', '.](', row['Image link'], '){height=300}')
+           ),
     '\n\n', ifelse(!is.na(row['Summary note']), row['Summary note'], ''), 
     '\n\n', ifelse(!(row['Species'] %in% gbif$Species), 'No GBIF observations in Pacific Maritime to display.',
                    paste0('\n\n```{r warning=F, message=F, echo=F}\nsource("../../page_functions.R")\nmake_species_map("', row["Species"], '")\n```')

@@ -1,7 +1,7 @@
 {
-  "hash": "387af5a0dd2aabb48af970bbe162a0cb",
+  "hash": "8add956a0ebfafa98aff86600aff69df",
   "result": {
-    "markdown": "---\ntitle: Dianthidium pudicum\nsubtitle: Modest pebble bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ rwr.](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218318\"><button type=\"button\" class=\"btn btn-secondary\">See all Dianthidium pudicum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Dianthidium pudicum\nsubtitle: Modest pebble bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [rwr ](https://www.inaturalist.org/photos/226547162).](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218318\"><button type=\"button\" class=\"btn btn-secondary\">See all Dianthidium pudicum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

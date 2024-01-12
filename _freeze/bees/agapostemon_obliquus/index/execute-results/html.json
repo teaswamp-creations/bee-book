@@ -1,7 +1,7 @@
 {
-  "hash": "dc79e59532707ac44072e828513c32cf",
+  "hash": "f2412edb8416784661e846b39207ca92",
   "result": {
-    "markdown": "---\ntitle: Agapostemon obliquus\nsubtitle: Oblique sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Sam Hough.](https://inaturalist-open-data.s3.amazonaws.com/photos/104649792/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=458979\"><button type=\"button\" class=\"btn btn-secondary\">See all Agapostemon obliquus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "markdown": "---\ntitle: Agapostemon obliquus\nsubtitle: Oblique sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ [Sam Hough ](https://inaturalist.ca/photos/104649792/).](https://inaturalist-open-data.s3.amazonaws.com/photos/104649792/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=458979\"><button type=\"button\" class=\"btn btn-secondary\">See all Agapostemon obliquus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

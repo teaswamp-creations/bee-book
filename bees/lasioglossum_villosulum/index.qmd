@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Carlos Picanço.](https://inaturalist-open-data.s3.amazonaws.com/photos/265940005/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Carlos Picanço ](https://inaturalist.ca/photos/265940005/).](https://inaturalist-open-data.s3.amazonaws.com/photos/265940005/large.jpeg){height=300}
 
 Collected on Vancouver Island and the Gulf Islands in 2010 and 2014, respectively (specimens in the Centre for Biodiversity Genomics and material samples in the iBOL project)
 

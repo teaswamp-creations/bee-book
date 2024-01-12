@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
 ---
-![`r emo::ji("copyright")` Monica Jahrig.](https://inaturalist-open-data.s3.amazonaws.com/photos/330192272/large.jpg){height=300}
+![`r emo::ji("copyright")` [Monica Jahrig ](https://inaturalist.ca/photos/330192272).](https://inaturalist-open-data.s3.amazonaws.com/photos/330192272/large.jpg){height=300}
 
 
 

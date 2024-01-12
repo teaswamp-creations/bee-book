@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
 ---
-![`r emo::ji("copyright")` Tyler Kelly.](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Tyler Kelly ](https://inaturalist.ca/photos/290631650/).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}
 
 Collected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-4131, private collection)
 

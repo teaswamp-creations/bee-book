@@ -6,7 +6,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Thais Andrade.](https://inaturalist-open-data.s3.amazonaws.com/photos/67851428/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Thais Andrade ](https://inaturalist.ca/photos/67851428/).](https://inaturalist-open-data.s3.amazonaws.com/photos/67851428/large.jpeg){height=300}
 
 Collected in the Lower Mainland in 1949 (specimen in the C.A. Triplehorn Insect Collection)
 

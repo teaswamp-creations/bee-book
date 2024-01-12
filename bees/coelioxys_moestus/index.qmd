@@ -7,7 +7,7 @@ categories:
 freeze: auto
 description:  <span class="pe-badge">PM Evidence</span>
 ---
-![`r emo::ji("copyright")` Riley Walsh.](https://inaturalist-open-data.s3.amazonaws.com/photos/182267360/large.jpg){height=300}
+![`r emo::ji("copyright")` [Riley Walsh ](https://inaturalist.ca/photos/182267360/).](https://inaturalist-open-data.s3.amazonaws.com/photos/182267360/large.jpg){height=300}
 
 Collected on Vancouver Island in 2009 (material sample in the iBOL Project)
 
