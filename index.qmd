@@ -113,9 +113,8 @@ gbif %>%
   geom_bar(stat='identity', position = 'dodge') +
   ggpubr::theme_pubr() +
   coord_flip() + 
-  #scale_fill_brewer(palette = "Paired") + 
-  #ggpubr::yscale("log10", .format = TRUE) + 
-  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF"))
+  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF")) + 
+  labs(y = 'Count', x = 'Family', fill='Collection')
 
 ```
 
