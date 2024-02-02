@@ -5,6 +5,7 @@ project:
 website:
   title: ""
   favicon: "files/no_bee.png"
+  google-analytics: "G-YZBNVRR4EQ"
   page-footer:
     center: |
       *a Tea Swamp project* 
