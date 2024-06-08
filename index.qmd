@@ -74,51 +74,6 @@ This resource focuses on the Pacific Maritime ecozone in BC, Canada. For the exa
 See the [Ecozones Framework of Canada](http://www.ecozones.ca) for more information. 
 
 
-# Data Completeness
-
-Bee book gallery shows two pieces of information per species page: 
-
-1. Bee image (curated by KQ)
-2. Map of observations in Pacific Maritime (pulled from GBIF)
-
-Page completeness is as follows:
-
-```{r}
-upset_list = list(`Has PM map` = unique(gbif$Species),
-                  `In bee gallery` = unique(df$Species), 
-                  `Has image` = unique(df$Species[!is.na(df$`Image link`)])
-)
-
-UpSetR::upset(UpSetR::fromList(upset_list))
-
-```
-
-# Family coverage
-
-```{r}
-gbif %>%
-  filter(!is.na(Species)) %>%
-  group_by(family, Species) %>% 
-  summarize(n()) %>%
-  group_by(family) %>% 
-  summarize(gbif=n()) %>%
-  rename(Family=family) %>%
-  merge(df %>%
-    filter(!is.na(Species)) %>%
-    group_by(Family) %>% 
-    summarize(gallery=n())
-  ) %>%
-  pivot_longer(-c(Family)) %>%
-  ggplot(aes(x = reorder(Family, value), y = value, fill=name)) + 
-  geom_bar(stat='identity', position = 'dodge') +
-  ggpubr::theme_pubr() +
-  coord_flip() + 
-  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF")) + 
-  labs(y = 'Count', x = 'Family', fill='Collection')
-
-```
-
-
 # Bee families in the Pacific Maritime
 
 These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. 37 historical datasets are represented in our GBIF data, [downloaded December 27th 2023](https://doi.org/10.15468/dl.vtr55y). 
@@ -163,13 +118,6 @@ gbif %>%
   map_plot()
 ```
 
-<br>
-
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Andrenidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
-
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Andrenidae") %>% filter(physical_record) %>% inline_summary()`.
-
-`r df %>% filter(Family=="Andrenidae") %>% table_summary()`
 
 ## Apidae
 
@@ -179,13 +127,6 @@ gbif %>%
   map_plot()
 ```
 
-<br>
-
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Apidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
-
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Apidae") %>% filter(physical_record) %>% inline_summary()`.
-
-`r df %>% filter(Family=="Apidae") %>% table_summary()`
 
 ## Colletidae
 
@@ -194,13 +135,7 @@ gbif %>%
   filter(family == 'Colletidae') %>%
   map_plot()
 ```
-<br>
 
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Colletidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
-
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Colletidae") %>% filter(physical_record) %>% inline_summary()`.
-
-`r df %>% filter(Family=="Colletidae") %>% table_summary()`
 
 ## Halictidae
 
@@ -210,13 +145,6 @@ gbif %>%
   map_plot()
 ```
 
-<br>
-
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Halictidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
-
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Halictidae") %>% filter(physical_record) %>% inline_summary()`.
-
-`r df %>% filter(Family=="Halictidae") %>% table_summary()`
 
 ## Megachilidae
 
@@ -226,13 +154,6 @@ gbif %>%
   map_plot()
 ```
 
-<br>
-
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Megachilidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
-
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Megachilidae") %>% filter(physical_record) %>% inline_summary()`.
-
-`r df %>% filter(Family=="Megachilidae") %>% table_summary()`
 
 ## Melittidae
 
@@ -243,24 +164,53 @@ gbif %>%
 ```
 
 
-<br>
+:::
 
-* Sheffield and Heron’s 2018 baseline reference list: `r df %>% filter(Family=="Melittidae") %>% filter(Sheffield=='Y') %>% inline_summary()`.
 
-* Physical records of preserved specimens or images documented in GBIF, iNaturalist, the Spencer Entomological Collection, or the Galiano Life List: `r df %>% filter(Family=="Melittidae") %>% filter(physical_record) %>% inline_summary()`.
+# Data Completeness
+
+Bee book gallery shows two pieces of information per species page: 
+
+1. Bee image (curated by KQ)
+2. Map of observations in Pacific Maritime (pulled from GBIF)
+
+Page completeness is as follows:
 
 ```{r}
-df %>% 
-  filter(Family=="Melittidae") %>%
-    filter((Sheffield=='Y') & (physical_record==T)) %>%
-    mutate(Species = paste(Genus, Species)) %>% 
-    select(Species) %>%
-    kable(caption = paste0("Bee species on Sheffield and Heron’s list and with physical records (", sum(!is.na(.)), " species)"), rownames=F, col.names = NULL) %>%
-  kable_styling(bootstrap_options = "striped", full_width = T) %>%
-    column_spec(1, italic=T)
+upset_list = list(`Has PM map` = unique(gbif$Species),
+                  `In bee gallery` = unique(df$Species), 
+                  `Has image` = unique(df$Species[!is.na(df$`Image link`)])
+)
+
+UpSetR::upset(UpSetR::fromList(upset_list))
+
 ```
 
-:::
+# Family coverage
+
+```{r}
+gbif %>%
+  filter(!is.na(Species)) %>%
+  group_by(family, Species) %>% 
+  summarize(n()) %>%
+  group_by(family) %>% 
+  summarize(gbif=n()) %>%
+  rename(Family=family) %>%
+  merge(df %>%
+    filter(!is.na(Species)) %>%
+    group_by(Family) %>% 
+    summarize(gallery=n())
+  ) %>%
+  pivot_longer(-c(Family)) %>%
+  ggplot(aes(x = reorder(Family, value), y = value, fill=name)) + 
+  geom_bar(stat='identity', position = 'dodge') +
+  ggpubr::theme_pubr() +
+  coord_flip() + 
+  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF")) + 
+  labs(y = 'Count', x = 'Family', fill='Collection')
+
+```
+
 
 
 Last updated: `r now()`
