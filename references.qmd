@@ -1,0 +1,10 @@
+---
+title: References
+bibliography: references.bib
+csl: vancouver.csl
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::

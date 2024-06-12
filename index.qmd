@@ -1,5 +1,7 @@
 ---
 title: "Pacific Maritime Big Book of Bees"
+bibliography: references.bib
+csl: vancouver.csl
 ---
 
 Created and designed by Cait Harrigan & Kath Quayle
@@ -16,69 +18,58 @@ source('generate_pages.R')
 
 ```
 
-## Big Book of Bees!  
+# Big Book of Bees!
 
-This book features a gallery of native bee species that have been documented in BC’s Pacific Maritime ecozone at one time or another. The gallery is based on the comprehensive list of species published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001) together with more recent research grade sightings in [iNaturalist](https://www.inaturalist.org/), [GBIF](https://www.gbif.org/) and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/).
+Our Big Book of Bees features a gallery of `r nrow(df)` wild bee species that have been documented in BC’s Pacific Maritime region at one time or another between 1854 and Apr 2024. The gallery is based on a new annotated catalogue ([reference list](/references.html)) of native bees in this region, aka the “Best List” (Quayle, Zand and Best, 2024, manuscript in preparation). This catalogue updates the information in the checklist published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001). It includes new findings since 2018 in published literature, [iNaturalist](https://www.inaturalist.org/) (research grade), [GBIF](https://www.gbif.org/), the [BC Bee Atlas Database](https://www.bcnativebees.org/bc-bee-atlas), and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/). 
 
-Images have been collected from iNaturalist as well as from the [Spencer Entomological Collection (SEC) Collection](https://www.zoology.ubc.ca/entomology/), to whom we give special thanks for allowing us to reproduce their specimen images for this book.
-
-We indicate some attributes with the following badges:  
+Images have been collected from iNaturalist as well as from the [Spencer Entomological Collection (SEC)](https://www.zoology.ubc.ca/entomology/), to whom we give special thanks for allowing us to reproduce their specimen images for this book.
 
 
-Badge | Meaning 
-:-----:|---------
-<span class="sh-badge">SH list</span> | Species present on Sheffield and Heron 2018 list
-<span class="pe-badge">PM Evidence</span> | Physical evidence exists for this species' presence in the Pacific Maritime (research-grade image, or preserved specimen)
-<span class="gali-badge">Galiano</span> | Evidence for this species' presence on Galiano Island, BC
+We indicate some attributes with the following badges:
 
-: {tbl-colwidths="[25,75]"}
+|                  Badge                  | Meaning                                                                                               |
+|:------------------------------:|----------------------------------------|
+| [Lower Mainland]{.lower-mainland-badge} | Species present in the lower mainland south of Squamish: Metro Vancouver, Fraser Valley               |
+|          [Coast]{.coast-badge}          | Central coast and Northwest: Islands and mainland coast north of Squamish, excluding Vancouver Island |
+|    [Vancouver Island]{.vanc-isl-badge}    | Species present on Vancouver Island, or Southern Gulf Islands                                         |
+|         [Galiano]{.gali-badge}          | Species present on Galiano Island                                                                     |
 
-## Why we made this book
+: {tbl-colwidths="\[25,75\]"}
 
-We made this book to provide easy access to information that can help you identify native bees that have been found in BC’s Pacific Maritime region. The photo gallery lets you compare your bee picture or specimen to species known to be in the region, and links to GBIF and iNaturalist maps show you where and when different species have been observed. 
+# Why we made this book
 
-We focus on the Pacific Maritime region, and link out to records of the same species if they've been spotted elsewhere in the world. Our goal is not to duplicate functionality of well-established aggregators, but to provide different options for organizing and visualizing the same data. 
+We made this book to provide easy access to information that can help you identify native bees that have been found in BC’s Pacific Maritime region. The photo gallery lets you compare your bee picture or specimen to species known to be in the region, and links to GBIF and iNaturalist maps show you where and when different species have been observed.
 
-::: {.callout-note icon=false}
-## Feedback 
+We focus on the Pacific Maritime region, and link out to records of the same species if they've been spotted elsewhere in the world. Our goal is not to duplicate functionality of well-established aggregators, but to provide different options for organizing and visualizing the same data.
 
-If you find this resource useful we'd love to hear about it! 
-Let us know using our [survey page](https://forms.gle/WQtfTvAeJDGKkrP37). Any comments and feedback re missing bees, incorrect entries, etc. are also much appreciated!
+::: {.callout-note icon="false"}
+# Feedback
+
+If you find this resource useful we'd love to hear about it! Let us know using our [survey page](https://forms.gle/WQtfTvAeJDGKkrP37). Any comments and feedback re missing bees, incorrect entries, etc. are also much appreciated!
 :::
 
-Example usage: 
+Example usage:
 
-* Select a species in the gallery
-* Check out the GBIF (Global Biodiversity Information Facility) map where available
-* Compare with your own observations to help identify bees
+-   Select a species in the gallery
+-   Check out the GBIF (Global Biodiversity Information Facility) map where available
+-   Compare with your own observations to help identify bees
 
-The species pages are set up to help answer "When was this species last seen in the Pacific Maritime?" 
+The species pages are set up to help answer "When was this species last seen in the Pacific Maritime?"
 
- 
-<center>
-<a href="gallery.html"><button type="button" class="btn btn-secondary">Take me to the bees! <i class="fa-solid fa-arrow-right"></i> </button></a>
-</center>
-
+<center><a href="gallery.html"><button type="button" class="btn btn-secondary">Take me to the bees! <i class="fa-solid fa-arrow-right"></i> </button></a></center>
 
 # Ecozones of British Columbia
 
-This resource focuses on the Pacific Maritime ecozone in BC, Canada. For the exact polygon definition we used for this ecozone, see the GBIF data DOI link below. 
+This resource focuses on the Pacific Maritime ecozone in BC, Canada. For the exact polygon definition we used for this ecozone, see the GBIF data DOI link below.
 
-![Modified from Cannings (2016) [^1] to include the boundary of the Western Interior Basin (WIB), which is comparable to the Southern Interior ecoprovince of BC’s Ecoregion Classification System [^2]. ](files/ecozones.png){width=60% float=center fig_alt="Map of BC shaded to show ecozones. Pacific maritime is highlighted on the west coast of BC, Canada"}
-
-[^1]: Cannings, R. A. (2016). The Ecozones of British Columbia, with special reference to Lepidoptera.
+![Modified from Cannings 2016 @cannings2016ecozones to include the boundary of the Western Interior Basin (WIB), which is comparable to the Southern Interior ecoprovince of BC’s Ecoregion Classification System @demarchi2011introduction.](files/ecozones.png){width="60%" float="center" fig_alt="Map of BC shaded to show ecozones. Pacific maritime is highlighted on the west coast of BC, Canada"}
 
 
-[^2]: Demarchi DA. Third edition March, 2011. An introduction to the ecoregions of British Columbia. https://www2.gov.bc.ca/assets/gov/environment/plants-animals-and-ecosystems/ecosystems/broad-ecosystem/an_introduction_to_the_ecoregions_of_british_columbia.pdf. Accessed 25/08/2023.
-
-See the [Ecozones Framework of Canada](http://www.ecozones.ca) for more information. 
-
+See the [Ecozones Framework of Canada](http://www.ecozones.ca) for more information.
 
 # Bee families in the Pacific Maritime
 
-These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. 37 historical datasets are represented in our GBIF data, [downloaded December 27th 2023](https://doi.org/10.15468/dl.vtr55y). 
-
-
+These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. 37 historical datasets are represented in our GBIF data, [downloaded December 27th 2023](https://doi.org/10.15468/dl.vtr55y).
 
 ```{r}
 map_plot <- function(df){
@@ -106,10 +97,7 @@ map_plot <- function(df){
 }
 ```
 
-
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ## Andrenidae
 
 ```{r}
@@ -117,7 +105,6 @@ gbif %>%
   filter(family == 'Andrenidae') %>%
   map_plot()
 ```
-
 
 ## Apidae
 
@@ -127,7 +114,6 @@ gbif %>%
   map_plot()
 ```
 
-
 ## Colletidae
 
 ```{r}
@@ -135,7 +121,6 @@ gbif %>%
   filter(family == 'Colletidae') %>%
   map_plot()
 ```
-
 
 ## Halictidae
 
@@ -145,7 +130,6 @@ gbif %>%
   map_plot()
 ```
 
-
 ## Megachilidae
 
 ```{r}
@@ -154,7 +138,6 @@ gbif %>%
   map_plot()
 ```
 
-
 ## Melittidae
 
 ```{r}
@@ -162,17 +145,14 @@ gbif %>%
   filter(family == 'Melittidae') %>%
   map_plot()
 ```
-
-
 :::
-
 
 # Data Completeness
 
-Bee book gallery shows two pieces of information per species page: 
+Bee book gallery shows two pieces of information per species page:
 
-1. Bee image (curated by KQ)
-2. Map of observations in Pacific Maritime (pulled from GBIF)
+1.  Bee image (curated by KQ)
+2.  Map of observations in Pacific Maritime (pulled from GBIF)
 
 Page completeness is as follows:
 
@@ -210,7 +190,5 @@ gbif %>%
   labs(y = 'Count', x = 'Family', fill='Collection')
 
 ```
-
-
 
 Last updated: `r now()`
