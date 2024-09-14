@@ -93,7 +93,7 @@ summary %>%
 
 ### Resources
 
-  * [GBIF doi](https://doi.org/10.15468/dl.v6ttrjs)
+  * [GBIF doi](https://doi.org/10.15468/dl.v6ttrj)
   * [Bee book data](https://doi.org/10.5281/zenodo.13757007)
   * [Code release](https://github.com/teaswamp-creations/bee-book/releases/tag/v2.0.0)
   
