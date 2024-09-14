@@ -1,0 +1,28 @@
+---
+title: Andrena microchlora
+subtitle: Small green miner bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora%20female%20(3lateral)%20.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora%20female%20(3lateral)%20.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Elle), 2005, nr <span class="hl-place-name">Victoria</span>, <span class="hl-place-name">Duncan</span>, <span class="hl-place-name">Sooke</span>; (Neame), 2007, <span class="hl-place-name">Victoria</span>; (Gielens), 2007, <span class="hl-place-name">Cowichan</span>, <span class="hl-place-name">Duncan</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("microchlora")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora.php"><button type="button" class="btn btn-secondary">See all Andrena microchlora <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

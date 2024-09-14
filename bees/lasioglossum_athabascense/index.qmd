@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
-Collected in the Lower Mainland (1929) and the Fraser Valley in 2003 (specimens in the Illinois Natural History Survey Collection and the Ratti Master Thesis Collection)
+## Observation notes  
+McGinley 1986: <span class="hl-place-name">Abbotsford</span>; <span class="hl-place-name">Manning Park</span>. Ratti Masters thesis collection: 2003, <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Elle), 2005; (Gielens), 2009, 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

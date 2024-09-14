@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}
 
+## Observation notes  
+LaBerge 1980: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Spencer Entomological Collection, UBC: (S.G. Cannings), 1986, <span class="hl-place-name">Manning Prov. Pk.</span> Guzman et al., 2023: (Kelly), 2017), <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

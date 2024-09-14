@@ -2,6 +2,8 @@
 title: "Pacific Maritime Big Book of Bees"
 bibliography: references.bib
 csl: vancouver.csl
+editor_options: 
+  chunk_output_type: console
 ---
 
 Created and designed by Cait Harrigan & Kath Quayle
@@ -20,7 +22,7 @@ source('generate_pages.R')
 
 # Big Book of Bees!
 
-Our Big Book of Bees features a gallery of `r nrow(df)` wild bee species that have been documented in BC’s Pacific Maritime region at one time or another between 1854 and Apr 2024. The gallery is based on a new annotated catalogue ([reference list](/references.html)) of native bees in this region, aka the “Best List” (Quayle, Zand and Best, 2024, manuscript in preparation). This catalogue updates the information in the checklist published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001). It includes new findings since 2018 in published literature, [iNaturalist](https://www.inaturalist.org/) (research grade), [GBIF](https://www.gbif.org/), the [BC Bee Atlas Database](https://www.bcnativebees.org/bc-bee-atlas), and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/). 
+Our Big Book of Bees features a gallery of `r nrow(df)` wild bee species that have been documented in BC’s Pacific Maritime region at one time or another between 1854 and Apr 2024. The gallery is based on an annotated catalogue ([reference list](/references.html)) of native bees in this region, aka the “Best List” (Quayle, Zand and Best, 2024, manuscript in preparation). This catalogue updates the information in the checklist published by [Sheffield and Heron in 2018](https://journal.entsocbc.ca/index.php/journal/article/view/1001). It includes new findings since 2018 in published literature, [iNaturalist](https://www.inaturalist.org/) (research grade), [GBIF](https://www.gbif.org/), the [BC Bee Atlas Database](https://www.bcnativebees.org/bc-bee-atlas), and the [Galiano Biodiversity Life List](https://biogaliano.org/taxa/). 
 
 Images have been collected from iNaturalist as well as from the [Spencer Entomological Collection (SEC)](https://www.zoology.ubc.ca/entomology/), to whom we give special thanks for allowing us to reproduce their specimen images for this book.
 
@@ -48,15 +50,23 @@ We focus on the Pacific Maritime region, and link out to records of the same spe
 If you find this resource useful we'd love to hear about it! Let us know using our [survey page](https://forms.gle/WQtfTvAeJDGKkrP37). Any comments and feedback re missing bees, incorrect entries, etc. are also much appreciated!
 :::
 
-Example usage:
+# Example usage
+
+The species pages are set up to help answer "When was this species last seen in the Pacific Maritime?"
 
 -   Select a species in the gallery
 -   Check out the GBIF (Global Biodiversity Information Facility) map where available
 -   Compare with your own observations to help identify bees
 
-The species pages are set up to help answer "When was this species last seen in the Pacific Maritime?"
-
 <center><a href="gallery.html"><button type="button" class="btn btn-secondary">Take me to the bees! <i class="fa-solid fa-arrow-right"></i> </button></a></center>
+
+## Observation notes
+
+Bee pages have notes on historical observations curated from literature. See our [references page](references.html) for a complete list of sources.
+
+An observation note is formatted as follows: Author et al., date of publication: (Name of observer), date collected, <span class="hl-place-name">location collected</span>. For example:
+
+> Guzman et al., 2023: (Gielens), 2010, <span class="hl-place-name">Vancouver Island</span>
 
 # Ecozones of British Columbia
 
@@ -69,19 +79,20 @@ See the [Ecozones Framework of Canada](http://www.ecozones.ca) for more informat
 
 # Bee families in the Pacific Maritime
 
-These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. 37 historical datasets are represented in our GBIF data, [downloaded December 27th 2023](https://doi.org/10.15468/dl.vtr55y).
+These maps show observations from GBIF for bee families in the Pacific Maritime. Double click any genus to isolate it on the map. Several historical datasets are represented in our GBIF data, [downloaded September 12th 2024](https://doi.org/10.15468/dl.v6ttrj).
 
 ```{r}
 map_plot <- function(df){
   df %>%
     filter(!is.na(Species))%>%
-    mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>%
-  mutate(Year = ordered(Year, levels = c('Before 2015', 2015:2023))) %>%
-  complete(Year, Genus) %>%
+    mutate(Year=ifelse(Year<2015, 'Before 2015', Year)) %>% 
+    mutate(Year = ordered(Year, levels = c('Before 2015', 2015:year(ymd(today()))))) %>%
+  complete(Year, Genus) %>% 
   plot_ly() %>%
   add_trace(
     lat = ~lat, lon =~lon,
-    mode = 'markers', type = 'scattermapbox',
+    mode = 'markers', 
+    type = 'scattermapbox',
     frame= ~Year,
     color = ~Genus,
     text = ~paste('Species:', Genus, Species, '\nObserved:', stamp("March 1, 1999")(date)),
@@ -147,24 +158,6 @@ gbif %>%
 ```
 :::
 
-# Data Completeness
-
-Bee book gallery shows two pieces of information per species page:
-
-1.  Bee image (curated by KQ)
-2.  Map of observations in Pacific Maritime (pulled from GBIF)
-
-Page completeness is as follows:
-
-```{r}
-upset_list = list(`Has PM map` = unique(gbif$Species),
-                  `In bee gallery` = unique(df$Species), 
-                  `Has image` = unique(df$Species[!is.na(df$`Image link`)])
-)
-
-UpSetR::upset(UpSetR::fromList(upset_list))
-
-```
 
 # Family coverage
 
@@ -186,9 +179,11 @@ gbif %>%
   geom_bar(stat='identity', position = 'dodge') +
   ggpubr::theme_pubr() +
   coord_flip() + 
-  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Book", "GBIF")) + 
+  scale_fill_manual(values = c('#376D61', 'grey70'), labels = c("Bee Gallery", "GBIF")) + 
   labs(y = 'Count', x = 'Family', fill='Collection')
 
 ```
 
 Last updated: `r now()`
+
+

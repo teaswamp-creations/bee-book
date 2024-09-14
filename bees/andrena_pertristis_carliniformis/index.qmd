@@ -1,0 +1,23 @@
+---
+title: Andrena pertristis carliniformis
+subtitle: Mournful mining bee sub species
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Criddle et al. 1924: (F.W.L.Sladen),  <span class="hl-place-name">Agassiz</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena pertristis carliniformis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

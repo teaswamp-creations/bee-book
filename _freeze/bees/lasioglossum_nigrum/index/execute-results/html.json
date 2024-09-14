@@ -1,8 +1,11 @@
 {
-  "hash": "43d4986f3413f596784d2540d9f33c45",
+  "hash": "d9e5513daf7f1ddc16d9355317d10c73",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum nigrum\nsubtitle: Black sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum nigrum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum nigrum\nsubtitle: Black sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Neame), 2007, <span class=\"hl-place-name\">Saanich</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum nigrum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

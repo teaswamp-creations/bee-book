@@ -1,8 +1,11 @@
 {
-  "hash": "2fc1d85db4f5d319fdd3716ae3541dcc",
+  "hash": "a54e0fd3fb0fa0ec1547333618406866",
   "result": {
-    "markdown": "---\ntitle: Eucera cordleyi\nsubtitle: Cordley's long-horned bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [Tyler Kelly ](https://inaturalist.ca/photos/290631650/).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}\n\nCollected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-4131, private collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361449\"><button type=\"button\" class=\"btn btn-secondary\">See all Eucera cordleyi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Eucera cordleyi\nsubtitle: Cordley's long-horned bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"gali-badge\">Galiano</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg\n---\n\n![©️ [Tyler ](Kelly ).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}\n\n## Observation notes  \nBiodiversity Galiano Life List: (Ed Andrusiak), 2017, <span class=\"hl-place-name\">Galiano Island</span> (specimen LRB17-4131, Lincoln Best, private collection).\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361449\"><button type=\"button\" class=\"btn btn-secondary\">See all Eucera cordleyi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,17 @@
+{
+  "hash": "2283138f7036b11bdaaef36f6b65036c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Osmia nigrifrons\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGibson 1917: 1914, (Sladen), <span class=\"hl-place-name\">Invermere</span>. Sandhouse 1924: (E.P.VanDuzee), 1920, <span class=\"hl-place-name\"><span class=\"hl-place-name\">Nanaimo</span> Biological Station</span>. Buckell 1950: (G.J.Spencer), 1920, <span class=\"hl-place-name\">Vancouver</span>; (E.P.VanDuzee), 1920, <span class=\"hl-place-name\">Nanaimo</span>. Guzman et al., 2023: (Neame), 2007; (Gielens), 2009, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nigrifrons <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

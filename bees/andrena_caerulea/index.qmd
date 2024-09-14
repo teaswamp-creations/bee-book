@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/large.jpg
 ---
 ![`r emo::ji("copyright")` [Sean Werle ](https://inaturalist.ca/photos/188536234).](https://inaturalist-open-data.s3.amazonaws.com/photos/188536234/large.jpg){height=300}
 
+## Observation notes  
+Smith 1879: (Dr Lyall), <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Cresson 1887: <span class="hl-place-name">Vancouver</span>. Viereck 1904c: <span class="hl-place-name">Vancouver</span>. Criddle et al. 1924: (Treherne), <span class="hl-place-name">Victoria</span>. LaBerge and Ribble 1975: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Spencer Entomological Collection, UBC: (Elle), 2009, <span class="hl-place-name">Cowichan</span> Garry Oak Reserve, nr. <span class="hl-place-name">Quamichan Lake</span>, <span class="hl-place-name">Duncan</span>; <span class="hl-place-name">Mt. Tzuhalem</span> Ecological Reserve, nr. <span class="hl-place-name">Duncan</span>. M. Clausen, Master's thesis: <span class="hl-place-name">Delta</span>, 2017. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Gillespie), 2013, 2014, 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2015, <span class="hl-place-name">Abbotsford</span>. (Wray), 2012; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

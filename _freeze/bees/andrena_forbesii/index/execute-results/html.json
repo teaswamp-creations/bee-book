@@ -1,8 +1,11 @@
 {
-  "hash": "31651a09141020d00f3b5e57b040a271",
+  "hash": "10b645ddc3e19c7653010f78677f02b7",
   "result": {
-    "markdown": "---\ntitle: Andrena forbesii\nsubtitle: Forbe's mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ [msnider400 ](https://inaturalist.ca/photos/200022316).](https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=198993\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena forbesii <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena forbesii\nsubtitle: Forbe's mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg\n---\n\n![©️ [msnider400 ](https://inaturalist.ca/photos/200022316).](https://inaturalist-open-data.s3.amazonaws.com/photos/200022316/medium.jpeg){height=300}\n\n## Observation notes  \nLaBerge 1973: (Robertson), 1891; <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=198993\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena forbesii <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

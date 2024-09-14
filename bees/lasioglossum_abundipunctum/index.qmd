@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="gali-badge">Galiano</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}
 
-Collected on Galiano Island in 1983 (specimen in the Spencer Entomological Collection)
+## Observation notes  
+Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("abundipunctum")
+```
 <br><br>
 <center>
 

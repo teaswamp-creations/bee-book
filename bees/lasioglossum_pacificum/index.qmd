@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/321994390/large.jpg
 ---
 ![`r emo::ji("copyright")` [Peter Abrahamsen ](https://inaturalist.ca/photos/321994390).](https://inaturalist-open-data.s3.amazonaws.com/photos/321994390/large.jpg){height=300}
 
+## Observation notes  
+McGinley 1986: <span class="hl-place-name">Agassiz</span>; Miracle Beach (near Oyster River); <span class="hl-place-name">Mission</span> City; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Royal Oak</span>; <span class="hl-place-name">Saanich</span>; <span class="hl-place-name">Sooke</span>; <span class="hl-place-name">Vancouver</span>; <span class="hl-place-name">Victoria</span>; <span class="hl-place-name">Wellington</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory event (specimen LRB17-3663, Lincoln Best, private collection). iNaturalist: <span class="hl-place-name">Galiano Island</span>, from 2018 (specimen, Andrew Simon, private collection). Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Vancouver</span>.
+
+## GBIF observations  
 
 
-No GBIF observations in Pacific Maritime to display.
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("pacificum")
+```
 <br><br>
 <center>
 

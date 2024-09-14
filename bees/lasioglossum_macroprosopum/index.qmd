@@ -1,0 +1,28 @@
+---
+title: Lasioglossum macroprosopum
+subtitle: Long-faced sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum%20(3lateral)%20SEM-UBC%20HYM-13167.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum%20(3lateral)%20SEM-UBC%20HYM-13167.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Button), 2011, <span class="hl-place-name">Surrey</span>, <span class="hl-place-name">Richmond</span>, <span class="hl-place-name">Abbotsford</span>, <span class="hl-place-name">Pitt Meadows</span>, <span class="hl-place-name">Delta</span>; (Gehrels), 2013, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>, Pacific Spirit Park, Tssawwasen, <span class="hl-place-name">Vancouver</span>, <span class="hl-place-name">Langley</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("macroprosopum")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum.php"><button type="button" class="btn btn-secondary">See all Lasioglossum macroprosopum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

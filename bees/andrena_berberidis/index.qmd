@@ -1,0 +1,23 @@
+---
+title: Andrena berberidis
+subtitle: Barberry miner bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena berberidis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

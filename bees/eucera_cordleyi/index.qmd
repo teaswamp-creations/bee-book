@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg
 ---
-![`r emo::ji("copyright")` [Tyler Kelly ](https://inaturalist.ca/photos/290631650/).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Tyler ](Kelly ).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}
 
-Collected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-4131, private collection)
+## Observation notes  
+Biodiversity Galiano Life List: (Ed Andrusiak), 2017, <span class="hl-place-name">Galiano Island</span> (specimen LRB17-4131, Lincoln Best, private collection).
 
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

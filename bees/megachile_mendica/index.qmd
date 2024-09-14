@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Megachile%20mendica%20(3lateral)%20.jpg){height=300}
 
-Collected in Vancouver in 1957 with no subsequent sightings (specimen in the Spencer Entomological Collection)
+## Observation notes  
+Taylor 1884: <span class="hl-place-name">Vancouver</span>. (Mitchell) 1962: Southern Canada to the Pacific.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("mendica")
+```
 <br><br>
 <center>
 

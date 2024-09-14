@@ -1,0 +1,23 @@
+---
+title: Lasioglossum nigroviride
+subtitle: Black-and-green metallic-sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/235502146/medium.jpeg
+---
+![`r emo::ji("copyright")` Chantal Rosa.](https://inaturalist-open-data.s3.amazonaws.com/photos/235502146/medium.jpeg){height=300}
+
+## Observation notes  
+Fan Masters thesis, UBC, 2024: Metro <span class="hl-place-name">Vancouver</span>
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199094"><button type="button" class="btn btn-secondary">See all Lasioglossum nigroviride <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

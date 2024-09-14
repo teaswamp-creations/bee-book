@@ -1,0 +1,17 @@
+{
+  "hash": "d719b869bb4f51b3271e897a6d3c0d49",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Hoplitis fulgida\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"coast-badge\">Coast</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/178873678/large.jpeg\n---\n\n![©️ [Pam Piombino ](https://inaturalist.ca/photos/178873678).](https://inaturalist-open-data.s3.amazonaws.com/photos/178873678/large.jpeg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (No Collector ID), 1908, <span class=\"hl-place-name\">Hope</span> Mt.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20fulgida.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis fulgida <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,28 @@
+---
+title: Lasioglossum comagenense
+subtitle: Hardy sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Gibbs et al. 2013: Capital Reg., <span class="hl-place-name">Royal Oak</span>; Capital Reg., <span class="hl-place-name">Victoria</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("comagenense")
+```
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum comagenense <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

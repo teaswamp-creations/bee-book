@@ -1,8 +1,11 @@
 {
-  "hash": "4ff0279ba0201bc5b634193f8acee8f4",
+  "hash": "9692330be08515cde57f60b94bcd8654",
   "result": {
-    "markdown": "---\ntitle: Nomada perbella\nsubtitle: Gorgeous cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada perbella <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Nomada perbella\nsubtitle: Gorgeous cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nViereck 1905: (Wickham), Glenora, <span class=\"hl-place-name\">Vancouver</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada perbella <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

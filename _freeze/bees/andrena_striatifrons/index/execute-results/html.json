@@ -1,8 +1,11 @@
 {
-  "hash": "066f9c13f8dbdae1883ac752eea66ce3",
+  "hash": "9b83347d80038b227086a691518d0e88",
   "result": {
-    "markdown": "---\ntitle: Andrena striatifrons\nsubtitle: Line-faced miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena striatifrons <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena striatifrons\nsubtitle: Line-faced miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons%20(3lateral).jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons%20(3lateral).jpg){height=300}\n\n## Observation notes  \nViereck 1904b: <span class=\"hl-place-name\">Victoria</span>.  LaBerge 1973: <span class=\"hl-place-name\">Agassiz</span>; <span class=\"hl-place-name\">Royal Oak</span>; <span class=\"hl-place-name\">Vancouver</span>; <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20striatifrons.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena striatifrons <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

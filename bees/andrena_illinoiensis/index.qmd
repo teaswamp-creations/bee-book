@@ -1,0 +1,23 @@
+---
+title: Andrena illinoiensis
+subtitle: Tufted miner bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/571518/medium.jpg
+---
+![`r emo::ji("copyright")` [USGS Bee Inventory and Monitoring Lab ](https://inaturalist.ca/photos/571518).](https://inaturalist-open-data.s3.amazonaws.com/photos/571518/medium.jpg){height=300}
+
+## Observation notes  
+Muesebeck et al. 1951: (Robertson), 1891, Pacific Coast.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena illinoiensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

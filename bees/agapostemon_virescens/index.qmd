@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg
 ---
 ![`r emo::ji("copyright")` [Thompson Hyggen ](https://inaturalist.ca/photos/319748351).](https://inaturalist-open-data.s3.amazonaws.com/photos/319748351/medium.jpg){height=300}
 
-Sighted in the Lower mainland and on Vancouver Island in 2023 (iNaturalist)
+## Observation notes  
+Roberts 1973a: common in southern Canada from coast to coast. Hurd et al. 1980: Southern Canada to the Pacific Northwest. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2023.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

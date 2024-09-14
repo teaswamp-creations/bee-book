@@ -1,0 +1,17 @@
+{
+  "hash": "b3618b79979c72753739eaa39d439d40",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Hoplitis grinnelli\nsubtitle: Grinnell's small mason\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/345391437/large.jpeg\n---\n\n![©️ cody_blackketter.](https://inaturalist-open-data.s3.amazonaws.com/photos/345391437/large.jpeg){height=300}\n\n## Observation notes  \nM. Clausen, Masters thesis: 2017, <span class=\"hl-place-name\">Delta</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=271346\"><button type=\"button\" class=\"btn btn-secondary\">See all Hoplitis grinnelli <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

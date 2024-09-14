@@ -1,8 +1,11 @@
 {
-  "hash": "96d33dd61816cc73487ab5a67a039076",
+  "hash": "f8d2443f70d019a0520e5496214474ec",
   "result": {
-    "markdown": "---\ntitle: Nomada citrina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada citrina <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Nomada citrina\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nCriddle et al. 1924: Downes, Sannich Dist.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada citrina <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

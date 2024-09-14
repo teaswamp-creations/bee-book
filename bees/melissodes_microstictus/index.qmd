@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/304920524/large.jpeg
 ---
-![`r emo::ji("copyright")` [Bob McDougall ](https://inaturalist.ca/photos/304920524/).](https://inaturalist-open-data.s3.amazonaws.com/photos/304920524/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/304920524/large.jpeg){height=300}
 
-Collected on Galiano Island, 2018 (iNaturalist - non research grade)
+## Observation notes  
+Vereck 1905: Cresson, <span class="hl-place-name">Vancouver</span> I. Cockerell 1906: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Lutz and Cockerell 1920: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Criddle et al. 1924: Downes, <span class="hl-place-name">Royal Oak</span>. LaBerge 1961: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Royal Oak</span>; <span class="hl-place-name">Sidney</span>; <span class="hl-place-name">Vancouver</span>; <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; <span class="hl-place-name">Victoria</span>. Biodiversity Galiano Life List: Andrew Simon, 2016, Galiano. M. Clausen, Master's thesis: 2017, <span class="hl-place-name">Delta</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Wray), 2012; (Gillespie), 2015; (Bobiwash), 2016; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: (McDougall), (Lakes), (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; (Young), 2023, <span class="hl-place-name">Sunshine Coast</span>; (Lakes), 2023, <span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; <span class="hl-place-name">Gulf Islands</span>; <span class="hl-place-name">Lower Mainland</span>; <span class="hl-place-name">Fraser Valley</span>, from 2016.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

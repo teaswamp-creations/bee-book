@@ -1,8 +1,11 @@
 {
-  "hash": "6cecf7608e2fd1def575358f6bb1d2c3",
+  "hash": "2349dbe861091b56924cad3434faa0f8",
   "result": {
-    "markdown": "---\ntitle: Ceratina nanula\nsubtitle: Tiny small carpenter bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [lohump ](https://inaturalist.ca/photos/157800012).](https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=309463\"><button type=\"button\" class=\"btn btn-secondary\">See all Ceratina nanula <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Ceratina nanula\nsubtitle: Tiny small carpenter bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg\n---\n\n![©️ [lohump ](https://inaturalist.ca/photos/157800012).](https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg){height=300}\n\n## Observation notes  \nDaly 1973: <span class=\"hl-place-name\">Lower Mainland</span>. Biodiversity Galiano Life List: (Andrew Simon), 2018, (speicmen, personal collection); <span class=\"hl-place-name\">Galiano Island</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class=\"hl-place-name\">Abbotsford</span>. NBSBC Bee Atlas Database: (Gazdik), 2022, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=309463\"><button type=\"button\" class=\"btn btn-secondary\">See all Ceratina nanula <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

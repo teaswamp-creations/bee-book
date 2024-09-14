@@ -1,0 +1,17 @@
+{
+  "hash": "8c91dc6ecea56a70ce1c4abcf77416f8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Osmia obliqua\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nWhite 1952: (F.W.L.Sladen), 1915, <span class=\"hl-place-name\">Sidney</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia obliqua <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

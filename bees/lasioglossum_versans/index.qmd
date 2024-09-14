@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg
 ---
 ![`r emo::ji("copyright")` [Spencer Hardy ](https://www.inaturalist.org/photos/207655766).](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}
 
-Collected in Lion’s Bay, 1965 and subsequently in the Gulf Islands 1979 and again in 1983 (specimens in the Spencer Entomological Collection)
+## Observation notes  
+Spencer Entomological Collection, UBC: (G.J. Spencer), 1965, <span class="hl-place-name">Vancouver</span>; (R.A. Cannings), 1979, South Pender I.; (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("versans")
+```
 <br><br>
 <center>
 

@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20algida%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20algida%20(3lateral).jpg){height=300}
 
-Collected in the Galiano Island, 2017 community bee inventory event (specimen LRB17-3662, private collection)
+## Observation notes  
+Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span> (specimen LRB17-3662, Lincoln Best, private collection).
 
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

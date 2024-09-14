@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}
 
-First reported in Cowichan Garry Oak Reserve in 2005 and again in 2009 (specimens in the Spencer Entomological Collection)
+## Observation notes  
+Spencer Entomological Collection, UBC: (Elle), 2005, 2009, <span class="hl-place-name">Duncan</span>, <span class="hl-place-name">Cowichan</span> Garry Oak Reserve. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Bobiwash), 2016, <span class="hl-place-name">Surrey</span>, <span class="hl-place-name">Abbotsford</span>.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("titusi")
+```
 <br><br>
 <center>
 

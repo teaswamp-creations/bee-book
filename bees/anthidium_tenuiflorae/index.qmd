@@ -1,0 +1,23 @@
+---
+title: Anthidium tenuiflorae
+subtitle: Scurfy pea carder bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidium%20tenuiflorae%20female%20(3lateral).jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidium%20tenuiflorae%20female%20(3lateral).jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Elle), 2005, <span class="hl-place-name">Saanich</span>; (Neame), 2007, <span class="hl-place-name">Victoria</span>; (Gillespie), 2015, <span class="hl-place-name">Oak Bay</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidium%20tenuiflorae.php"><button type="button" class="btn btn-secondary">See all Anthidium tenuiflorae <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -1,0 +1,17 @@
+{
+  "hash": "bd61849a77f4afe1b55a840ef50848d5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum cooleyi\nsubtitle: Cooley's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nCriddle et al. 1924: (Sladen), <span class=\"hl-place-name\">Crescent</span>, <span class=\"hl-place-name\">Vancouver</span>; (J.B.Wallis), <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum cooleyi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

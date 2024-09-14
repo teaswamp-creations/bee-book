@@ -1,0 +1,23 @@
+---
+title: Epeolus compactus
+subtitle: Compact cellophane-cuckoo bee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jpeg
+---
+![`r emo::ji("copyright")` Craig Chaddock.](https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jpeg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gielens), 2009, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, Measachie Lake.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=308866"><button type="button" class="btn btn-secondary">See all Epeolus compactus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

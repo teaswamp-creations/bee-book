@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
-Collected on Vancouver Island in 2005 and 2009 (material sample in iBOL Project)
+## Observation notes  
+The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (Elle), 2005, 2009, <span class="hl-place-name">Vancouver</span> I.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

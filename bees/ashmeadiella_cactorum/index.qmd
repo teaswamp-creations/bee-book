@@ -1,0 +1,23 @@
+---
+title: Ashmeadiella cactorum
+subtitle: Cactus mason bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gielens), 2009, <span class="hl-place-name">Cowichan</span>, <span class="hl-place-name">Mesachie Lake</span>; 2010 <span class="hl-place-name">Cowichan</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Ashmeadiella cactorum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

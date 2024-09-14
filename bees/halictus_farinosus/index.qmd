@@ -1,0 +1,28 @@
+---
+title: Halictus farinosus
+subtitle: Wide-striped sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/326956401/medium.jpg
+---
+![`r emo::ji("copyright")` markc666.](https://inaturalist-open-data.s3.amazonaws.com/photos/326956401/medium.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Kelly), 2017, <span class="hl-place-name">Saanich</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("farinosus")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=318550"><button type="button" class="btn btn-secondary">See all Halictus farinosus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -1,0 +1,28 @@
+---
+title: Hylaeus nevadensis
+subtitle: Nevada masked bee
+engine: knitr
+categories:
+  - Colletidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Neame), 2007, <span class="hl-place-name">Saanich</span>, (Gielens), 2009, <span class="hl-place-name">Duncan</span>, <span class="hl-place-name">Cowichan</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("nevadensis")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&taxon_id=361479"><button type="button" class="btn btn-secondary">See all Hylaeus nevadensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

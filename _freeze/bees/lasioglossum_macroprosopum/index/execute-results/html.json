@@ -1,0 +1,17 @@
+{
+  "hash": "afcd841e350d7d9f7b373069e69d3fa3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum macroprosopum\nsubtitle: Long-faced sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum%20(3lateral)%20SEM-UBC%20HYM-13167.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum%20(3lateral)%20SEM-UBC%20HYM-13167.jpg){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Button), 2011, <span class=\"hl-place-name\">Surrey</span>, <span class=\"hl-place-name\">Richmond</span>, <span class=\"hl-place-name\">Abbotsford</span>, <span class=\"hl-place-name\">Pitt Meadows</span>, <span class=\"hl-place-name\">Delta</span>; (Gehrels), 2013, <span class=\"hl-place-name\">North <span class=\"hl-place-name\">Vancouver</span></span>, Pacific Spirit Park, Tssawwasen, <span class=\"hl-place-name\">Vancouver</span>, <span class=\"hl-place-name\">Langley</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20macroprosopum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum macroprosopum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

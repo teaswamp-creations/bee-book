@@ -1,0 +1,28 @@
+---
+title: Stelis montana
+subtitle: Montana cuckoo carder bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Ikerd H, 2019. Bee Biology and Systematics Laboratory. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research: 1930, Spencer, <span class="hl-place-name">Nanaimo</span>; Coyles, 1955, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("montana")
+```
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Stelis montana <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

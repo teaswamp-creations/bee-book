@@ -1,0 +1,22 @@
+---
+title: Megachile brevis
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/305176910/medium.jpeg
+---
+![`r emo::ji("copyright")` Erika Jerme.](https://inaturalist-open-data.s3.amazonaws.com/photos/305176910/medium.jpeg){height=300}
+
+## Observation notes  
+Taylor 1884: <span class="hl-place-name">Vancouver</span>. Mitchell 1962: Southern Canada to the Pacific.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?order=asc&order_by=observed_on&place_id=any&quality_grade=research&subview=map&taxon_id=57673"><button type="button" class="btn btn-secondary">See all Megachile brevis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

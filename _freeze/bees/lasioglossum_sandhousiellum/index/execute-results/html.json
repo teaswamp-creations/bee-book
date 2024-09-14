@@ -1,8 +1,11 @@
 {
-  "hash": "bc1adaa6ae5a81b3ba5cb78802ac8edb",
+  "hash": "5e5345a275d7f60bfa9372714a113ca2",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum sandhousiellum\nsubtitle: Sandouse's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sandhousiellum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum sandhousiellum\nsubtitle: Sandouse's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGibbs 2010: (Elle), 2005, <span class=\"hl-place-name\">Elk Falls Provincial Park</span>; Best List: (W.R.M. Mason), <span class=\"hl-place-name\">Squamish</span>, Diamond Head Trail, 2400 ft.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sandhousiellum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

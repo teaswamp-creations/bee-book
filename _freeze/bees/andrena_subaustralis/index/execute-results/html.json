@@ -1,8 +1,11 @@
 {
-  "hash": "a0c5756aed0613b912b28e314451e8fb",
+  "hash": "86f156106ab0e04642d8a3e4ea3e291b",
   "result": {
-    "markdown": "---\ntitle: Andrena subaustralis\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena subaustralis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena subaustralis\nsubtitle: Southern miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nViereck 1904c: (Livingston), 1896, <span class=\"hl-place-name\">Vancouver</span>. LaBerge and Bouseman 1970: <span class=\"hl-place-name\">Royal Oak</span>, <span class=\"hl-place-name\">Vancouver</span>. Guzman et al., 2023: (Elle), 2005, (Gielens), 2009, (Gillespie), 2015, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena subaustralis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

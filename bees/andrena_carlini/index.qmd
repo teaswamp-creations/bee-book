@@ -1,0 +1,23 @@
+---
+title: Andrena carlini
+subtitle: Carlin's mining bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/280414056/medium.jpg
+---
+![`r emo::ji("copyright")` Kevin.](https://inaturalist-open-data.s3.amazonaws.com/photos/280414056/medium.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Neame), 2007, <span class="hl-place-name">Saanich</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199001"><button type="button" class="btn btn-secondary">See all Andrena carlini <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

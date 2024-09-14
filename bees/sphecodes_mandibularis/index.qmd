@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/38797776/large.jpg
 ---
 ![`r emo::ji("copyright")` [Royal Tyler ](https://inaturalist.ca/photos/38797776/).](https://inaturalist-open-data.s3.amazonaws.com/photos/38797776/large.jpg){height=300}
 
-Collected in the Lower Mainland in 2010 (material sample in the iBOL Project)
+## Observation notes  
+The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (J. Heron), 2010, <span class="hl-place-name">Vancouver</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

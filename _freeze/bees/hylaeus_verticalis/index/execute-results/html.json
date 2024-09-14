@@ -1,0 +1,17 @@
+{
+  "hash": "bc0a85d661cea0d3fc1ead8d26f35f61",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Hylaeus verticalis\nsubtitle: Vertical masked bee\nengine: knitr\ncategories:\n  - Colletidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/199832647/medium.jpeg\n---\n\n![©️ Emil Petrinic.](https://inaturalist-open-data.s3.amazonaws.com/photos/199832647/medium.jpeg){height=300}\n\n## Observation notes  \nMuesebeck et al. 1951: Pacific Coast.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Hylaeus verticalis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

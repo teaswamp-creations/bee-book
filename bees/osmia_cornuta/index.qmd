@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/336621655/large.jpg
 ---
 ![`r emo::ji("copyright")` [Árpád Zsoldos ](https://inaturalist.ca/photos/336621655).](https://inaturalist-open-data.s3.amazonaws.com/photos/336621655/large.jpg){height=300}
 
-First reported in the Lower Mainland in 2023 (iNaturalist)
+## Observation notes  
+Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Wray), 2012; (Gillespie), 2014, 2015, (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: Metro <span class="hl-place-name">Vancouver</span>, from 2023.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

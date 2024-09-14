@@ -1,0 +1,22 @@
+---
+title: Andrena hallii
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena hallii <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

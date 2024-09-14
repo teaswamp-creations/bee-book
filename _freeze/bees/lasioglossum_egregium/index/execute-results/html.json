@@ -1,8 +1,11 @@
 {
-  "hash": "a7cf0c28339c52fd84c50856bc9bdcf9",
+  "hash": "814918fb0cfc904494172318f8dee5b5",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum egregium\nsubtitle: Distinguished sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium%20female%20(3lateral)%20.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum egregium <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum egregium\nsubtitle: Distinguished sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium%20female%20(3lateral)%20.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium%20female%20(3lateral)%20.jpg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (Gielens), 2009, <span class=\"hl-place-name\">Duncan</span>, <span class=\"hl-place-name\">Cowichan</span> Garry Oak Reserve, nr. <span class=\"hl-place-name\">Quamichan Lake</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Gillespie), 2015, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20egregium.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum egregium <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

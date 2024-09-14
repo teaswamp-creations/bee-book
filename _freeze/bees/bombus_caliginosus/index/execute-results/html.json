@@ -1,8 +1,11 @@
 {
-  "hash": "a14893f782ac9f9b67fbb4b0ff48b6eb",
+  "hash": "d383e1129ce12b7d710fbcf9f5d2437c",
   "result": {
-    "markdown": "---\ntitle: Bombus caliginosus\nsubtitle: Fog-belt bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ [Ryan Shaw ](https://inaturalist.ca/photos/314170135/).](https://inaturalist-open-data.s3.amazonaws.com/photos/314170135/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=344228\"><button type=\"button\" class=\"btn btn-secondary\">See all Bombus caliginosus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Bombus caliginosus\nsubtitle: Fog-belt bumblebee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/314170135/large.jpg\n---\n\n![©️ [Ryan Shaw ](https://inaturalist.ca/photos/314170135/).](https://inaturalist-open-data.s3.amazonaws.com/photos/314170135/large.jpg){height=300}\n\n## Observation notes  \nEasily confused with Bombus vonesenskii due to almost identical color pattern, but females typically have white hairs on the underside of the abdomen. B. caliginosus is known to Washington state and likely is also present in the Pacific Maritime. See B. vosnesenski for more info.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=344228\"><button type=\"button\" class=\"btn btn-secondary\">See all Bombus caliginosus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

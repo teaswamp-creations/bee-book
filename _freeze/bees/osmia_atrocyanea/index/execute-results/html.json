@@ -1,0 +1,17 @@
+{
+  "hash": "1f8a975f48d3f7041cabc223d6a3a873",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Osmia atrocyanea\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Elle), 2005, <span class=\"hl-place-name\">Sooke</span> Potholes; (Wray), 2012, <span class=\"hl-place-name\">Saanich</span>, <span class=\"hl-place-name\">Oak Bay</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361572\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia atrocyanea <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

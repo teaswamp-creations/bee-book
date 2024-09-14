@@ -1,0 +1,23 @@
+---
+title: Hoplitis grinnelli
+subtitle: Grinnell's small mason
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/345391437/large.jpeg
+---
+![`r emo::ji("copyright")` cody_blackketter.](https://inaturalist-open-data.s3.amazonaws.com/photos/345391437/large.jpeg){height=300}
+
+## Observation notes  
+M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=271346"><button type="button" class="btn btn-secondary">See all Hoplitis grinnelli <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

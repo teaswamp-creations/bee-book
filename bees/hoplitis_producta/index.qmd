@@ -1,0 +1,22 @@
+---
+title: Hoplitis producta
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/111790058/large.jpg
+---
+![`r emo::ji("copyright")` Royal Tyler.](https://inaturalist-open-data.s3.amazonaws.com/photos/111790058/large.jpg){height=300}
+
+## Observation notes  
+Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?order=asc&order_by=observed_on&place_id=any&quality_grade=research&subview=map&taxon_id=199139"><button type="button" class="btn btn-secondary">See all Hoplitis producta <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

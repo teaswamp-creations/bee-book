@@ -1,8 +1,11 @@
 {
-  "hash": "2d082ca3134254e1ba8fef9e28139e84",
+  "hash": "bdec42e7715500b1f009634f051610f5",
   "result": {
-    "markdown": "---\ntitle: Nomada superba\nsubtitle: Superb nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ [Mathew Zappa ](https://inaturalist.ca/photos/7630012).](https://inaturalist-open-data.s3.amazonaws.com/photos/7630012/large.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1426381\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada superba <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Nomada superba\nsubtitle: Superb nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/7630012/large.jpg\n---\n\n![©️ [Mathew Zappa ](https://inaturalist.ca/photos/7630012).](https://inaturalist-open-data.s3.amazonaws.com/photos/7630012/large.jpg){height=300}\n\n## Observation notes  \nCriddle et al. 1924: (Buckell), Chilcotin, Downes, <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1426381\"><button type=\"button\" class=\"btn btn-secondary\">See all Nomada superba <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

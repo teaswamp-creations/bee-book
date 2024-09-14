@@ -1,8 +1,11 @@
 {
-  "hash": "0975b60b5e7f08869e922fde5e4db481",
+  "hash": "97f2a730f25f6f512e9e930b2b36fc8d",
   "result": {
-    "markdown": "---\ntitle: Andrena perarmata\nsubtitle: Large-toothed miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena perarmata <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena perarmata\nsubtitle: Large-toothed miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span> <span class=\"coast-badge\">Coast</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg){height=300}\n\n## Observation notes  \nViereck 1904c: (Livingston); Harvey, 1896, <span class=\"hl-place-name\">Vancouver</span>. LaBerge 1980: <span class=\"hl-place-name\">Agassiz</span>; <span class=\"hl-place-name\">Saanich</span>; <span class=\"hl-place-name\">Victoria</span>. Ratti et al. 2008: <span class=\"hl-place-name\">Fraser Valley</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena perarmata <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -31,29 +31,48 @@ div.callout-note.callout-style-default > .callout-header {
 
 /* ------ Gallery badges for evidence */
 
-.sh-badge {
-  background-color: #264d44;
+.lower-mainland-badge {
+  background-color: #264D44;
   color: white;
-  padding: 3px 6px;
+  padding: 2px 5px;
   border-radius: 5px;
-  font-size: 0.8em;
+  font-size: 0.7em;
   white-space: nowrap;
 }
 
-.pe-badge {
+.vanc-isl-badge {
   background-color: #A0CFC4;
   color: black;
-  padding: 3px 6px;
+  padding: 2px 5px;
   border-radius: 5px;
-  font-size: 0.8em;
+  font-size: 0.7em;
   white-space: nowrap;
 }
 
 .gali-badge {
-  background-color: gold;
+  background-color: #FFDD1F;
   color: black;
-  padding: 3px 6px;
+  padding: 2px 5px;
   border-radius: 5px;
-  font-size: 0.8em;
+  font-size: 0.7em;
   white-space: nowrap;
+}
+
+.coast-badge {
+  background-color: #389475;
+  color: black;
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-size: 0.7em;
+  white-space: nowrap;
+}
+
+
+.card-text .listing-description{
+  line-height: 2em;
+}
+
+.hl-place-name {
+  color: #376D61;
+  font-weight: bold;
 }

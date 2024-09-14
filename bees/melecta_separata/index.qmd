@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/187397792/large.jpeg
 ---
-![`r emo::ji("copyright")` [Bob McDougall ](https://inaturalist.ca/photos/187397792).](https://inaturalist-open-data.s3.amazonaws.com/photos/187397792/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/187397792/large.jpeg){height=300}
 
-Sighted on Vancouver Island in 2020 with multiple subsequent sightings in 2021 to 2023 (iNaturalist)
+## Observation notes  
+Criddle et al. 1924: (Treherne), <span class="hl-place-name">Victoria</span>; <span class="hl-place-name">Royal Oak</span>. Linsley 1938: (R.C.Treherne), <span class="hl-place-name">Victoria</span>; <span class="hl-place-name">Royal Oak</span> Linsley 1939: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; <span class="hl-place-name">Victoria</span>; <span class="hl-place-name">Royal Oak</span>. Hurd and Linsley 1951: extends to coastal, Southern B.C. Guzman et al., 2023: (Neame), 2007, <span class="hl-place-name">Esquimalt</span>. iNaturalist: <span class="hl-place-name">Victoria</span>, from 2020.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

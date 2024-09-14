@@ -1,0 +1,17 @@
+{
+  "hash": "1978c8a9783d18977dc570893d8e64ba",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena costillensis\nsubtitle: Costilla miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nDonovan 1977: <span class=\"hl-place-name\">Agassiz</span>; <span class=\"hl-place-name\">Manning Park</span>; <span class=\"hl-place-name\">Sidney</span>; <span class=\"hl-place-name\">Squamish</span>; Diamond Head Trail; <span class=\"hl-place-name\">Vancouver</span>; <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena costillensis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

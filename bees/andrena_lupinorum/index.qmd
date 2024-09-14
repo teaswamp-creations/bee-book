@@ -1,0 +1,23 @@
+---
+title: Andrena lupinorum
+subtitle: Lupine miner bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/215811788/medium.jpg
+---
+![`r emo::ji("copyright")` camlough.](https://inaturalist-open-data.s3.amazonaws.com/photos/215811788/medium.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gielens), 2009, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span>, <span class="hl-place-name">Mesachie Mountain</span>, nr. <span class="hl-place-name">Mesachie Lake</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=213588"><button type="button" class="btn btn-secondary">See all Andrena lupinorum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

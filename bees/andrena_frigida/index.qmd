@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg
 ---
 ![`r emo::ji("copyright")` [Eric Habisch ](https://inaturalist.ca/photos/119442385).](https://inaturalist-open-data.s3.amazonaws.com/photos/119442385/medium.jpg){height=300}
 
+## Observation notes  
+Buckell 1949: (L. W. Cockle), 1907, <span class="hl-place-name">Kaslo</span>; (R.C.Treherne), 1903, <span class="hl-place-name">Vancouver</span>. LaBerge 1980: (Smith), 1853; <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Spanish Banks</span> (<span class="hl-place-name">Vancouver</span>); <span class="hl-place-name">Vancouver</span>; <span class="hl-place-name">Victoria</span>. Spencer Entomological Collection, UBC: (S.G. Cannings), 1981 to 1987, Galiano I. (multiple specimens). (G.G.E. Scudder), 1981, Galiano I. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

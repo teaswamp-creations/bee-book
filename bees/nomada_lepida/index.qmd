@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
-Collected on Vancouver Island in 2009 (material sample in iBOL Project)
+## Observation notes  
+The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (E. Elle), 2009, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

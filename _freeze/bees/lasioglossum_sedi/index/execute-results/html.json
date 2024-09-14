@@ -1,8 +1,11 @@
 {
-  "hash": "cd303e2751f500ec9ede7576d907141b",
+  "hash": "8681b8a050e44b963ff0aceda742d475",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum sedi\nsubtitle: Sedum sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi%20female%20(3lateral)%20.jpg){height=300}\n\nCollected in the Lower Mainland in 1940 with subsequent sightings in Manning Park in 1981 and 1983, Winter Harbour 1979, Ucluelet 1985, and Texada Island 1986 (specimens in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sedi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum sedi\nsubtitle: Sedum sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span> <span class=\"coast-badge\">Coast</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi%20female%20(3lateral)%20.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi%20female%20(3lateral)%20.jpg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (G.G.E. Scudder), 1979, <span class=\"hl-place-name\">North <span class=\"hl-place-name\">Vancouver</span></span>; (G.G.E. Scudder), 1985, 1986, Winter Harbour, <span class=\"hl-place-name\">Bamfield</span>, Texada I., Anderson Bay. Guzman et al., 2023: (Gillespie), 2015, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sedi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

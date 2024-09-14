@@ -1,0 +1,28 @@
+---
+title: Lasioglossum tenax
+subtitle: Alpine sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="coast-badge">Coast</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20tenax%20female%20(3lateral)%20.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20tenax%20female%20(3lateral)%20.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Wray), 2012, <span class="hl-place-name">Oak Bay</span>, <span class="hl-place-name">Esquimalt</span>, <span class="hl-place-name">Saanich</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("tenax")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20tenax.php"><button type="button" class="btn btn-secondary">See all Lasioglossum tenax <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

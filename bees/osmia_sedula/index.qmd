@@ -1,0 +1,22 @@
+---
+title: Osmia sedula
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Sandhouse 1924: 1920, (E.P.Van Duzee), <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Osmia sedula <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

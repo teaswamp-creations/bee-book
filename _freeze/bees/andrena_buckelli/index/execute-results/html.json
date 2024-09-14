@@ -1,8 +1,11 @@
 {
-  "hash": "335e90bba484dd31bf273b17cba6d95c",
+  "hash": "23092b91230d934f20d301d0d8b8f0da",
   "result": {
-    "markdown": "---\ntitle: Andrena buckelli\nsubtitle: Buckell's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena buckelli <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena buckelli\nsubtitle: Buckell's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli%20(1dorsal).jpg){height=300}\n\n## Observation notes  \nLaBerge 1980: <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>. Spencer Entomological Collection, UBC: (S.G. Cannings), 1986, <span class=\"hl-place-name\">Manning Prov. Pk.</span> Guzman et al., 2023: (Kelly), 2017), <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20buckelli.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena buckelli <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

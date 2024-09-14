@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20kincaidii%20female%20(3lateral)%20.jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20kincaidii%20female%20(3lateral)%20.jpg){height=300}
 
+## Observation notes  
+Sandhouse 1925: (R.C.Treherne), 1917, <span class="hl-place-name">Royal Oak</span>; (C.B.D.Garrett), 1922, <span class="hl-place-name">Cranbrook</span>, <span class="hl-place-name">Victoria</span>. Buckell 1950: (R.C.Treherne), 1916, 1917, <span class="hl-place-name">Victoria</span>; <span class="hl-place-name">Royal Oak</span>. Spencer Entomological Collection, UBC:  Elizabeth (Elle), 2009, Stoltz Meadows. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. NBSBC Bee Atlas Database: (Zand), 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

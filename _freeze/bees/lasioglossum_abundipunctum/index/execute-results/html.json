@@ -1,8 +1,11 @@
 {
-  "hash": "1841ea6615bb82312d22032e28831a8e",
+  "hash": "66a506a79b89a1fec20b9cb8a12d7d6d",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum abundipunctum\nsubtitle: Abundantly punctured sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}\n\nCollected on Galiano Island in 1983 (specimen in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum abundipunctum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum abundipunctum\nsubtitle: Abundantly punctured sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"gali-badge\">Galiano</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum abundipunctum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

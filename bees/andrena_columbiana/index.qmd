@@ -1,16 +1,19 @@
 ---
 title: Andrena columbiana
-subtitle: British Columbia moner bee
+subtitle: British Columbia miner bee
 engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/224607842/large.jpeg
 ---
-![`r emo::ji("copyright")` [Gwen L'Hirondelle ](https://inaturalist.ca/photos/224607842).](https://inaturalist-open-data.s3.amazonaws.com/photos/224607842/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Gwen L'Hirond](Elle ).](https://inaturalist-open-data.s3.amazonaws.com/photos/224607842/large.jpeg){height=300}
 
+## Observation notes  
+Guzman et al 2023: (Gehrels), 2013, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Squamish</span>, from 2020.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

@@ -1,8 +1,11 @@
 {
-  "hash": "0a5a402d4ab4b38c56f46133be78774e",
+  "hash": "56e7aa6c3c8dcae6f435d62ed0682ca3",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum mellipes\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span> <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}\n\nCollected in the Galiano Island, 2017 community bee inventory event (specimen LRB17-4154, private collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum mellipes <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum mellipes\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}\n\n## Observation notes  \nMcGinley 1986: <span class=\"hl-place-name\">Gabriola Island</span>; <span class=\"hl-place-name\"><span class=\"hl-place-name\">Nanaimo</span> Biological Station</span>; <span class=\"hl-place-name\">Rocky Point</span>. Biodiviersity Galiano Life List: (Andrew Simon), 2017, <span class=\"hl-place-name\">Galiano Island</span> Community Bee Inventory (specimen LRB17-4154, Lincoln Best, personal collection). Guzman et al., 2023: (Elle), 2005; (Gielens), 2010, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum mellipes <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

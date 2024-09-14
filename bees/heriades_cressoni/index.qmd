@@ -1,0 +1,23 @@
+---
+title: Heriades cressoni
+subtitle: Cresson's sculptured mason bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Heriades%20cressoni%20male%20(3lateral).jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Heriades%20cressoni%20male%20(3lateral).jpg){height=300}
+
+## Observation notes  
+NBSBC Bee Atlas Database: (Young), 2023, <span class="hl-place-name">Sunshine Coast</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Heriades%20cressoni.php"><button type="button" class="btn btn-secondary">See all Heriades cressoni <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20perarmata%20female%20(3lateral).jpg){height=300}
 
+## Observation notes  
+Viereck 1904c: (Livingston); Harvey, 1896, <span class="hl-place-name">Vancouver</span>. LaBerge 1980: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Saanich</span>; <span class="hl-place-name">Victoria</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>.
+
+## GBIF observations  
 
 
-No GBIF observations in Pacific Maritime to display.
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("perarmata")
+```
 <br><br>
 <center>
 

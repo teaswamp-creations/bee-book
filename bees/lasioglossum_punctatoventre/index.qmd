@@ -1,0 +1,28 @@
+---
+title: Lasioglossum punctatoventre
+subtitle: Dimple-bellied sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20punctatoventre%20female%20(3lateral)%20.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20punctatoventre%20female%20(3lateral)%20.jpg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gehrels), 2013, <span class="hl-place-name">Aldergrove</span>, <span class="hl-place-name">Surrey</span>, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("punctatoventre")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20punctatoventre.php"><button type="button" class="btn btn-secondary">See all Lasioglossum punctatoventre <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -1,0 +1,17 @@
+{
+  "hash": "d0ad05d2e4e022c753bda78f2837bc10",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena microchlora\nsubtitle: Small green miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora%20female%20(3lateral)%20.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora%20female%20(3lateral)%20.jpg){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Elle), 2005, nr <span class=\"hl-place-name\">Victoria</span>, <span class=\"hl-place-name\">Duncan</span>, <span class=\"hl-place-name\">Sooke</span>; (Neame), 2007, <span class=\"hl-place-name\">Victoria</span>; (Gielens), 2007, <span class=\"hl-place-name\">Cowichan</span>, <span class=\"hl-place-name\">Duncan</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20microchlora.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena microchlora <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

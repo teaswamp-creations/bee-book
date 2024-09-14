@@ -1,8 +1,11 @@
 {
-  "hash": "03f1578bb46ca0f5378281213a8bfe10",
+  "hash": "66b8c02751aeeb1f6a9881789053e692",
   "result": {
-    "markdown": "---\ntitle: Anthophora porterae\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthophora porterae <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Anthophora porterae\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Gielens), 2009, <span class=\"hl-place-name\">Cowichan</span>, nr <span class=\"hl-place-name\">Duncan</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=213791\"><button type=\"button\" class=\"btn btn-secondary\">See all Anthophora porterae <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,17 @@
+{
+  "hash": "92b05dd08bd7f7afba0ccceffef76577",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena knuthiana\nsubtitle: Knuth's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Gielens), 2010, <span class=\"hl-place-name\">Cowichan</span> Garry Oak Preserve nr. <span class=\"hl-place-name\">Duncan</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena knuthiana <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

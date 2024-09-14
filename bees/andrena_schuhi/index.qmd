@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
+## Observation notes  
+LaBerge 1980: Bowser; <span class="hl-place-name">Gabriola Island</span>; <span class="hl-place-name">Vancouver</span>.
 
-
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

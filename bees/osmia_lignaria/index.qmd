@@ -1,0 +1,28 @@
+---
+title: Osmia lignaria
+subtitle: Blue orchard bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/206433487/large.jpg
+---
+![`r emo::ji("copyright")` [dL thompson ](https://inaturalist.ca/photos/206433487).](https://inaturalist-open-data.s3.amazonaws.com/photos/206433487/large.jpg){height=300}
+
+## Observation notes  
+First documented by Ibsen 1916, with extensive historical record in the Pacific Maritime (see Best list for historical record to 2000). Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Wray), 2012; (Gillespie), 2014, 2015; (Elle), 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Lower Mainland</span>; (Toshack), 2015, <span class="hl-place-name">Abbotsford</span>. NBSBC Bee Atlas Database: (Zand), 2021, 2022, 2023; (Gadzik), 2022; (Young), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Gulf Islands</span>, Metro <span class="hl-place-name">Vancouver</span>, <span class="hl-place-name">Fraser Valley</span>, <span class="hl-place-name">Squamish</span>, from 2011.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("lignaria")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=361607"><button type="button" class="btn btn-secondary">See all Osmia lignaria <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

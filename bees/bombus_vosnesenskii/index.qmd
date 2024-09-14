@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/315797449/large.jpg
 ---
 ![`r emo::ji("copyright")` [Thomas Barbin ](https://inaturalist.ca/photos/315797449/).](https://inaturalist-open-data.s3.amazonaws.com/photos/315797449/large.jpg){height=300}
 
+## Observation notes  
+Lutz and Cockerell 1920: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Muesebeck et al. 1951: <span class="hl-place-name">Pacific coast</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Fraser et al. 2012: E. (Elle), L. (Button), C. Ratti, 2004, numerous localities recorded for the <span class="hl-place-name">Lower Mainland</span> and adjacent <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span> Forestry Station; <span class="hl-place-name">Abbotsford</span>; <span class="hl-place-name">Fraser Valley</span> Regional District, Onnink property. Biodiversity Galiano Life List: (Andrew Simon), 2017,  Galiano. Guzman et al., 2023: (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>. (Gehrels), 2013; (Toshack), 2015; (Bobiwash), 2016; (Elle), 2016, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: (Zand), 2021, 2022; (Gadzik), (Young), (Nicholls), (<span class="hl-place-name">Harrison</span>)), 2022; ((Wong), (Carmichael), (McDougall), (Lee), <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; (Lakes), 2023, <span class="hl-place-name">Vancouver</span>.  iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Squamish</span>, from 2007. Note: B. caliginosus is easily overlooked due to similarities with B. vosnesenskii. females can be differentiated from B. vosnesenskii based on the slightly but dictinctly loner malar area, and the extensive pale hairs on S4. Males can be identified gased on the same malar features, and the wider, expanded penis valves (LR Best, personal communication).
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

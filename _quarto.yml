@@ -19,10 +19,13 @@ website:
       - href: gallery.qmd
         text: Bees! 
     right:
-      - href: https://www.galiwatch.ca/index.html
-        text: Operation Galiwatch
-        icon: box-arrow-up-right
-
+      - text: "More"
+        menu:
+          - href: https://www.galiwatch.ca/index.html
+            text: Operation Galiwatch
+          - stats.qmd
+          - references.qmd 
+      
 format:
   html:
     theme: [yeti, css/light-theme.scss]

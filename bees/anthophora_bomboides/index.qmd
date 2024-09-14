@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="coast-badge">Coast</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/213727974/large.jpeg
 ---
-![`r emo::ji("copyright")` [Bob McDougall ](https://inaturalist.ca/photos/213727974).](https://inaturalist-open-data.s3.amazonaws.com/photos/213727974/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/213727974/large.jpeg){height=300}
 
+## Observation notes  
+Smith 1879: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Ritsema, 1880: <span class="hl-place-name">Vancouver</span>. Dalla Torre 1896: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Viereck 1905: <span class="hl-place-name">Vancouver</span>. Cockerell 1906: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Lutz and Cockerell 1920: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Brooks 1983: <span class="hl-place-name">Gabriola Island</span>; <span class="hl-place-name">Victoria</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2023.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

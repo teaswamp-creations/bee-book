@@ -1,8 +1,11 @@
 {
-  "hash": "27dbc158378713418fe877397c2e6de7",
+  "hash": "d02ce7cef2cd5d628860e89a8e94d361",
   "result": {
-    "markdown": "---\ntitle: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ [Robin Gwen Agarwal ](https://inaturalist.ca/photos/14750939).](https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=345432\"><button type=\"button\" class=\"btn btn-secondary\">See all Eucera actuosa <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Eucera actuosa\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg\n---\n\n![©️ [Robin Gwen Agarwal ](https://inaturalist.ca/photos/14750939).](https://inaturalist-open-data.s3.amazonaws.com/photos/14750939/medium.jpg){height=300}\n\n## Observation notes  \nCriddle et al. 1924: (Downes), <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=345432\"><button type=\"button\" class=\"btn btn-secondary\">See all Eucera actuosa <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

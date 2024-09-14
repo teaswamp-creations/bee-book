@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
+## Observation notes  
+LaBerge 1977: <span class="hl-place-name">Vancouver</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg
 ---
 ![`r emo::ji("copyright")` [Will Stuart ](https://inaturalist.ca/photos/16987052).](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}
 
-Collected on Galiano Island, 2018 (iNaturalist - non research grade)
+## Observation notes  
+iNaturalist: <span class="hl-place-name">Galiano Island</span>, from 2018 (Specimen, Andrew Simon, private collection).
 
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

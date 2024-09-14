@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/17828498/large.jpeg
 ---
 ![`r emo::ji("copyright")` [Andrew Simon ](https://inaturalist.ca/photos/17828498).](https://inaturalist-open-data.s3.amazonaws.com/photos/17828498/large.jpeg){height=300}
 
-Sighted on Galiano Island in 2018 with multiple subsequent sightings in 2020 to 2023 (iNaturalist)
+## Observation notes  
+Guzman et al., 2023: (Neame), <span class="hl-place-name">Saanich</span>; (Gielens), 2009, 2010, <span class="hl-place-name">Cowichan</span>; (Wray), 2012, <span class="hl-place-name">Saanich</span>; (Gillespie), 2014, 2015, <span class="hl-place-name">Saanich</span>, <span class="hl-place-name">Cowichan</span>. NBSBC Bee Atlas Database: (Zand), 2023, Cortes Is. iNaturalist: <span class="hl-place-name">Galiano Island</span>, 2018; multiple subsequent sightings on <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span> from 2020.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="gali-badge">Galiano</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20candida%20(3lateral).jpg){height=300}
 
+## Observation notes  
+Smith 1879: (Dr.Lyall), <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Cresson 1887: <span class="hl-place-name">Vancouver</span>. Viereck 1904c: <span class="hl-place-name">Vancouver</span>. (G.W.Taylor), <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Criddle et al. 1924: (Treherne), <span class="hl-place-name">Royal Oak</span>. LaBerge 1977: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Spencer Entomological Collection, UBC: (S.G. Cannings), <span class="hl-place-name">Galiano Island</span>, 1981. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Gillespie), 2014; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Abbotsford</span>, <span class="hl-place-name">Tsawwassen</span>. (Toshack), 2016, <span class="hl-place-name">Pitt Meadows</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

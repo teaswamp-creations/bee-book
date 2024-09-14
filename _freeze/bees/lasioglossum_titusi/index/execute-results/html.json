@@ -1,8 +1,11 @@
 {
-  "hash": "42541fa8888fcb1bcd0beb110af034ac",
+  "hash": "809d04df3b81ef3649f35eb7770a6b00",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum titusi\nsubtitle: Titus's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span>\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}\n\nFirst reported in Cowichan Garry Oak Reserve in 2005 and again in 2009 (specimens in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum titusi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum titusi\nsubtitle: Titus's sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg\n---\n\n![©️ Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi%20female%20(3lateral)%20.jpg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (Elle), 2005, 2009, <span class=\"hl-place-name\">Duncan</span>, <span class=\"hl-place-name\">Cowichan</span> Garry Oak Reserve. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class=\"hl-place-name\"><span class=\"hl-place-name\"><span class=\"hl-place-name\">Vancouver</span> Is</span>land</span>. (Bobiwash), 2016, <span class=\"hl-place-name\">Surrey</span>, <span class=\"hl-place-name\">Abbotsford</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20titusi.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum titusi <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

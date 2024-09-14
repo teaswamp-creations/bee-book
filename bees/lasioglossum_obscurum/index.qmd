@@ -1,0 +1,23 @@
+---
+title: Lasioglossum obscurum
+subtitle: Obscure sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Fan, Masters thesis, UBC, 2024: Metro <span class="hl-place-name">Vancouver</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum obscurum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/43353636/large.jpeg
 ---
 ![`r emo::ji("copyright")` [Andrew Simon ](https://inaturalist.ca/photos/43353636/).](https://inaturalist-open-data.s3.amazonaws.com/photos/43353636/large.jpeg){height=300}
 
-Collected on Galiano Island, 2018 (iNaturalist - non research grade)
+## Observation notes  
+Biodiversity Galiano Life List: (Andrew Simon), 2018, <span class="hl-place-name">Galiano Island</span> (specimen, private collection). iNaturalist: Galiano I., from 2018.
 
+## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
 <br><br>
 <center>

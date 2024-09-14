@@ -1,0 +1,17 @@
+{
+  "hash": "6e128ddd10dc004277b21fa03d106a04",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Triepeolus subalpinus\nsubtitle: Subalpine cuckoo nomad bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/313891831/large.jpg\n---\n\n![©️ rwr.](https://inaturalist-open-data.s3.amazonaws.com/photos/313891831/large.jpg){height=300}\n\n## Observation notes  \nCriddle et al. 1924: (Sladen), <span class=\"hl-place-name\">Victoria</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Triepeolus subalpinus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

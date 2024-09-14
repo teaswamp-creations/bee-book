@@ -2,52 +2,61 @@ library(tidyverse)
 library(htmltools)
 library(googlesheets4)
 
+places <- read_csv('files/place_names.txt') %>% 
+  arrange(desc(nchar(name))) %>%
+  pull(name) %>% 
+  unique()
+
+format_place <- function(x, lookup){
+  for(i in lookup){
+    x <- gsub(i, paste0('<span class="hl-place-name">', i, '</span>'), x)
+  }
+  x
+}
 
 # spreadsheet data
 gs4_auth('galiwatch.info@gmail.com')
-df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') %>%
+df <- read_sheet("1dINXYa_dfZG2lHRQFVITJv4P2U8ECUAiSHoXBkLVVtw", sheet = 'Bee families of BC') %>%
   separate(Observer, into=c('Observer', 'obs_link'), '\\(') %>%
   mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list"),
          Observer = ifelse(is.na(`Image link`), 'Cait Harrigan', Observer),
          `Image link` = replace_na(`Image link`, '/files/no_bee.png'),
          `Common name` = ifelse(`Common name` == paste(Genus, Species), NA, `Common name`),
          obs_link = gsub("\\)", "", obs_link)
-         ) 
+         ) %>%
+  filter(`Bee book list` == 'Y') %>%
+  mutate(`Abr. note` = format_place(`Abr. note`, places))
+
+#df %>%
+#  mutate(`Summary notes` = format_place(`Summary notes`, places)) %>%
+#  pull(`Summary notes`) %>%
+#  paste(collapse = '\n') %>%
+#  write_file('foo.qmd')
 
 # gbif data
-gbif <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
-  mutate(date = ymd(date(eventDate)), Year = year(date),
+gbif <- read_delim("files/0014018-240906103802322.csv", delim = "\t") %>%
+  separate_wider_delim(eventDate, delim='/', names = c('eventDate', NA), too_few = "align_start") %>%
+  mutate(eventDate = parse_date_time(eventDate, orders = c("ymd", "ymd HM", 'ymd HMS', "ym", "y")),
+         date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
-  drop_na(date, lat, lon, genus, occurrenceID) %>%
+  drop_na(date, lat, lon, occurrenceID) %>%
   separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge') %>%
-  mutate(Species=ifelse(Species=='nr', NA, Species))
+  mutate(Species=ifelse(Species=='nr', NA, Species)) 
 
-
-# read spreadsheet data
-#gs4_auth('galiwatch.info@gmail.com')
-#df <- read_sheet("1c4N54O_x8a_Wfoe3tct0gryId2wG0ze-HA-Ckms4dy4", sheet = 'Bee families of BC') %>%
-#  mutate(`Image link` = replace_na(`Image link`, '/files/no_bee.png'))
-
-
-# make species map
-#gbif <- read_delim("files/0037810-231120084113126.csv", delim='\t') %>%
-#  mutate(date = ymd(date(eventDate)), Year = year(date),
-#         Month = lubridate::month(date, label=T),
-#         lat=decimalLatitude, lon=decimalLongitude) %>%
-#  drop_na(date, lat, lon, genus, occurrenceID) %>%
-#  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge')
-
-# make evidence badges 
+# make badges 
 make_badges <- function(row){
   b <- ''
-  if(row['Sheffield']=='Y'){
-    b <- paste(b, '<span class="sh-badge">SH list</span>')
+  if(row['KQ_Van_Isle']>0){
+    b <- paste(b, '<span class="vanc-isl-badge">Vancouver Island</span>')
   } 
-  if(row['physical_record']==T){
-    b <- paste(b, '<span class="pe-badge">PM Evidence</span>')
+  if(row['KQ_LM']>0){
+    b <- paste(b, '<span class="lower-mainland-badge">Lower Mainland</span>')
   }
-  if(row['Record']=='Galiano life-list'){
+  if(row['KQ_C&NW']>0){
+    b <- paste(b, '<span class="coast-badge">Coast</span>')
+  }
+  if(row['KQ_Galiano']>0){
     b <- paste(b, '<span class="gali-badge">Galiano</span>')
   }
   b
@@ -65,13 +74,14 @@ make_page <- function(row){
     '\ncategories:\n  - ', row['Family'], 
     '\nfreeze: auto',
     '\ndescription: ', make_badges(row),
+    '\nimage: ', row['Image link'],
     '\n---\n',
     ifelse(is.na(row['obs_link']), 
            paste0('![`r emo::ji("copyright")` ', row['Observer'], '.](', row['Image link'], '){height=300}'),
            paste0('![`r emo::ji("copyright")` [', row['Observer'], '](', row['obs_link'], ')', '.](', row['Image link'], '){height=300}')
            ),
-    '\n\n', ifelse(!is.na(row['Summary note']), row['Summary note'], ''), 
-    '\n\n', ifelse(!(row['Species'] %in% gbif$Species), 'No GBIF observations in Pacific Maritime to display.',
+    '\n\n', '## Observation notes  \n', ifelse(!is.na(row['Abr. note']), row['Abr. note'], ''), 
+    '\n\n', '## GBIF observations  \n', ifelse(!(row['Species'] %in% gbif$Species), 'No GBIF observations in Pacific Maritime to display.',
                    paste0('\n\n```{r warning=F, message=F, echo=F}\nsource("../../page_functions.R")\nmake_species_map("', row["Species"], '")\n```')
                    ),
     '\n<br><br>\n<center>\n',
@@ -128,4 +138,5 @@ table_summary <- function(df){
 }
 
 # run this line to regenerate bee pages
-#apply(head(df), FUN=make_page, MARGIN=1)
+apply(head(df), FUN=make_page, MARGIN=1)
+

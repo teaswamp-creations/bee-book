@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="gali-badge">Galiano</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20angustella%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20angustella%20(3lateral).jpg){height=300}
 
-Collected on Galiano Island in 1984 (specimen in the Spencer Entomological Collection). Sheffield and Heron note this determination is questionable
+## Observation notes  
+Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1984, <span class="hl-place-name">Galiano Island</span>. Note: determination may be questionable (Sheffield &Heron, 2019). Guzman et al., 2023: (Gillespie), 2014, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

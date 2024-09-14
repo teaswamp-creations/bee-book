@@ -4,13 +4,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}
 
-Collected in the Galiano Island, 2017 community bee inventory event (specimen LRB17-4154, private collection)
+## Observation notes  
+McGinley 1986: <span class="hl-place-name">Gabriola Island</span>; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Rocky Point</span>. Biodiviersity Galiano Life List: (Andrew Simon), 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory (specimen LRB17-4154, Lincoln Best, personal collection). Guzman et al., 2023: (Elle), 2005; (Gielens), 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("mellipes")
+```
 <br><br>
 <center>
 

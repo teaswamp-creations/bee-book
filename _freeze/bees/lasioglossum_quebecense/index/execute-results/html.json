@@ -1,8 +1,11 @@
 {
-  "hash": "05ede3b911785bc347b063ae321e628b",
+  "hash": "267edadbb0dfd1814932f173dcf0e9b9",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum quebecense\nsubtitle: Quebec sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ [Ingrid Kaatz ](https://inaturalist.ca/photos/316308524/).](https://inaturalist-open-data.s3.amazonaws.com/photos/316308524/large.jpeg){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199085\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum quebecense <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum quebecense\nsubtitle: Quebec sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/316308524/large.jpeg\n---\n\n![©️ [Ingrid Kaatz ](https://inaturalist.ca/photos/316308524/).](https://inaturalist-open-data.s3.amazonaws.com/photos/316308524/large.jpeg){height=300}\n\n## Observation notes  \nGibbs et al. 2013: <span class=\"hl-place-name\">Greater <span class=\"hl-place-name\">Vancouver</span></span> Reg. Dist., <span class=\"hl-place-name\">Pitt Meadows</span>, peat bog; <span class=\"hl-place-name\">Greater <span class=\"hl-place-name\">Vancouver</span></span> Reg. Dist., <span class=\"hl-place-name\">Richmond</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199085\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum quebecense <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/266683986/medium.jpeg
 ---
 ![`r emo::ji("copyright")` [kbildner ](https://inaturalist.ca/photos/266683986).](https://inaturalist-open-data.s3.amazonaws.com/photos/266683986/medium.jpeg){height=300}
 
-Collected on Vancouver Island in 1989 (specimen in the Illinos Natural History Insect Collection)
+## Observation notes  
+Guzman et al., 2023: (Elle), 2005, (Neame), 2007, (Gielens), 2009; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

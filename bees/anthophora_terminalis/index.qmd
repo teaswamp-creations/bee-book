@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/319777585/large.jpeg
 ---
 ![`r emo::ji("copyright")` [Rick Barricklow ](https://inaturalist.ca/photos/319777585).](https://inaturalist-open-data.s3.amazonaws.com/photos/319777585/large.jpeg){height=300}
 
+## Observation notes  
+Dalla Torre 1896: (Sladen) 1919: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name"><span class="hl-place-name">Shawnigan</span> Lake</span>; <span class="hl-place-name">Victoria</span>; <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Lutz and Cockerell 1920: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name"><span class="hl-place-name">Shawnigan</span> Lake</span>; <span class="hl-place-name">Victoria</span>. Guzman et al., 2023: (Elle), 2005, (Gielens), 2009, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Tsawwassen</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span> and <span class="hl-place-name">Lower Mainland</span>, from 2019.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg
 ---
 ![`r emo::ji("copyright")` [lohump ](https://inaturalist.ca/photos/157800012).](https://inaturalist-open-data.s3.amazonaws.com/photos/157800012/medium.jpg){height=300}
 
-Collected on Galiano Island, 2018 (iNaturalist - non research grade)
+## Observation notes  
+Daly 1973: <span class="hl-place-name">Lower Mainland</span>. Biodiversity Galiano Life List: (Andrew Simon), 2018, (speicmen, personal collection); <span class="hl-place-name">Galiano Island</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>. NBSBC Bee Atlas Database: (Gazdik), 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-No GBIF observations in Pacific Maritime to display.
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("nanula")
+```
 <br><br>
 <center>
 

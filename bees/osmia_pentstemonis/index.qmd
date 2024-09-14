@@ -1,16 +1,18 @@
 ---
 title: Osmia pentstemonis
-subtitle: Osmia pentstemonsis
 engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
-Collected in the Fraser Valley in 1988 (specimen in the Bee Biology and Systematics Laboratory)
+## Observation notes  
+Ikerd H (2019). Bee Biology and Systematics Laboratory. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research: (W.E. Steiner), 1988, <span class="hl-place-name">Fraser Valley</span>.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

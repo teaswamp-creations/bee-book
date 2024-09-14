@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Apidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/304689760/large.jpeg
 ---
-![`r emo::ji("copyright")` [Bob McDougall ](https://inaturalist.ca/photos/304689760/).](https://inaturalist-open-data.s3.amazonaws.com/photos/304689760/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/304689760/large.jpeg){height=300}
 
+## Observation notes  
+First documented by Cresson, 1878a, with extensive historical record in the Pacific Maritime (see Best list for historical record to 2000). Biodiversity Galiano Life List: (G.G.E. Scudder), 1987, Galiano. NBSBC Bee Atlas Database: (Zand), 2021, 2022, 2023; (Gazdik), (Cruise), 2022, ((Wong), (Lakes), (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: widespread throughout the Pacific Maritime, from 1978.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

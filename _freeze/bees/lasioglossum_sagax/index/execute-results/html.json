@@ -1,0 +1,17 @@
+{
+  "hash": "683c333883859f51b56c9582a4b49642",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum sagax\nsubtitle: Shrewd sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Button), 2011, <span class=\"hl-place-name\">Surrey</span>, <span class=\"hl-place-name\">Abbotsford</span>, <span class=\"hl-place-name\">Pitt Meadows</span>, Coquitlam; 2012, <span class=\"hl-place-name\">Abbotsford</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1426358\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum sagax <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

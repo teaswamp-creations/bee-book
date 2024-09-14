@@ -1,0 +1,23 @@
+---
+title: Hoplitis spoliata
+subtitle: Dilated-horned small-mason bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/215651156/medium.jpeg
+---
+![`r emo::ji("copyright")` Brent Guinn.](https://inaturalist-open-data.s3.amazonaws.com/photos/215651156/medium.jpeg){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gillespie), 2015, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199138"><button type="button" class="btn btn-secondary">See all Hoplitis spoliata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

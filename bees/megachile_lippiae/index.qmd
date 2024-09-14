@@ -1,0 +1,22 @@
+---
+title: Megachile lippiae
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/271200102/medium.jpg
+---
+![`r emo::ji("copyright")` juanloredo.](https://inaturalist-open-data.s3.amazonaws.com/photos/271200102/medium.jpg){height=300}
+
+## Observation notes  
+Fan, Masters thesis, UBC: 2024, Metro <span class="hl-place-name">Vancouver</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=309085"><button type="button" class="btn btn-secondary">See all Megachile lippiae <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

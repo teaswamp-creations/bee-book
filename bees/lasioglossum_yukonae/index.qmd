@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
+## Observation notes  
+Gibbs 2010: (Nadel & Hannah), 1994, <span class="hl-place-name">Saanich</span>, Island View Beach; (C. Ratti), 2005, <span class="hl-place-name">Pitt Meadows</span>. European Bioinformatics Institute (EMBL-EBI): BIObus 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

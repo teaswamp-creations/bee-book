@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Megachilidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana%20female%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` NA.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana%20female%20(3lateral).jpg){height=300}
 
-Collected in North Vancouver in 1987, on Hornby Island in 1989 and in the Lower Mainland in 2003 (specimens in the Spencer Entomological Collection)
+## Observation notes  
+Spencer Entomological Collection, UBC: (S.G. Cannings), 1989, Hornby I.; (R. Kenner & K. Needham), 2003, <span class="hl-place-name">Richmond</span>, Iona I. Reg. Pk.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

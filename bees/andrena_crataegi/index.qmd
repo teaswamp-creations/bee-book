@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/205045047/large.jpg
 ---
 ![`r emo::ji("copyright")` [Bettina Harvey ](https://inaturalist.ca/photos/205045047).](https://inaturalist-open-data.s3.amazonaws.com/photos/205045047/large.jpg){height=300}
 
+## Observation notes  
+Cockerell 1931: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Guzman et al., 2023: (Wray), 2012, <span class="hl-place-name">Saanich</span>; (Gehrels), 2013, <span class="hl-place-name">Vancouver</span>. NBSBC Bee Atlas Database: (Zand), 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Vancouver</span>, from 2020.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

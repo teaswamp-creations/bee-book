@@ -5,12 +5,15 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span> <span class="gali-badge">Galiano</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span> <span class="gali-badge">Galiano</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/309879580/large.jpg
 ---
-![`r emo::ji("copyright")` [Gwen L'Hirondelle ](https://inaturalist.ca/photos/309879580/).](https://inaturalist-open-data.s3.amazonaws.com/photos/309879580/large.jpg){height=300}
+![`r emo::ji("copyright")` [Gwen L'Hirond](Elle ).](https://inaturalist-open-data.s3.amazonaws.com/photos/309879580/large.jpg){height=300}
 
+## Observation notes  
+Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Spencer Entomological Collection, UBC: (Elle), 2005, Stoltz Meadows, ~ 15 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>. Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory (specimen LRB17-3724, Lincoln Best, personal collection). M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. NBSBC Bee Atlas Database: (Zand), 2021, 2022; (Gazdik), 2022, (Young), (McDougall), (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; (Young), 2022, 2023, (Lakes), 2023, <span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Fraser Valley</span>, Central Coast, from 2014.
 
-
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

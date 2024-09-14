@@ -1,0 +1,23 @@
+---
+title: Coelioxys alternatus
+subtitle: Alternate cuckoo leafcutter bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/142652758/large.jpeg
+---
+![`r emo::ji("copyright")` [filiperibeiro ](https://inaturalist.ca/photos/142652758).](https://inaturalist-open-data.s3.amazonaws.com/photos/142652758/large.jpeg){height=300}
+
+## Observation notes  
+Buckell 1950: (W.Downes), 1920, <span class="hl-place-name">Duncan</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=626546"><button type="button" class="btn btn-secondary">See all Coelioxys alternatus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

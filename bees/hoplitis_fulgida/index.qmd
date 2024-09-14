@@ -1,0 +1,27 @@
+---
+title: Hoplitis fulgida
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="coast-badge">Coast</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/178873678/large.jpeg
+---
+![`r emo::ji("copyright")` [Pam Piombino ](https://inaturalist.ca/photos/178873678).](https://inaturalist-open-data.s3.amazonaws.com/photos/178873678/large.jpeg){height=300}
+
+## Observation notes  
+Spencer Entomological Collection, UBC: (No Collector ID), 1908, <span class="hl-place-name">Hope</span> Mt.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("fulgida")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Hoplitis%20fulgida.php"><button type="button" class="btn btn-secondary">See all Hoplitis fulgida <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

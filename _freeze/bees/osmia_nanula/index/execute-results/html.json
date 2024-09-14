@@ -1,8 +1,11 @@
 {
-  "hash": "bec5aea956f5784f2ed9775d1fe01bdc",
+  "hash": "911b218e2de66115eca14fff95552516",
   "result": {
-    "markdown": "---\ntitle: Osmia nanula\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"sh-badge\">SH list</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nanula <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Osmia nanula\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nBuckell 1950: (R.C.Treherne), 1916, <span class=\"hl-place-name\">Victoria</span>; (F.W.L.Sladen), 1915, <span class=\"hl-place-name\">Sidney</span>; (W.Downes), 1919, <span class=\"hl-place-name\">Saanich</span>; (E.C.VanDyke), 1920 <span class=\"hl-place-name\">Nanaimo</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nanula <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

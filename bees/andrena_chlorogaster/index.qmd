@@ -1,0 +1,23 @@
+---
+title: Andrena chlorogaster
+subtitle: Green-bellied mining bee
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Guzman et al., 2023: (Gielens), 2009, Mount Tzuhalem Ecological Reserve, nr. <span class="hl-place-name">Duncan</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena chlorogaster <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

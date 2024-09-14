@@ -5,13 +5,21 @@ engine: knitr
 categories:
   - Colletidae
 freeze: auto
-description:  <span class="sh-badge">SH list</span> <span class="pe-badge">PM Evidence</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/296218493/medium.jpg
 ---
 ![`r emo::ji("copyright")` [Denis Doucet ](https://inaturalist.ca/photos/296218493).](https://inaturalist-open-data.s3.amazonaws.com/photos/296218493/medium.jpg){height=300}
 
+## Observation notes  
+Viereck 1904a: <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: (Elle), 2005; (Gielens), 2009, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; (Gehrels) 2013, <span class="hl-place-name">Lower Mainland</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2023.
+
+## GBIF observations  
 
 
-No GBIF observations in Pacific Maritime to display.
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("basalis")
+```
 <br><br>
 <center>
 

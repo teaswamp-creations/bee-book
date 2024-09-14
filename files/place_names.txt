@@ -1,0 +1,179 @@
+name
+Abbotsford
+Agassiz
+Alberni
+Aldergrove
+Brentwood Bay
+Buccaneer Bay
+Chilliwack
+Comox
+Courtenay
+Cowichan
+Cowichan Bay
+Cowichan Lake
+Crescent
+Delta
+Departure Bay
+Duncan
+Esquimalt
+Fitzgerald
+Galiano Island
+Greater Vancouver Area
+Grouse Mt.
+Gulf Islands
+Harrison
+Hope
+Ladner
+Ladysmith
+Langley
+Lower Mainland
+MacGillivray Creek Game Reserve
+Manning Park
+Manning Prov. Pk.
+Mesachie Lake
+Mesachie Mountain
+Metlakatla
+Mt. Arrowsmith
+Mt. Cheam
+Mt. Douglas
+Mt. Seymour
+Mt. Tzuhalem
+Nanaimo
+Nanaimo Biological Station
+Newcastle Island
+North Saanich
+North Vancouver
+Northlands
+Oak Bay
+Pitt Meadows
+Point Grey
+Powell River
+Qualicum Bay
+Quamichan Lake
+Richmond
+Royal Oak
+Ruskin
+Saanich
+Saanichton
+Saanich District
+Sahtlam
+Salmon Arm
+Salt Spring Island
+Shawnigan Lake
+Sidney
+Sooke
+Spanish Banks
+Squamish
+Tsawwassen
+Tofino
+Ucluelet
+Vancouver
+Vancouvers Island
+Victoria
+Wellington
+Westham Island
+Westholme
+White Rock
+Witty's Lagoon
+Vancouver Island
+Fraser Valley
+Greater Vancouver
+Vancouver
+Comox
+Courtenay
+Hornby Island
+Nanaimo
+Port Alberni
+Qualicum 
+Shawnigan
+Sidney
+Sooke
+Victoria
+Bamfield
+Tofino
+Port Hardy
+Vancouver Island
+Alert Bay
+Agassiz
+Alberni
+Barkerville
+Blind Bay
+Bloedel
+Buccaneer Bay
+Celista
+Clinton
+Comox
+Courtenay
+Cowichan Lake
+Cowichan River Provincial Park
+Cranbrook
+Crows Nest
+Delta
+Departure Bay
+Duncan
+Elk Falls Provincial Park
+Fitzgerald
+Fraser Valley
+Gabriola Island
+Galiano Island
+Goldstream
+Hope
+Hope Mountains
+Invermere
+Jordan Meadows
+Kaslo
+Ladysmith
+Lake Cowichan
+Langford
+Manning Park
+Mesachie Lake
+Milner
+Mission
+Mount Arrowsmith
+Mount Cheam
+Mount Finlayson
+Mount Tolmie Park
+Nanaimo
+Nelson
+New Westminster
+Newcastle Island
+North Vancouver
+Okanagan
+Oyster Bay
+Pender Harbour
+Penticton
+Richmond
+Rocky Point
+Royal Oak
+Saanich
+Saanich District
+Sahtlam
+Salmon Arm
+Shawnigan
+Sidney
+Sooke
+Sooke Potholes Provincial Park
+Sorrento
+Stanley Park
+Surrey
+Thetis Lake Regional Park
+Tofino
+Trinity Valley
+Tsawwassen
+Ucluelet
+Vancouver
+Vernon
+Victoria
+Wellington
+West Vancouver
+Westham Island
+Westholme
+Pacific coast
+Douglas Mountain
+Mt.Cheam
+Newcastle Isl.
+Terrace
+Mt.Arrowsmith
+Sunshine Coast
+Mt. Tolmie Park
+Vancouver Is

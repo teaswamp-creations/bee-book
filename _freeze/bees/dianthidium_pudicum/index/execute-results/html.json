@@ -1,8 +1,11 @@
 {
-  "hash": "8add956a0ebfafa98aff86600aff69df",
+  "hash": "6394105a9a5ddf4e0e18fd3bf396b65b",
   "result": {
-    "markdown": "---\ntitle: Dianthidium pudicum\nsubtitle: Modest pebble bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [rwr ](https://www.inaturalist.org/photos/226547162).](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}\n\nCollected on Galiano Island, 2018 (iNaturalist - non research grade)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218318\"><button type=\"button\" class=\"btn btn-secondary\">See all Dianthidium pudicum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Dianthidium pudicum\nsubtitle: Modest pebble bee\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"gali-badge\">Galiano</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg\n---\n\n![©️ [rwr ](https://www.inaturalist.org/photos/226547162).](https://inaturalist-open-data.s3.amazonaws.com/photos/226547162/large.jpeg){height=300}\n\n## Observation notes  \niNaturalist: (Andrew Simon), 2018, <span class=\"hl-place-name\">Galiano Island</span>, from 2018 (specimen; private collection, Andrew Simon).\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218318\"><button type=\"button\" class=\"btn btn-secondary\">See all Dianthidium pudicum <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

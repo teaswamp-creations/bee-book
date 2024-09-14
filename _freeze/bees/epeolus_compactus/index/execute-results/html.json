@@ -1,0 +1,17 @@
+{
+  "hash": "22f7ac0c58e65b0cc048204c6da735f4",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Epeolus compactus\nsubtitle: Compact cellophane-cuckoo bee\nengine: knitr\ncategories:\n  - Apidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jpeg\n---\n\n![©️ Craig Chaddock.](https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jpeg){height=300}\n\n## Observation notes  \nGuzman et al., 2023: (Gielens), 2009, <span class=\"hl-place-name\">Lake <span class=\"hl-place-name\">Cowichan</span></span>, Measachie Lake.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=308866\"><button type=\"button\" class=\"btn btn-secondary\">See all Epeolus compactus <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

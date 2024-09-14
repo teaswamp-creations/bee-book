@@ -1,8 +1,11 @@
 {
-  "hash": "958f9e688a6a914e8341c240c5a92fb9",
+  "hash": "a6b48b8ede948cdae576c017f1f7dc48",
   "result": {
-    "markdown": "---\ntitle: Lasioglossum versans\nsubtitle: Friendless sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ [Spencer Hardy ](https://www.inaturalist.org/photos/207655766).](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}\n\nCollected in Lion�s Bay, 1965 and subsequently in the Gulf Islands 1979 and again in 1983 (specimens in the Spencer Entomological Collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20versans.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum versans <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Lasioglossum versans\nsubtitle: Friendless sweat bee\nengine: knitr\ncategories:\n  - Halictidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span> <span class=\"coast-badge\">Coast</span> <span class=\"gali-badge\">Galiano</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg\n---\n\n![©️ [Spencer Hardy ](https://www.inaturalist.org/photos/207655766).](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}\n\n## Observation notes  \nSpencer Entomological Collection, UBC: (G.J. Spencer), 1965, <span class=\"hl-place-name\">Vancouver</span>; (R.A. Cannings), 1979, South Pender I.; (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20versans.php\"><button type=\"button\" class=\"btn btn-secondary\">See all Lasioglossum versans <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

@@ -1,0 +1,17 @@
+{
+  "hash": "572eabfcf8a80ea6d63146d333ea9846",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena merriami\nsubtitle: Merriam's miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/571518/large.jpg\n---\n\n![©️ USGS Bee Inventory and Monitoring Lab.](https://inaturalist-open-data.s3.amazonaws.com/photos/571518/large.jpg){height=300}\n\n## Observation notes  \nViereck 1904c: (Livingston), <span class=\"hl-place-name\">Vancouver</span>.\n\n## GBIF observations  \n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"no GBIF data to display\"\n```\n\n\n:::\n:::\n\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena merriami <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

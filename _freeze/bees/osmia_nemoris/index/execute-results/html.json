@@ -1,0 +1,17 @@
+{
+  "hash": "8fa8c55ddef719ae6b82506f9ee61e7f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Osmia nemoris\nengine: knitr\ncategories:\n  - Megachilidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: https://inaturalist-open-data.s3.amazonaws.com/photos/267470847/large.jpeg\n---\n\n![©️ Boaz Benaiah Solorio.](https://inaturalist-open-data.s3.amazonaws.com/photos/267470847/large.jpeg){height=300}\n\n## Observation notes  \nCriddle 1925: (Livingston), 1896, <span class=\"hl-place-name\">Vancouver</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=345173\"><button type=\"button\" class=\"btn btn-secondary\">See all Osmia nemoris <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

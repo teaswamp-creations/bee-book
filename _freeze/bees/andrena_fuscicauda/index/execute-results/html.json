@@ -1,8 +1,11 @@
 {
-  "hash": "7236b70532c4fbf1fa4718269027bc6c",
+  "hash": "bcd151a88ba2a1d8675a42a80d2d49ab",
   "result": {
-    "markdown": "---\ntitle: Andrena fuscicauda\nsubtitle: Dark-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"pe-badge\">PM Evidence</span> <span class=\"gali-badge\">Galiano</span>\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\nCollected on Galiano Island in the 2017 community bee inventory event (specimen LRB17-3745, private collection)\n\nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena fuscicauda <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
-    "supporting": [],
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena fuscicauda\nsubtitle: Dark-tailed mining bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"vanc-isl-badge\">Vancouver Island</span> <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nLaBerge 1973: <span class=\"hl-place-name\">Saanich</span>. Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class=\"hl-place-name\">Galiano Island</span>,(specimen LRB17-3745, Lincoln Best, private collection)\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena fuscicauda <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

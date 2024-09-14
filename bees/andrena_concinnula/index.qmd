@@ -4,12 +4,15 @@ engine: knitr
 categories:
   - Andrenidae
 freeze: auto
-description:  <span class="pe-badge">PM Evidence</span>
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula%20(3lateral).jpg
 ---
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula%20(3lateral).jpg){height=300}
 
-Collected in the Lower Mainland in 1983 (specimen in the Spencer Entomological Collection)
+## Observation notes  
+Spencer Entomological Collection, UBC: (S.G. Cannings), 1983, Deas Island.
 
+## GBIF observations  
 
 
 ```{r warning=F, message=F, echo=F}

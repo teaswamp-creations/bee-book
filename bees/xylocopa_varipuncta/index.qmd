@@ -1,0 +1,23 @@
+---
+title: Xylocopa varipuncta
+subtitle: Valley carpenter bee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/346022680/medium.jpeg
+---
+![`r emo::ji("copyright")` Enot Poluskuns.](https://inaturalist-open-data.s3.amazonaws.com/photos/346022680/medium.jpeg){height=300}
+
+## Observation notes  
+OSU Insect Collection: (R.C.Osburn), 1949, Capilano Canyon. Note: this was likely a failed introduction of the species and that if the record is valid, that it has not established or been detected since. It is a more southern species, which at this time, does not survive outside of the central valley of California (LR Best, personal communication).
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Xylocopa varipuncta <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

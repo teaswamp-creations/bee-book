@@ -1,0 +1,15 @@
+{
+  "hash": "f89a24b8a92b333442e03fb38de77a84",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Andrena berberidis\nsubtitle: Barberry miner bee\nengine: knitr\ncategories:\n  - Andrenidae\nfreeze: auto\ndescription:  <span class=\"lower-mainland-badge\">Lower Mainland</span>\nimage: /files/no_bee.png\n---\n\n![©️ Cait Harrigan.](/files/no_bee.png){height=300}\n\n## Observation notes  \nTommasi et al. 2004: <span class=\"hl-place-name\"><span class=\"hl-place-name\">Greater <span class=\"hl-place-name\">Vancouver</span></span> Area</span>.\n\n## GBIF observations  \nNo GBIF observations in Pacific Maritime to display.\n<br><br>\n<center>\n\n\n<a href=\"NA\"><button type=\"button\" class=\"btn btn-secondary\">See all Andrena berberidis <i class=\"fa-solid fa-arrow-up-right-from-square\"></i> </button></a>\n</center>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
