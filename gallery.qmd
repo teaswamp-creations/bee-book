@@ -4,6 +4,7 @@ listing:
   contents: bees
   type: grid
   categories: true
+  max-description-length: 250
   filter-ui: [title, categories, description]
   sort-ui: [title, description]
   field-display-names:
