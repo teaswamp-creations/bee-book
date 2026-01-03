@@ -98,18 +98,21 @@ summary <- tibble(
     length(setdiff(df_v2_list, df_v3_list)),length(setdiff(gbif_v2_list, gbif_v3_list))
     )
 )
+```
 
+```{r}
 summary %>% 
   rowwise() %>%
   mutate(tot = new + old) %>%
   ggplot(aes(x = ordered(version), y = tot, colour=ref)) + 
   geom_line(aes(group = ref)) + 
   geom_point() + 
-  ggpubr::theme_pubr() +
+  ggpubr::theme_pubr(18) +
   scale_colour_manual(values = c('#376D61', 'grey70'), labels = c("Bee Gallery", "GBIF")) + 
   labs(x = 'Version', y = 'Number of Species', colour ='Collection')
+```
 
-
+```{r}
 summary %>%
   mutate(removed = -removed) %>%
   pivot_longer(c(new, old, removed)) %>%
@@ -117,7 +120,7 @@ summary %>%
   ggplot(aes(x = ordered(version), y = value, fill = name)) + 
   geom_col(position = position_stack()) + 
   facet_wrap(~ref, ncol=2) + 
-  ggpubr::theme_pubr() +
+  ggpubr::theme_pubr(18) +
   scale_fill_manual(values = c('#376D61', '#A0CFC4',  'grey70'), labels = c("New", "Retained", "Removed")) + 
   labs(x = 'Version', y = 'Number of species', fill = 'Since previous version')
 
@@ -141,13 +144,23 @@ Bee book gallery shows two pieces of information per species page:
 Page completeness is as follows:
 
 ```{r echo=F}
+#| fig-width: 8
+#| fig-height: 5
+
 upset_list = list(`Has PM map` = unique(paste(gbif_v3$family, gbif_v3$Genus, gbif_v3$Species)),
-                  `In bee gallery` = unique(paste(gbif_v3$Family, gbif_v3$Genus, gbif_v3$Species)), 
-                  `Has image` = unique(paste(gbif_v3$Family, gbif_v3$Genus, gbif_v3$Species)[!is.na(gbif_v3$`Image link`)])
+                  `In bee gallery` = unique(paste(df_v3$Family, df_v3$Genus, df_v3$Species)), 
+                  `Has image` = unique(paste(df_v3$Family, df_v3$Genus, df_v3$Species)[!is.na(df_v3$`Image link`)])
 )
 
-UpSetR::upset(UpSetR::fromList(upset_list))
-``` 
+UpSetR::upset(
+  UpSetR::fromList(upset_list),
+  text.scale = 2,
+  mb.ratio = c(0.55, 0.45),
+  point.size = 6,
+  line.size = 2
+)
+```
+
 
 
 
@@ -173,18 +186,22 @@ summary <- tibble(
   old = c(length(df_v1_list),length(gbif_v1_list),length(intersect(df_v1_list,df_v2_list)),length(intersect(gbif_v1_list,gbif_v2_list))),
   removed = c(0,0,length(setdiff(df_v1_list, df_v2_list)),length(setdiff(gbif_v1_list, gbif_v2_list)))
 )
+```
 
+```{r}
 summary %>% 
   rowwise() %>%
   mutate(tot = new + old) %>%
   ggplot(aes(x = ordered(version), y = tot, colour=ref)) + 
   geom_line(aes(group = ref)) + 
   geom_point() + 
-  ggpubr::theme_pubr() +
+  ggpubr::theme_pubr(18) +
   scale_colour_manual(values = c('#376D61', 'grey70'), labels = c("Bee Gallery", "GBIF")) + 
   labs(x = 'Version', y = 'Number of Species', colour ='Collection')
 
+```
 
+```{r}
 summary %>%
   mutate(removed = -removed) %>%
   pivot_longer(c(new, old, removed)) %>%
@@ -192,7 +209,7 @@ summary %>%
   ggplot(aes(x = ordered(version), y = value, fill = name)) + 
   geom_col(position = position_stack()) + 
   facet_wrap(~ref, ncol=2) + 
-  ggpubr::theme_pubr() +
+  ggpubr::theme_pubr(18) +
   scale_fill_manual(values = c('#376D61', '#A0CFC4',  'grey70'), labels = c("New", "Retained", "Removed")) + 
   labs(x = 'Version', y = 'Number of species', fill = 'Since previous version')
 
@@ -221,7 +238,13 @@ upset_list = list(`Has PM map` = unique(paste(gbif_v2$family, gbif_v2$Genus, gbi
                   `Has image` = unique(paste(df_v2$Family, df_v2$Genus, df_v2$Species)[!is.na(df_v2$`Image link`)])
 )
 
-UpSetR::upset(UpSetR::fromList(upset_list))
+UpSetR::upset(
+  UpSetR::fromList(upset_list),
+  text.scale = 2,
+  mb.ratio = c(0.55, 0.45),
+  point.size = 6,
+  line.size = 2
+)
 ``` 
 
 
@@ -250,7 +273,13 @@ upset_list = list(`Has PM map` = unique(paste(gbif_v1$family, gbif_v1$Genus, gbi
                   `Has image` = unique(paste(df_v1$Family, df_v1$Genus, df_v1$Species)[!is.na(df_v1$`Image link`)])
 )
 
-UpSetR::upset(UpSetR::fromList(upset_list))
+UpSetR::upset(
+  UpSetR::fromList(upset_list),
+  text.scale = 2,
+  mb.ratio = c(0.55, 0.45),
+  point.size = 6,
+  line.size = 2
+)
 ``` 
 
 

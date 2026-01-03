@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs_staging
 
 website:
   title: ""
-  favicon: "files/no_bee.png"
+  favicon: "files/logo.png"
   google-analytics: "G-YZBNVRR4EQ"
   page-footer:
     center: |
@@ -12,7 +12,7 @@ website:
       <br>
       <img src="https://raw.githubusercontent.com/teaswamp-creations/galiwatch.ca/quarto-website/images/teaswamp_transparent.png" alt="logo" class="image" style="width: 2.5em;">
   navbar:
-    logo: "files/no_bee.png"
+    logo: "files/logo.png"
     left:
       - href: index.qmd
         text: Home
