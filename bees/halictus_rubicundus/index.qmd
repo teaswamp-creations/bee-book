@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/309879580/large.jpg
 ![`r emo::ji("copyright")` [Gwen L'Hirond](Elle ).](https://inaturalist-open-data.s3.amazonaws.com/photos/309879580/large.jpg){height=300}
 
 ## Observation notes  
-Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Spencer Entomological Collection, UBC: (Elle), 2005, Stoltz Meadows, ~ 15 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>. Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory (specimen LRB17-3724, Lincoln Best, personal collection). M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. NBSBC Bee Atlas Database: (Zand), 2021, 2022; (Gazdik), 2022, (Young), (McDougall), (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; (Young), 2022, 2023, (Lakes), 2023, <span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Fraser Valley</span>, Central Coast, from 2014.
+Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Spencer Entomological Collection, UBC: 2005, Stoltz Meadows, ~ 15 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>. Biodiversity Galiano Life List: 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory. M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. NBSBC Bee Atlas Database: 2021, 2022; 2022, 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; 2022, 2023, 2023, <span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Fraser Valley</span>, Central Coast, from 2014.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("rubicundus")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=127747"><button type="button" class="btn btn-secondary">See all Halictus rubicundus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=127747"><button type="button" class="btn btn-secondary">See all Halictus rubicundus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

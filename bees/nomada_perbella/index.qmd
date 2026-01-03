@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Viereck 1905: (Wickham), Glenora, <span class="hl-place-name">Vancouver</span>.
+Viereck 1905: Glenora, <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

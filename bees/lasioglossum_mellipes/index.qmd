@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasiogl
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20mellipes%20female%20(3lateral)%20.jpg){height=300}
 
 ## Observation notes  
-McGinley 1986: <span class="hl-place-name">Gabriola Island</span>; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Rocky Point</span>. Biodiviersity Galiano Life List: (Andrew Simon), 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory (specimen LRB17-4154, Lincoln Best, personal collection). Guzman et al., 2023: (Elle), 2005; (Gielens), 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+McGinley 1986: <span class="hl-place-name">Gabriola Island</span>; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Rocky Point</span>. Biodiviersity Galiano Life List: 2017, <span class="hl-place-name">Galiano Island</span> Community Bee Inventory. Guzman et al., 2023: 2005; 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

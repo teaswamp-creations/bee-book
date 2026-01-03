@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Criddle 1926: (W.Downes), 1918, <span class="hl-place-name">Saanich</span> Dist.
+Criddle 1926: 1918, <span class="hl-place-name">Saanich</span> Dist.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

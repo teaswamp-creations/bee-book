@@ -15,8 +15,9 @@ format_place <- function(x, lookup){
 }
 
 # spreadsheet data
-gs4_auth('galiwatch.info@gmail.com')
-df <- read_sheet("1dINXYa_dfZG2lHRQFVITJv4P2U8ECUAiSHoXBkLVVtw", sheet = 'Bee families of BC') %>%
+#gs4_auth('galiwatch.info@gmail.com')
+df <- readxl::read_xlsx("files/Native bees of BC - PM_3rd edition.xlsx") %>%
+  filter(`Bee book list` == 'Y') %>%
   separate(Observer, into=c('Observer', 'obs_link'), '\\(') %>%
   mutate(physical_record = (str_sub(Record,-2,-1) =="PM") | (Record=="Galiano life-list"),
          Observer = ifelse(is.na(`Image link`), 'Cait Harrigan', Observer),
@@ -24,39 +25,33 @@ df <- read_sheet("1dINXYa_dfZG2lHRQFVITJv4P2U8ECUAiSHoXBkLVVtw", sheet = 'Bee fa
          `Common name` = ifelse(`Common name` == paste(Genus, Species), NA, `Common name`),
          obs_link = gsub("\\)", "", obs_link)
          ) %>%
-  filter(`Bee book list` == 'Y') %>%
-  mutate(`Abr. note` = format_place(`Abr. note`, places))
+  mutate(`Abr. note` = format_place(`Abr. note`, places)) 
 
-#df %>%
-#  mutate(`Summary notes` = format_place(`Summary notes`, places)) %>%
-#  pull(`Summary notes`) %>%
-#  paste(collapse = '\n') %>%
-#  write_file('foo.qmd')
 
 # gbif data
-gbif <- read_delim("files/0014018-240906103802322.csv", delim = "\t") %>%
+gbif <- read_delim("files/0050043-251120083545085.csv", delim = "\t") %>%
   separate_wider_delim(eventDate, delim='/', names = c('eventDate', NA), too_few = "align_start") %>%
   mutate(eventDate = parse_date_time(eventDate, orders = c("ymd", "ymd HM", 'ymd HMS', "ym", "y")),
          date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
   drop_na(date, lat, lon, occurrenceID) %>%
-  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge') %>%
+  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge', too_few = 'align_start') %>%
   mutate(Species=ifelse(Species=='nr', NA, Species)) 
 
 # make badges 
 make_badges <- function(row){
   b <- ''
-  if(row['KQ_Van_Isle']>0){
+  if(trimws(row['KQ_Van_Isle']) > 0){
     b <- paste(b, '<span class="vanc-isl-badge">Vancouver Island</span>')
   } 
-  if(row['KQ_LM']>0){
+  if(trimws(row['KQ_LM']) > 0){
     b <- paste(b, '<span class="lower-mainland-badge">Lower Mainland</span>')
   }
-  if(row['KQ_C&NW']>0){
+  if(trimws(row['KQ_C&NW']) > 0){
     b <- paste(b, '<span class="coast-badge">Coast</span>')
   }
-  if(row['KQ_Galiano']>0){
+  if(trimws(row['KQ_Galiano']) > 0){
     b <- paste(b, '<span class="gali-badge">Galiano</span>')
   }
   b
@@ -138,5 +133,5 @@ table_summary <- function(df){
 }
 
 # run this line to regenerate bee pages
-apply(head(df), FUN=make_page, MARGIN=1)
-
+print(dim(df))
+apply((df), FUN=make_page, MARGIN=1)

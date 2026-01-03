@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/223410239/large.jpe
 ![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/223410239/large.jpeg){height=300}
 
 ## Observation notes  
-Sladen 1919: Mountains and <span class="hl-place-name">Pacific coast</span> region of Canada. Buckell 1951: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Vancouver</span>. Stephen 1957: <span class="hl-place-name">Vancouver</span>. Milliron 1973a: (D.G.Gillespie), 1914, <span class="hl-place-name">Agassiz</span>; R.G, 1926, <span class="hl-place-name">Agassiz</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. iNaturalist: <span class="hl-place-name">Delta</span>, from 2023.
+Sladen 1919: Mountains and <span class="hl-place-name">Pacific coast</span> region of Canada. Buckell 1951: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Vancouver</span>. Stephen 1957: <span class="hl-place-name">Vancouver</span>. Milliron 1973a: 1914, <span class="hl-place-name">Agassiz</span>; R.G, 1926, <span class="hl-place-name">Agassiz</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. iNaturalist: <span class="hl-place-name">Delta</span>, from 2023.
 
 ## GBIF observations  
 

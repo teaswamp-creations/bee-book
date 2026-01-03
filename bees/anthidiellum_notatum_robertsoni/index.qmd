@@ -1,0 +1,23 @@
+---
+title: Anthidiellum notatum robertsoni
+subtitle: California rotund-resin bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidiellum%20notatum%20robertsoni%20(3lateral).jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidiellum%20notatum%20robertsoni%20(3lateral).jpg){height=300}
+
+## Observation notes  
+Spencer Entomological Collection, UBC: Pemberton, 2015.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Anthidiellum%20notatum%20robertsoni.php"><button type="button" class="btn btn-secondary">See all Anthidiellum notatum robertsoni <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

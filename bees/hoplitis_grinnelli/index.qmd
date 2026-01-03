@@ -19,5 +19,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=271346"><button type="button" class="btn btn-secondary">See all Hoplitis grinnelli <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=271346"><button type="button" class="btn btn-secondary">See all Hoplitis grinnelli <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

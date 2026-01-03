@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpe
 ![`r emo::ji("copyright")` [Tyler ](Kelly ).](https://inaturalist-open-data.s3.amazonaws.com/photos/290631650/large.jpeg){height=300}
 
 ## Observation notes  
-Biodiversity Galiano Life List: (Ed Andrusiak), 2017, <span class="hl-place-name">Galiano Island</span> (specimen LRB17-4131, Lincoln Best, private collection).
+Biodiversity Galiano Life List: 2017, <span class="hl-place-name">Galiano Island</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

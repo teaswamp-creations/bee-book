@@ -1,0 +1,27 @@
+---
+title: Andrena prolixa
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: http://www.boldsystems.org/pics/WASPS/738ED91E-2C16-4A1B-8B92-81FF460E3EA1+1584475451.jpeg
+---
+![`r emo::ji("copyright")` S. Cannings.](http://www.boldsystems.org/pics/WASPS/738ED91E-2C16-4A1B-8B92-81FF460E3EA1+1584475451.jpeg){height=300}
+
+## Observation notes  
+International Barcode of Life project S. Cannings 2016; B. Zand 2017
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("prolixa")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.gbif.org/occurrence/4917447134"><button type="button" class="btn btn-secondary">See all Andrena prolixa <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

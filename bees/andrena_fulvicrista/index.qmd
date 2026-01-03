@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Viereck 1924b: (Sladen), 1920, <span class="hl-place-name">Agassiz</span>.
+Viereck 1924b: 1920, <span class="hl-place-name">Agassiz</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

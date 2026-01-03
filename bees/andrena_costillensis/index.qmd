@@ -19,5 +19,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Andrena costillensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://www.gbif.org/occurrence/2562944872"><button type="button" class="btn btn-secondary">See all Andrena costillensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Gibbs 2010: (Elle), 2005, Stoltz Meadows, 15 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span> Forestry Stn., Mesachie Lk.
+Gibbs 2010: 2005, Stoltz Meadows, 15 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span> Forestry Stn., Mesachie Lk.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

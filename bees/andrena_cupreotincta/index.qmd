@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20cupreotincta%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-<span class="hl-place-name">Agassiz</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Elle), 2005; (Gillespie), 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>.
+<span class="hl-place-name">Agassiz</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: 2005; 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2011, <span class="hl-place-name">Abbotsford</span>.
 
 ## GBIF observations  
 

@@ -1,0 +1,28 @@
+---
+title: Bombus ternarius
+subtitle: Tri-coloured bumblebee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/500815994/medium.jpg
+---
+![`r emo::ji("copyright")` [Roslyn ](https://inaturalist.ca/photos/500815994).](https://inaturalist-open-data.s3.amazonaws.com/photos/500815994/medium.jpg){height=300}
+
+## Observation notes  
+GBIF records: 2013, <span class="hl-place-name">Cowichan</span> valley; Ratzliff 2015, lower mainland.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("ternarius")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?quality_grade=research&subview=map&taxon_id=127905"><button type="button" class="btn btn-secondary">See all Bombus ternarius <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

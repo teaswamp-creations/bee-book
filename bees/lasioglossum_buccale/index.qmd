@@ -1,0 +1,27 @@
+---
+title: Lasioglossum buccale
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/395591148/medium.jpeg
+---
+![`r emo::ji("copyright")` Aidan Hersh.](https://inaturalist-open-data.s3.amazonaws.com/photos/395591148/medium.jpeg){height=300}
+
+## Observation notes  
+NBSBC Bee Atlas: 2024, N. <span class="hl-place-name">Vancouver</span>
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("buccale")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1082389"><button type="button" class="btn btn-secondary">See all Lasioglossum buccale <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

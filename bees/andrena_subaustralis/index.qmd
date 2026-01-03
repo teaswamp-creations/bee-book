@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Viereck 1904c: (Livingston), 1896, <span class="hl-place-name">Vancouver</span>. LaBerge and Bouseman 1970: <span class="hl-place-name">Royal Oak</span>, <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: (Elle), 2005, (Gielens), 2009, (Gillespie), 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Viereck 1904c: 1896, <span class="hl-place-name">Vancouver</span>. LaBerge and Bouseman 1970: <span class="hl-place-name">Royal Oak</span>, <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: 2005, 2009, 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

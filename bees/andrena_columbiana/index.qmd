@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/224607842/large.jpe
 ![`r emo::ji("copyright")` [Gwen L'Hirond](Elle ).](https://inaturalist-open-data.s3.amazonaws.com/photos/224607842/large.jpeg){height=300}
 
 ## Observation notes  
-Guzman et al 2023: (Gehrels), 2013, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Squamish</span>, from 2020.
+Guzman et al 2023: 2013, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>. NBSBC Bee Atlas Database: 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Squamish</span>, from 2020.
 
 ## GBIF observations  
 

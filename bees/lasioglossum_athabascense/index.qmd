@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-McGinley 1986: <span class="hl-place-name">Abbotsford</span>; <span class="hl-place-name">Manning Park</span>. Ratti Masters thesis collection: 2003, <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Elle), 2005; (Gielens), 2009, 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+McGinley 1986: <span class="hl-place-name">Abbotsford</span>; <span class="hl-place-name">Manning Park</span>. Ratti Masters thesis collection: 2003, <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: 2005; 2009, 2010, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. NBSBC Bee Atlas Database: 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

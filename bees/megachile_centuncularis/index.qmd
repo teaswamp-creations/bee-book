@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/340848918/medium.jp
 ![`r emo::ji("copyright")` [Richard Peters ](https://inaturalist.ca/photos/231497579).](https://inaturalist-open-data.s3.amazonaws.com/photos/340848918/medium.jpg){height=300}
 
 ## Observation notes  
-Mitchell 1962: To the Pacific in Canada. Spencer Entomological Collection, UBC: (G.J. Spencer), 1949  <span class="hl-place-name">Vancouver</span>; (Bilford), 1954, <span class="hl-place-name">Vancouver</span>;  (N.C. Scudder), 1983, <span class="hl-place-name">Vancouver</span>. NBSBC Bee Atlas Database: (Zand), 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Mitchell 1962: To the Pacific in Canada. Spencer Entomological Collection, UBC: 1949  <span class="hl-place-name">Vancouver</span>; 1954, <span class="hl-place-name">Vancouver</span>; 1983, <span class="hl-place-name">Vancouver</span>. NBSBC Bee Atlas Database: 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

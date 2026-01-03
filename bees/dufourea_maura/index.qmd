@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/296930790/medium.jp
 ![`r emo::ji("copyright")` rwr.](https://inaturalist-open-data.s3.amazonaws.com/photos/296930790/medium.jpg){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Gillespie), 2015, <span class="hl-place-name">Cowichan</span>.
+GBIF record: 1917, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Guzman et al., 2023: 2015, <span class="hl-place-name">Cowichan</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
@@ -19,5 +19,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=218789"><button type="button" class="btn btn-secondary">See all Dufourea maura <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=218789"><button type="button" class="btn btn-secondary">See all Dufourea maura <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

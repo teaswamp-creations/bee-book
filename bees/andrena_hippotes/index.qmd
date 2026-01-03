@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/171981980/medium.jp
 ![`r emo::ji("copyright")` [Chantel ](https://inaturalist.ca/photos/171981980).](https://inaturalist-open-data.s3.amazonaws.com/photos/171981980/medium.jpeg){height=300}
 
 ## Observation notes  
-LaBerge 1973: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Spencer Entomological Collection, UBC: (R.D. Kenner), 2000, <span class="hl-place-name">Richmond</span>.
+LaBerge 1973: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Spencer Entomological Collection, UBC: 2000, <span class="hl-place-name">Richmond</span>. NBSBC Bee Atlas: N. <span class="hl-place-name">Vancouver</span>, 2024.
 
 ## GBIF observations  
 

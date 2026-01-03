@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasiogl
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20punctatoventre%20female%20(3lateral)%20.jpg){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Gehrels), 2013, <span class="hl-place-name">Aldergrove</span>, <span class="hl-place-name">Surrey</span>, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>.
+Guzman et al., 2023: 2013, <span class="hl-place-name">Aldergrove</span>, <span class="hl-place-name">Surrey</span>, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>.
 
 ## GBIF observations  
 

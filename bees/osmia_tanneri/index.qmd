@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Elle), 2005, <span class="hl-place-name">Sooke</span> Potholes.
+Guzman et al., 2023: 2005, <span class="hl-place-name">Sooke</span> Potholes.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

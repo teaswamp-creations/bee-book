@@ -1,6 +1,6 @@
 ---
 title: Nomada bella
-subtitle: B(Elle) nomad bee
+subtitle: Belle nomad bee
 engine: knitr
 categories:
   - Apidae
@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/257784403/large.jpe
 ![`r emo::ji("copyright")` [Tom Murray ](https://inaturalist.ca/photos/257784403).](https://inaturalist-open-data.s3.amazonaws.com/photos/257784403/large.jpeg){height=300}
 
 ## Observation notes  
-Cockerell 1903: Wickham, Glenora. Criddle 1926: (F.W.L.Sladen), 1915, <span class="hl-place-name">Agassiz</span>; R.Glendenning, Taylor, 1921, <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Gabriola Island</span>; 1916, (R.C.Treherne),  <span class="hl-place-name">Victoria</span>.
+Cockerell 1903: Wickham, Glenora. Criddle 1926: 1915, <span class="hl-place-name">Agassiz</span>; R.Glendenning, Taylor, 1921, <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name">Gabriola Island</span>; 1916,  <span class="hl-place-name">Victoria</span>.
 
 ## GBIF observations  
 

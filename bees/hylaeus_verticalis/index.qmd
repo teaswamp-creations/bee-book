@@ -19,5 +19,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Hylaeus verticalis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199046"><button type="button" class="btn btn-secondary">See all Hylaeus verticalis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

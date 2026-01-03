@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/176449140/large.jpg
 ![`r emo::ji("copyright")` [Lisa Hill ](https://inaturalist.ca/photos/176449140).](https://inaturalist-open-data.s3.amazonaws.com/photos/176449140/large.jpg){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Button), 2011, <span class="hl-place-name">Abbotsford</span>, <span class="hl-place-name">Pitt Meadows</span>.
+Guzman et al., 2023: 2011, <span class="hl-place-name">Abbotsford</span>, <span class="hl-place-name">Pitt Meadows</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

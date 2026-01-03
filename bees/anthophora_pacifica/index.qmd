@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/186601937/large.jpe
 ![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/186601937/large.jpeg){height=300}
 
 ## Observation notes  
-Gibson 1918: (R.C.Treherne) 1916, <span class="hl-place-name">Victoria</span>. Guzman et al., 2023: (Neame), 2007; (Gielens), 2009; (Wray), 2012; (Gillespie), 2014; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span> and <span class="hl-place-name">Gulf Islands</span> from 2019.
+Gibson 1918: 1916, <span class="hl-place-name">Victoria</span>. Guzman et al., 2023: 2007; 2009; 2012; 2014; 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span> and <span class="hl-place-name">Gulf Islands</span> from 2019. NBSBC Bee Atlas: 2024, Vancover Island.
 
 ## GBIF observations  
 

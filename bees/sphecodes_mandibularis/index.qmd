@@ -10,7 +10,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/38797776/large.jpg
 ![`r emo::ji("copyright")` [Royal Tyler ](https://inaturalist.ca/photos/38797776/).](https://inaturalist-open-data.s3.amazonaws.com/photos/38797776/large.jpg){height=300}
 
 ## Observation notes  
-The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (J. Heron), 2010, <span class="hl-place-name">Vancouver</span>.
+The International Barcode of Life Consortium. International Barcode of Life project: 2010, <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
 

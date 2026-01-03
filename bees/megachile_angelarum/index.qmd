@@ -10,7 +10,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/165742936/large.jpe
 ![`r emo::ji("copyright")` [Gwen L'Hirond](Elle ).](https://inaturalist-open-data.s3.amazonaws.com/photos/165742936/large.jpeg){height=300}
 
 ## Observation notes  
-iNaturalist: <span class="hl-place-name">Fraser Valley</span>, <span class="hl-place-name">Squamish</span>, from 2020.
+iNaturalist: <span class="hl-place-name">Fraser Valley</span>, <span class="hl-place-name">Squamish</span>, from 2020. NBSBC Bee Atlas: 2024, N. <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
 

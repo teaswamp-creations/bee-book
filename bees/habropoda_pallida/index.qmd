@@ -1,0 +1,27 @@
+---
+title: Habropoda pallida
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="coast-badge">Coast</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/256812411/medium.jpg
+---
+![`r emo::ji("copyright")` Steve Matson.](https://inaturalist-open-data.s3.amazonaws.com/photos/256812411/medium.jpg){height=300}
+
+## Observation notes  
+The International Barcode of Life Consortium: 2000, Lund, Sunshine coast.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("pallida")
+```
+<br><br>
+<center>
+
+
+<a href="https://www.inaturalist.org/observations?quality_grade=research&subview=map&taxon_id=210858"><button type="button" class="btn btn-secondary">See all Habropoda pallida <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Gielens), 2009, Mount Tzuhalem Ecological Reserve, nr. <span class="hl-place-name">Duncan</span>.
+Guzman et al., 2023: 2009, Mount Tzuhalem Ecological Reserve, nr. <span class="hl-place-name">Duncan</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

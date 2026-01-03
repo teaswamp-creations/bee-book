@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/317453131/medium.jp
 ![`r emo::ji("copyright")` [Terry Carr ](https://inaturalist.ca/photos/317453131/).](https://inaturalist-open-data.s3.amazonaws.com/photos/317453131/medium.jpeg){height=300}
 
 ## Observation notes  
-Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Ratti and Colla 2010: <span class="hl-place-name">Ladner</span>; <span class="hl-place-name">Westham Island</span>. Guzman et al., 2023: (Button), 2012, <span class="hl-place-name">Abbotsford</span>; (Gehrels), 2013; (Gillespie), 2015; (Toshack), 2015; (Bobiwash), 2016; (Elle), 2016, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: (Young), 2022, <span class="hl-place-name">Langley</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Fraser Valley</span>, from 2015.
+Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Ratti and Colla 2010: <span class="hl-place-name">Ladner</span>; <span class="hl-place-name">Westham Island</span>. Guzman et al., 2023: 2012, <span class="hl-place-name">Abbotsford</span>; 2013; 2015; 2015; 2016; 2016, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: 2022, <span class="hl-place-name">Langley</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Lower Mainland</span>, <span class="hl-place-name">Fraser Valley</span>, from 2015.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("impatiens")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=118970"><button type="button" class="btn btn-secondary">See all Bombus impatiens <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?quality_grade=research&subview=map&taxon_id=118970"><button type="button" class="btn btn-secondary">See all Bombus impatiens <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

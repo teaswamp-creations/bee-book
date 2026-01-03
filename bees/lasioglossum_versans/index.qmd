@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpe
 ![`r emo::ji("copyright")` [Spencer Hardy ](https://www.inaturalist.org/photos/207655766).](https://inaturalist-open-data.s3.amazonaws.com/photos/207655766/large.jpeg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (G.J. Spencer), 1965, <span class="hl-place-name">Vancouver</span>; (R.A. Cannings), 1979, South Pender I.; (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.
+Spencer Entomological Collection, UBC: 1965, <span class="hl-place-name">Vancouver</span>; 1979, South Pender I.; 1983, Galiano I., Spanish Hills.
 
 ## GBIF observations  
 

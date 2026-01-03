@@ -2,6 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
 .quarto
+docs
+bees
+files
+_freeze
+docs_staging

@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Gibson 1917: 1914, (Sladen), <span class="hl-place-name">Invermere</span>. Sandhouse 1924: (E.P.VanDuzee), 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Buckell 1950: (G.J.Spencer), 1920, <span class="hl-place-name">Vancouver</span>; (E.P.VanDuzee), 1920, <span class="hl-place-name">Nanaimo</span>. Guzman et al., 2023: (Neame), 2007; (Gielens), 2009, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Gibson 1917: 1914, <span class="hl-place-name">Invermere</span>. Sandhouse 1924: 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Buckell 1950: 1920, <span class="hl-place-name">Vancouver</span>; 1920, <span class="hl-place-name">Nanaimo</span>. Guzman et al., 2023: 2007; 2009, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

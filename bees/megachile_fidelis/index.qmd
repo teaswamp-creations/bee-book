@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/230154871/large.jpe
 ![`r emo::ji("copyright")` [bombusmixtus ](https://inaturalist.ca/photos/230154871/).](https://inaturalist-open-data.s3.amazonaws.com/photos/230154871/large.jpeg){height=300}
 
 ## Observation notes  
-Biodiversity Galiano Life List: (S.G. Cannings), 1990, Galiano. Spencer Entomological Collection, UBC: (J. Hatcher), 1945, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>; (S.G. Cannings), 1988, <span class="hl-place-name">Courtenay</span>, Udina Bay. NBSBC Bee Atlas Database: (Zand), 2021, 2022; (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; <span class="hl-place-name">Galiano Island</span>, Saturna I., from 2018.
+Biodiversity Galiano Life List: 1990, Galiano. Spencer Entomological Collection, UBC: 1945, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>; 1988, <span class="hl-place-name">Courtenay</span>, Udina Bay. NBSBC Bee Atlas Database: 2021, 2022; 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>; <span class="hl-place-name">Galiano Island</span>, Saturna I., from 2018.
 
 ## GBIF observations  
 

@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (Patricia Kehler), 2015, <span class="hl-place-name">Vancouver</span>.
+The International Barcode of Life Consortium. International Barcode of Life project: 2015, <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
 

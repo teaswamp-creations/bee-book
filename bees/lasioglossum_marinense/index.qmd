@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/317004524/large.jpg
 ![`r emo::ji("copyright")` [Aidan Hersh ](https://inaturalist.ca/photos/317004524/).](https://inaturalist-open-data.s3.amazonaws.com/photos/317004524/large.jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1983, <span class="hl-place-name">Oyster Bay</span> Rest Area, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Gibbs 2010: (Elle), 2005, <span class="hl-place-name">Cowichan</span> River P.P., 10 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span> Forestry Stn., <span class="hl-place-name">Mesachie Lake</span>, Elk Falls. Guzman et al., 2023: (Wray), 2012, <span class="hl-place-name">Victoria</span>.
+Spencer Entomological Collection, UBC: 1983, <span class="hl-place-name">Oyster Bay</span> Rest Area, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Gibbs 2010: 2005, <span class="hl-place-name">Cowichan</span> River P.P., 10 km E <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> Lake</span> Forestry Stn., <span class="hl-place-name">Mesachie Lake</span>, Elk Falls. Guzman et al., 2023: 2012, <span class="hl-place-name">Victoria</span>.
 
 ## GBIF observations  
 

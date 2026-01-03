@@ -1,0 +1,28 @@
+---
+title: Lasioglossum prasinogaster
+subtitle: Green-bellied sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+International Barcode of Life project: 2005, Campbell River.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("prasinogaster")
+```
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum prasinogaster <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

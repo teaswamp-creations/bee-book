@@ -8,10 +8,10 @@ freeze: auto
 description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/265940005/large.jpeg
 ---
-![`r emo::ji("copyright")` [Carlos Picanço ](https://inaturalist.ca/photos/265940005/).](https://inaturalist-open-data.s3.amazonaws.com/photos/265940005/large.jpeg){height=300}
+![`r emo::ji("copyright")` [Carlos PicanÃ§o ](https://inaturalist.ca/photos/265940005/).](https://inaturalist-open-data.s3.amazonaws.com/photos/265940005/large.jpeg){height=300}
 
 ## Observation notes  
-The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): (J. Heron), 2010; <span class="hl-place-name">Vancouver</span>; (F. Lui), 2010, <span class="hl-place-name">Gulf Islands</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009, 2010; (Wray), 2012; (Gillespie), 2014, 2015; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Button), 2011, <span class="hl-place-name">Abbotsford</span>. (Gehrels), 2013, <span class="hl-place-name">Lower Mainland</span>.
+International Barcode of Life project: 2010; <span class="hl-place-name">Vancouver</span>; 2010, <span class="hl-place-name">Gulf Islands</span>. Guzman et al., 2023: 2005; 2007; 2009, 2010; 2012; 2014, 2015; 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2011, <span class="hl-place-name">Abbotsford</span>. 2013, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas: 2023, 2024, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

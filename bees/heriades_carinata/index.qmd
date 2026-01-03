@@ -1,0 +1,28 @@
+---
+title: Heriades carinata
+subtitle: Carinate armoured-resin bee
+engine: knitr
+categories:
+  - Megachilidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/296272558/medium.jpg
+---
+![`r emo::ji("copyright")` Aidan Hersh.](https://inaturalist-open-data.s3.amazonaws.com/photos/296272558/medium.jpg){height=300}
+
+## Observation notes  
+Gibson 1917: 1914, <span class="hl-place-name">Invermere</span>; 1914, <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: 2005; 2009; 2012, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2013; 2015, <span class="hl-place-name">Abbotsford</span>. NBSBC Bee Atlas Database: 2021, 2022; 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("carinata")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&taxon_id=203204"><button type="button" class="btn btn-secondary">See all Heriades carinata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20washingtoni%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Criddle et al. 1924: (Sladen), <span class="hl-place-name">Sidney</span>. LaBerge 1980: <span class="hl-place-name">Manning Park</span>
+Criddle et al. 1924: <span class="hl-place-name">Sidney</span>. LaBerge 1980: <span class="hl-place-name">Manning Park</span>
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

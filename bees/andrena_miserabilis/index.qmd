@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/120691101/large.jpe
 ![`r emo::ji("copyright")` [T.B. ](https://inaturalist.ca/photos/120691101/).](https://inaturalist-open-data.s3.amazonaws.com/photos/120691101/large.jpeg){height=300}
 
 ## Observation notes  
-Taylor 1884: <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Button), 2011, <span class="hl-place-name">Abbotsford</span>; (Gehrels), 2013, <span class="hl-place-name">Vancouver</span>; (Toshack), 2015, <span class="hl-place-name">Lower Mainland</span>.  iNaturalist: multiple observations Metro <span class="hl-place-name">Vancouver</span> from 2018.
+Taylor 1884: <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: 2011, <span class="hl-place-name">Abbotsford</span>; 2013, <span class="hl-place-name">Vancouver</span>; 2015, <span class="hl-place-name">Lower Mainland</span>.  iNaturalist: multiple observations Metro <span class="hl-place-name">Vancouver</span> from 2018. NBSBC Bee Atlas, 2024 N. <span class="hl-place-name">Vancouver</span>
 
 ## GBIF observations  
 

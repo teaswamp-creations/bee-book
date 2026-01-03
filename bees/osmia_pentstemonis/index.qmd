@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Ikerd H (2019). Bee Biology and Systematics Laboratory. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research: (W.E. Steiner), 1988, <span class="hl-place-name">Fraser Valley</span>.
+Ikerd H. Bee Biology and Systematics Laboratory. USDA-ARS Pollinating Insect-Biology, Management, Systematics Research: 1988, <span class="hl-place-name">Fraser Valley</span>.
 
 ## GBIF observations  
 

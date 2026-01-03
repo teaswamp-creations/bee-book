@@ -1,0 +1,28 @@
+---
+title: Xylocopa appendiculata
+subtitle: Appendiculate carpenter bee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/433605679/medium.jpeg
+---
+![`r emo::ji("copyright")` Ken bennett.](https://inaturalist-open-data.s3.amazonaws.com/photos/433605679/medium.jpeg){height=300}
+
+## Observation notes  
+iNaturalist: <span class="hl-place-name">Lower Mainland</span>, since 2024.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("appendiculata")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=437628"><button type="button" class="btn btn-secondary">See all Xylocopa appendiculata <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

@@ -4,16 +4,21 @@ engine: knitr
 categories:
   - Colletidae
 freeze: auto
-description:  <span class="lower-mainland-badge">Lower Mainland</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/323741260/medium.jpeg
 ---
 ![`r emo::ji("copyright")` Carroll Perkins.](https://inaturalist-open-data.s3.amazonaws.com/photos/323741260/medium.jpeg){height=300}
 
 ## Observation notes  
-Fan, 2024: Masters thesis, UBC: Metro <span class="hl-place-name">Vancouver</span>.
+NBSBC Bee Atlas, 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Fan, 2024: Masters thesis, UBC: Metro <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("affinis")
+```
 <br><br>
 <center>
 

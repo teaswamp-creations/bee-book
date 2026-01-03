@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20algida%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span> (specimen LRB17-3662, Lincoln Best, private collection).
+Biodiversity Galiano Life List: 2017, <span class="hl-place-name">Galiano Island</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

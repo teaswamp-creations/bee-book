@@ -24,5 +24,5 @@ make_species_map("frigidus")
 <center>
 
 
-<a href="NA"><button type="button" class="btn btn-secondary">See all Bombus frigidus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?quality_grade=research&subview=map&taxon_id=433293"><button type="button" class="btn btn-secondary">See all Bombus frigidus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

@@ -11,10 +11,15 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jp
 ![`r emo::ji("copyright")` Craig Chaddock.](https://inaturalist-open-data.s3.amazonaws.com/photos/213203563/medium.jpeg){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Gielens), 2009, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, Measachie Lake.
+Guzman et al., 2023: 2009, <span class="hl-place-name">Lake <span class="hl-place-name">Cowichan</span></span>, Measachie Lake.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("compactus")
+```
 <br><br>
 <center>
 

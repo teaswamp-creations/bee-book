@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Sandhouse 1924: 1920, (E.P.Van Duzee), <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>.
+Sandhouse 1924: 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

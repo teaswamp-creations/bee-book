@@ -1,8 +1,11 @@
 ---
 title: "News"
 lightbox: true
+execute:
+  echo: false
+  message: false
+  warning: false
 ---
-
 
 
 ```{r echo = F, warning=F, message=F}
@@ -10,6 +13,8 @@ library(tidyverse)
 
 df_v1 <- readxl::read_xlsx('files/Native bees of BC - PM.xlsx')
 df_v2 <- readxl::read_xlsx('files/Native bees of BC - PM_2nd edition.xlsx') %>%
+  filter(`Bee book list` == 'Y')
+df_v3 <- readxl::read_xlsx("files/Native bees of BC - PM_3rd edition.xlsx") %>%
   filter(`Bee book list` == 'Y')
 
 gbif_v1 <- read_delim("files/0037810-231120084113126.csv", delim = "\t") %>%
@@ -35,13 +40,117 @@ gbif_v2 <- read_delim("files/0014018-240906103802322.csv", delim = "\t") %>%
   mutate(Species=ifelse(Species=='nr', NA, Species)) %>%
   drop_na(Species)
 
+gbif_v3 <- gbif <- read_delim("files/0050043-251120083545085.csv", delim = "\t") %>%
+  separate_wider_delim(eventDate, delim='/', names = c('eventDate', NA), too_few = "align_start") %>%
+  mutate(eventDate = parse_date_time(eventDate, orders = c("ymd", "ymd HM", 'ymd HMS', "ym", "y")),
+         date = ymd(date(eventDate)), Year = year(date),
+         Month = lubridate::month(date, label=T),
+         lat=decimalLatitude, lon=decimalLongitude) %>%
+  drop_na(date, lat, lon, occurrenceID) %>%
+  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge', too_few = 'align_start') %>%
+  mutate(Species=ifelse(Species=='nr', NA, Species)) 
+
 
 df_v1_list <- unique(paste(df_v1$Family, df_v1$Genus, df_v1$Species))
 df_v2_list <- unique(paste(df_v2$Family, df_v2$Genus, df_v2$Species))
+df_v3_list <- unique(paste(df_v3$Family, df_v3$Genus, df_v3$Species))
 gbif_v1_list <- unique(paste(gbif_v1$family, gbif_v1$Genus, gbif_v1$Species))
 gbif_v2_list <- unique(paste(gbif_v2$family, gbif_v2$Genus, gbif_v2$Species))
+gbif_v3_list <- unique(paste(gbif_v3$family, gbif_v3$Genus, gbif_v3$Species))
+```
+
+
+## 3rd Edition (December 2025)
+
+More new bees for 2025! 🐝
+
+::: {.callout-note icon=false}
+## <i class="fa-solid fa-award"></i>  Bee Book recognized
+
+Our efforts have been recognized by the [Native Bee Society of BC](https://www.bcnativebees.org) with the 2025 certificate of appreciation for data management 🎉 thanks all!
+:::
+
+* Bee book has been used for the [City of North Vancouver annual report](https://www.bcnativebees.org/projects/cnv-bcba24) by the [Native Bee Society of BC](https://www.bcnativebees.org/)
+* Our melittologist friends are using the Bee Book to decide where to look for bees to document
+* We used the Bee Book to prepare the [Bee Atlas annual summary](https://www.bcnativebees.org/projects/2024-25-bcba-annual-report)
+* New updates to introduction and general info on the Bee Book site
+* 3rd edition data release
+
+```{r echo = F, warning=F, message=F}
+#| layout-ncol: 2
+
+summary <- tibble(
+  version=c(1,1,2,2,3,3), 
+  date=dmy(c('01/12/23','01/12/23', '12/09/24', '12/09/24', '12/12/25', '12/12/25')), 
+  ref = c("Bee Gallery", 'GBIF', "Bee Gallery", 'GBIF', "Bee Gallery", 'GBIF'),
+  new = c(
+    0,0,
+    length(setdiff(df_v2_list, df_v1_list)), length(setdiff(gbif_v2_list, gbif_v1_list)), 
+    length(setdiff(df_v3_list, df_v2_list)), length(setdiff(gbif_v3_list, gbif_v2_list))
+  ),
+  old = c(
+    length(df_v1_list), length(gbif_v1_list),
+    length(intersect(df_v1_list,df_v2_list)), length(intersect(gbif_v1_list,gbif_v2_list)), 
+    length(intersect(df_v2_list,df_v3_list)), length(intersect(gbif_v2_list,gbif_v3_list))),
+  removed = c(
+    0,0,
+    length(setdiff(df_v1_list, df_v2_list)),length(setdiff(gbif_v1_list, gbif_v2_list)),
+    length(setdiff(df_v2_list, df_v3_list)),length(setdiff(gbif_v2_list, gbif_v3_list))
+    )
+)
+
+summary %>% 
+  rowwise() %>%
+  mutate(tot = new + old) %>%
+  ggplot(aes(x = ordered(version), y = tot, colour=ref)) + 
+  geom_line(aes(group = ref)) + 
+  geom_point() + 
+  ggpubr::theme_pubr() +
+  scale_colour_manual(values = c('#376D61', 'grey70'), labels = c("Bee Gallery", "GBIF")) + 
+  labs(x = 'Version', y = 'Number of Species', colour ='Collection')
+
+
+summary %>%
+  mutate(removed = -removed) %>%
+  pivot_longer(c(new, old, removed)) %>%
+  mutate(tot = name != 'removed') %>%
+  ggplot(aes(x = ordered(version), y = value, fill = name)) + 
+  geom_col(position = position_stack()) + 
+  facet_wrap(~ref, ncol=2) + 
+  ggpubr::theme_pubr() +
+  scale_fill_manual(values = c('#376D61', '#A0CFC4',  'grey70'), labels = c("New", "Retained", "Removed")) + 
+  labs(x = 'Version', y = 'Number of species', fill = 'Since previous version')
+
 
 ```
+
+
+### Resources
+
+  * [GBIF doi](https://doi.org/10.15468/dl.cs2xsc)
+  * [Bee book data](https://doi.org/10.5281/zenodo.18112558)
+  * [Code release](https://github.com/teaswamp-creations/bee-book/releases/tag/v3.0.0)
+  
+### Data Completeness
+
+Bee book gallery shows two pieces of information per species page:
+
+1.  Bee image (curated by KQ)
+2.  Map of observations in Pacific Maritime (pulled from GBIF)
+
+Page completeness is as follows:
+
+```{r echo=F}
+upset_list = list(`Has PM map` = unique(paste(gbif_v3$family, gbif_v3$Genus, gbif_v3$Species)),
+                  `In bee gallery` = unique(paste(gbif_v3$Family, gbif_v3$Genus, gbif_v3$Species)), 
+                  `Has image` = unique(paste(gbif_v3$Family, gbif_v3$Genus, gbif_v3$Species)[!is.na(gbif_v3$`Image link`)])
+)
+
+UpSetR::upset(UpSetR::fromList(upset_list))
+``` 
+
+
+
 
 ## 2nd Edition (September 2024)
 

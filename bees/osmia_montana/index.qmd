@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia
 ![`r emo::ji("copyright")` NA.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20montana%20female%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (S.G. Cannings), 1989, Hornby I.; (R. Kenner & K. Needham), 2003, <span class="hl-place-name">Richmond</span>, Iona I. Reg. Pk.
+Spencer Entomological Collection, UBC: 1989, Hornby I.; 2003, <span class="hl-place-name">Richmond</span>, Iona I. Reg. Pk.
 
 ## GBIF observations  
 

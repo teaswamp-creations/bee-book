@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Sandhouse 1925: (W.Downes), 1916, <span class="hl-place-name">Victoria</span>; (A.E.Cameron), 1917, <span class="hl-place-name">Agassiz</span>; (R.C.Treherne) and W.Downes, <span class="hl-place-name">Victoria</span>; (R.C.Treherne), 1917, 1919, <span class="hl-place-name">Vernon</span>, <span class="hl-place-name">Royal Oak</span>, <span class="hl-place-name">Victoria</span>; (F.W.L.Sladen), 1915, 1919 <span class="hl-place-name">Sidney</span>.
+Sandhouse 1925: 1916, <span class="hl-place-name">Victoria</span>; 1917, <span class="hl-place-name">Agassiz</span>; and W.Downes, <span class="hl-place-name">Victoria</span>; 1917, 1919, <span class="hl-place-name">Vernon</span>, <span class="hl-place-name">Royal Oak</span>, <span class="hl-place-name">Victoria</span>; 1915, 1919 <span class="hl-place-name">Sidney</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

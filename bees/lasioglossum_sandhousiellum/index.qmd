@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Gibbs 2010: (Elle), 2005, <span class="hl-place-name">Elk Falls Provincial Park</span>; Best List: (W.R.M. Mason), <span class="hl-place-name">Squamish</span>, Diamond Head Trail, 2400 ft.
+Gibbs 2010: 2005, <span class="hl-place-name">Elk Falls Provincial Park</span>; Best List: <span class="hl-place-name">Squamish</span>, Diamond Head Trail, 2400 ft.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

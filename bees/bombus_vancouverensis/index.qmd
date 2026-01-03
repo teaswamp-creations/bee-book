@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/304689760/large.jpe
 ![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/304689760/large.jpeg){height=300}
 
 ## Observation notes  
-First documented by Cresson, 1878a, with extensive historical record in the Pacific Maritime (see Best list for historical record to 2000). Biodiversity Galiano Life List: (G.G.E. Scudder), 1987, Galiano. NBSBC Bee Atlas Database: (Zand), 2021, 2022, 2023; (Gazdik), (Cruise), 2022, ((Wong), (Lakes), (Lee), 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: widespread throughout the Pacific Maritime, from 1978.
+First documented by Cresson, 1878a, with extensive historical record in the Pacific Maritime. Biodiversity Galiano Life List: 1987, Galiano. NBSBC Bee Atlas Database: 2021, 2022, 2023; 2022, 2023, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.  iNaturalist: widespread throughout the Pacific Maritime, from 1978.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("vancouverensis")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=1020304"><button type="button" class="btn btn-secondary">See all Bombus vancouverensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?quality_grade=research&subview=map&taxon_id=1020304"><button type="button" class="btn btn-secondary">See all Bombus vancouverensis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

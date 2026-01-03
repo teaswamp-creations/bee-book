@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20angustella%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1984, <span class="hl-place-name">Galiano Island</span>. Note: determination may be questionable (Sheffield &Heron, 2019). Guzman et al., 2023: (Gillespie), 2014, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Spencer Entomological Collection, UBC: 1984, <span class="hl-place-name">Galiano Island</span>. Note: determination may be questionable. Guzman et al., 2023: 2014, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

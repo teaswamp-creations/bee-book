@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasiogl
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20abundipunctum%20(3lateral)%20SEM-UBC%20HYM-13164.jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1983, Galiano I., Spanish Hills.
+Spencer Entomological Collection, UBC: 1983, Galiano I., Spanish Hills.
 
 ## GBIF observations  
 

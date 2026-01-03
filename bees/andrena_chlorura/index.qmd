@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20chlorura%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Buckell 1949: (G.J.Spencer),  <span class="hl-place-name">Nanaimo</span>. Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1982, Galiano I. Guzman et al., 2023: (Elle), 2005; (Kelly), 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Buckell 1949:  <span class="hl-place-name">Nanaimo</span>. Spencer Entomological Collection, UBC: 1982, Galiano I. Guzman et al., 2023: 2005; 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

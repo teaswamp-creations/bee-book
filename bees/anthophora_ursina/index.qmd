@@ -10,7 +10,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg
 ![`r emo::ji("copyright")` [Will Stuart ](https://inaturalist.ca/photos/16987052).](https://inaturalist-open-data.s3.amazonaws.com/photos/16987052/medium.jpg){height=300}
 
 ## Observation notes  
-iNaturalist: <span class="hl-place-name">Galiano Island</span>, from 2018 (Specimen, Andrew Simon, private collection).
+iNaturalist: <span class="hl-place-name">Galiano Island</span>, from 2018.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

@@ -1,0 +1,28 @@
+---
+title: Nomada crotchii
+subtitle: Crotch's nomad bee
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/370466292/large.jpg
+---
+![`r emo::ji("copyright")` Jade Lyf.](https://inaturalist-open-data.s3.amazonaws.com/photos/370466292/large.jpg){height=300}
+
+## Observation notes  
+GBIF records: 2007, 2010, 2018, <span class="hl-place-name">Lower Mainland</span> and <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2024.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("crotchii")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=1426446"><button type="button" class="btn btn-secondary">See all Nomada crotchii <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

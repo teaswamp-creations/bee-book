@@ -8,10 +8,10 @@ freeze: auto
 description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/317733587/medium.jpeg
 ---
-![`r emo::ji("copyright")` [aksusan ](https://inaturalist.ca/photos/317733587/).](https://inaturalist-open-data.s3.amazonaws.com/photos/317733587/medium.jpeg){height=300}
+![`r emo::ji("copyright")` [aksusan ](https://inaturalist.ca/photos/317733587).](https://inaturalist-open-data.s3.amazonaws.com/photos/317733587/medium.jpeg){height=300}
 
 ## Observation notes  
-Brown 1934: <span class="hl-place-name">Kaslo</span>; <span class="hl-place-name">Mt.Cheam</span>. Stephen 1957: <span class="hl-place-name">Barkerville</span>, 6000’; <span class="hl-place-name">Mt.Cheam</span> iNaturalist: Garibaldi, from 2020.
+Brown 1934: <span class="hl-place-name">Kaslo</span>; <span class="hl-place-name">Mt.Cheam</span>. Stephen 1957: <span class="hl-place-name">Barkerville</span>, 6000â€™; <span class="hl-place-name">Mt.Cheam</span> iNaturalist: Garibaldi, from 2020.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("sylvicola")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=450489"><button type="button" class="btn btn-secondary">See all Bombus sylvicola <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?quality_grade=research&subview=map&taxon_id=450489"><button type="button" class="btn btn-secondary">See all Bombus sylvicola <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

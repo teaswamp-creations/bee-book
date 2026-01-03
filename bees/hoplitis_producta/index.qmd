@@ -1,5 +1,6 @@
 ---
 title: Hoplitis producta
+subtitle: Produced small-mason
 engine: knitr
 categories:
   - Megachilidae
@@ -13,7 +14,12 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/111790058/large.jpg
 Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("producta")
+```
 <br><br>
 <center>
 

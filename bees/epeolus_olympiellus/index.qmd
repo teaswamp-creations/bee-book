@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/289393042/large.jpe
 ![`r emo::ji("copyright")` [Kevin Toomer ](https://inaturalist.ca/photos/289393042/).](https://inaturalist-open-data.s3.amazonaws.com/photos/289393042/large.jpeg){height=300}
 
 ## Observation notes  
-Biodiversity Galiano Life List: (Kevin Toomer), 2023, Galiano. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Galiano Island</span>, Metro <span class="hl-place-name">Vancouver</span>, <span class="hl-place-name">Squamish</span>, from 2018.
+Biodiversity Galiano Life List: 2023, Galiano. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Galiano Island</span>, Metro <span class="hl-place-name">Vancouver</span>, <span class="hl-place-name">Squamish</span>, from 2018.
 
 ## GBIF observations  
 

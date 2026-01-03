@@ -11,7 +11,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasiogl
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20sedi%20female%20(3lateral)%20.jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (G.G.E. Scudder), 1979, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>; (G.G.E. Scudder), 1985, 1986, Winter Harbour, <span class="hl-place-name">Bamfield</span>, Texada I., Anderson Bay. Guzman et al., 2023: (Gillespie), 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Spencer Entomological Collection, UBC: 1979, <span class="hl-place-name">North <span class="hl-place-name">Vancouver</span></span>; 1985, 1986, Winter Harbour, <span class="hl-place-name">Bamfield</span>, Texada I., Anderson Bay. Guzman et al., 2023: 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

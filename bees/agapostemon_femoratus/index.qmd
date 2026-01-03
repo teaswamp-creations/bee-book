@@ -1,0 +1,28 @@
+---
+title: Agapostemon femoratus
+subtitle: Wide-legged sweat bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: https://inaturalist-open-data.s3.amazonaws.com/photos/442343868/large.jpeg
+---
+![`r emo::ji("copyright")` Sean Daniels.](https://inaturalist-open-data.s3.amazonaws.com/photos/442343868/large.jpeg){height=300}
+
+## Observation notes  
+iNaturalist: <span class="hl-place-name">Lower Mainland</span>, from 2024.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("femoratus")
+```
+<br><br>
+<center>
+
+
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=307033"><button type="button" class="btn btn-secondary">See all Agapostemon femoratus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

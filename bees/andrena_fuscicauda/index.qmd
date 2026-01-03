@@ -11,10 +11,15 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-LaBerge 1973: <span class="hl-place-name">Saanich</span>. Biodiversity Galiano Life List: (Michael Hoebel), 2017, <span class="hl-place-name">Galiano Island</span>,(specimen LRB17-3745, Lincoln Best, private collection)
+LaBerge 1973: <span class="hl-place-name">Saanich</span>. Biodiversity Galiano Life List: 2017, <span class="hl-place-name">Galiano Island</span>,. NBSBC Bee Atlas, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, 2024.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("fuscicauda")
+```
 <br><br>
 <center>
 

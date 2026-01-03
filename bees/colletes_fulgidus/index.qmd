@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/296610632/large.jpg
 ![`r emo::ji("copyright")` [Pete Lypkie ](https://inaturalist.ca/photos/296610632/).](https://inaturalist-open-data.s3.amazonaws.com/photos/296610632/large.jpg){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Elle), 2005; (Gielens), 2009, 2010; (Wray), 2012, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Lower Mainland</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2023.
+Guzman et al., 2023: 2005; 2009, 2010; 2012, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2013, <span class="hl-place-name">Lower Mainland</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2023. NBSBC Bee Atlas, 2022, 2024, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

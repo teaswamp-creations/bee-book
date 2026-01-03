@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-White 1952: (F.W.L.Sladen), 1915, <span class="hl-place-name">Sidney</span>.
+White 1952: 1915, <span class="hl-place-name">Sidney</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

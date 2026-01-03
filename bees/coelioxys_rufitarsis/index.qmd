@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/318917328/large.jpg
 ![`r emo::ji("copyright")` [dL thompson ](https://inaturalist.ca/photos/318917328/).](https://inaturalist-open-data.s3.amazonaws.com/photos/318917328/large.jpg){height=300}
 
 ## Observation notes  
-Historical records documented in Buckell, 1950, with numerous sightings in the Pacific Maritime (see Best list for historical record to 2000). M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Wray), 2012; (Gillespie), 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: (Zand), 2021, 2022; (Gadzik), 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Galiano Island</span>, <span class="hl-place-name">Lower Mainland</span>, from 2017.
+Historical records documented in Buckell, 1950, with numerous sightings in the Pacific Maritime. M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. Guzman et al., 2023: 2005; 2007; 2012; 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2013, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: 2021, 2022; 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, <span class="hl-place-name">Galiano Island</span>, <span class="hl-place-name">Lower Mainland</span>, from 2017.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("rufitarsis")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&subview=map&taxon_id=626642"><button type="button" class="btn btn-secondary">See all Coelioxys rufitarsis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=626642"><button type="button" class="btn btn-secondary">See all Coelioxys rufitarsis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

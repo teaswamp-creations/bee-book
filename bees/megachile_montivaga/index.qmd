@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/217736067/large.jpg
 ![`r emo::ji("copyright")` [lyndas ](https://inaturalist.ca/photos/217736067/).](https://inaturalist-open-data.s3.amazonaws.com/photos/217736067/large.jpg){height=300}
 
 ## Observation notes  
-Buckell 1950: (G.J.Spencer), 1925, <span class="hl-place-name">Sidney</span>; (F.W.L.Sladen), <span class="hl-place-name">Agassiz</span>; (G.J.Spencer), 1946, Prince George; (P.N.Vroom), 1927, Rolla. M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. Biodiversity Galiano Life List: (Andrew Simon), 2018, Galiano. Guzman et al., 2023: (Gielens), 2009; (Gillespie), 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. (Gehrels), 2013, <span class="hl-place-name">Lower Mainland</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2022.
+Buckell 1950: 1925, <span class="hl-place-name">Sidney</span>; <span class="hl-place-name">Agassiz</span>; 1946, Prince George; 1927, Rolla. M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. Biodiversity Galiano Life List: 2018, Galiano. Guzman et al., 2023: 2009; 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2013, <span class="hl-place-name">Lower Mainland</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2022.
 
 ## GBIF observations  
 

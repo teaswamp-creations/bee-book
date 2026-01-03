@@ -11,7 +11,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Criddle et al. 1924: (Sladen), <span class="hl-place-name">Crescent</span>, <span class="hl-place-name">Vancouver</span>; (J.B.Wallis), <span class="hl-place-name">Victoria</span>.
+Criddle et al. 1924: <span class="hl-place-name">Crescent</span>, <span class="hl-place-name">Vancouver</span>; <span class="hl-place-name">Victoria</span>.
 
 ## GBIF observations  
 

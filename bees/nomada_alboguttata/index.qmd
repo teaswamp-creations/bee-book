@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/273979160/large.jpe
 ![`r emo::ji("copyright")` [Andrea Kreuzhage ](https://inaturalist.ca/photos/273979160/).](https://inaturalist-open-data.s3.amazonaws.com/photos/273979160/large.jpeg){height=300}
 
 ## Observation notes  
-The International Barcode of Life Consortium (2024). International Barcode of Life project (iBOL): L. (Neame), 2007, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+The International Barcode of Life Consortium. International Barcode of Life project: L. 2007, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

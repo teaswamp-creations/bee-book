@@ -1,0 +1,27 @@
+---
+title: Lasioglossum occultum
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+GBIF records: 1916, <span class="hl-place-name">Victoria</span>; 2021, UBC Botanical Gardens
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("occultum")
+```
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Lasioglossum occultum <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

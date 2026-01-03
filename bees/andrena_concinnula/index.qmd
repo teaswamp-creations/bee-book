@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Andrenidae/Andrena%20concinnula%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-Spencer Entomological Collection, UBC: (S.G. Cannings), 1983, Deas Island.
+Spencer Entomological Collection, UBC: 1983, Deas Island.
 
 ## GBIF observations  
 

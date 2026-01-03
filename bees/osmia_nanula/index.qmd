@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Buckell 1950: (R.C.Treherne), 1916, <span class="hl-place-name">Victoria</span>; (F.W.L.Sladen), 1915, <span class="hl-place-name">Sidney</span>; (W.Downes), 1919, <span class="hl-place-name">Saanich</span>; (E.C.VanDyke), 1920 <span class="hl-place-name">Nanaimo</span>.
+Buckell 1950: 1916, <span class="hl-place-name">Victoria</span>; 1915, <span class="hl-place-name">Sidney</span>; 1919, <span class="hl-place-name">Saanich</span>; 1920 <span class="hl-place-name">Nanaimo</span>.
 
 ## GBIF observations  
 

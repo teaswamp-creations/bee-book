@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/204885720/large.jpe
 ![`r emo::ji("copyright")` [](Lee Larkin ).](https://inaturalist-open-data.s3.amazonaws.com/photos/204885720/large.jpeg){height=300}
 
 ## Observation notes  
-Viereck 1904c: (Harvey), 1902, <span class="hl-place-name">Vancouver</span>. Buckell 1949: (G.J.Spencer), 1930, <span class="hl-place-name">Vancouver</span>. Bouseman and LaBerge 1978: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: (Gielens), 2009, <span class="hl-place-name">Cowichan</span>. iNaturalist: <span class="hl-place-name">Chilliwack</span>, from 2022.
+Viereck 1904c: 1902, <span class="hl-place-name">Vancouver</span>. Buckell 1949: 1930, <span class="hl-place-name">Vancouver</span>. Bouseman and LaBerge 1978: <span class="hl-place-name">Agassiz</span>; <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>; <span class="hl-place-name">Vancouver</span>. Tommasi et al. 2004: <span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Guzman et al., 2023: 2009, <span class="hl-place-name">Cowichan</span>. iNaturalist: <span class="hl-place-name">Chilliwack</span>, from 2022. NBSBC Bee Atlas: 2021, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 
@@ -24,5 +24,5 @@ make_species_map("vicina")
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=198958"><button type="button" class="btn btn-secondary">See all Andrena vicina <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=198958"><button type="button" class="btn btn-secondary">See all Andrena vicina <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

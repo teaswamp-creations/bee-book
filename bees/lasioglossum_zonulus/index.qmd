@@ -1,0 +1,23 @@
+---
+title: Lasioglossum zonulus
+subtitle: Bull-headed furrow bee
+engine: knitr
+categories:
+  - Halictidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span> <span class="lower-mainland-badge">Lower Mainland</span> <span class="coast-badge">Coast</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20zonulum%20female%20(3lateral)%20.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20zonulum%20female%20(3lateral)%20.jpg){height=300}
+
+## Observation notes  
+McGinley 1986: <span class="hl-place-name">Abbotsford</span>; Burns Bog; Haney; <span class="hl-place-name">Pitt Meadows</span>; Quadra Island. Tommasi et al. 2004:<span class="hl-place-name"><span class="hl-place-name">Greater <span class="hl-place-name">Vancouver</span></span> Area</span>. Ratti et al. 2008: <span class="hl-place-name">Fraser Valley</span>. Bidoiversity Galiano Life List: 2017,  <span class="hl-place-name">Galiano Island</span>, community bee inventory event,. M. Clausen, Masters thesis: 2017, <span class="hl-place-name">Delta</span>. Guzman et al., 2023: 2005; 2007; 2009, 2010; 2012; 2014, 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. 2011; 2016; 2016, <span class="hl-place-name">Abbotsford</span>. 2013; 2016, <span class="hl-place-name">Lower Mainland</span>. NBSBC Bee Atlas Database: 2021, 2022, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Halictidae/Lasioglossum%20zonulum.php"><button type="button" class="btn btn-secondary">See all Lasioglossum zonulus <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

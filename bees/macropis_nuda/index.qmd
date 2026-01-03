@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/305371891/medium.jp
 ![`r emo::ji("copyright")` [Kurt Hennige ](https://inaturalist.ca/photos/305371891/).](https://inaturalist-open-data.s3.amazonaws.com/photos/305371891/medium.jpeg){height=300}
 
 ## Observation notes  
-Sheffield C (2018). A new western Canadian record of Epeoloides pilosulus (Cresson). Royal Saskatchewan Museum: (F.W.L. Sladen), 1914, <span class="hl-place-name">Fraser Valley</span>.
+Sheffield C. A new western Canadian record of Epeoloides pilosulus. Royal Saskatchewan Museum: 1914, <span class="hl-place-name">Fraser Valley</span>.
 
 ## GBIF observations  
 

@@ -10,7 +10,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/267470847/large.jpe
 ![`r emo::ji("copyright")` Boaz Benaiah Solorio.](https://inaturalist-open-data.s3.amazonaws.com/photos/267470847/large.jpeg){height=300}
 
 ## Observation notes  
-Criddle 1925: (Livingston), 1896, <span class="hl-place-name">Vancouver</span>.
+Criddle 1925: 1896, <span class="hl-place-name">Vancouver</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.
@@ -18,5 +18,5 @@ No GBIF observations in Pacific Maritime to display.
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=any&subview=map&taxon_id=345173"><button type="button" class="btn btn-secondary">See all Osmia nemoris <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=345173"><button type="button" class="btn btn-secondary">See all Osmia nemoris <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

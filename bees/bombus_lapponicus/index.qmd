@@ -8,10 +8,10 @@ freeze: auto
 description:  <span class="coast-badge">Coast</span>
 image: https://inaturalist-open-data.s3.amazonaws.com/photos/301897999/medium.jpeg
 ---
-![`r emo::ji("copyright")` Jussi Mäkinen.](https://inaturalist-open-data.s3.amazonaws.com/photos/301897999/medium.jpeg){height=300}
+![`r emo::ji("copyright")` Jussi MÃ¤kinen.](https://inaturalist-open-data.s3.amazonaws.com/photos/301897999/medium.jpeg){height=300}
 
 ## Observation notes  
-Canadian Biodiversity Information Facility. Bombus of Canada: (Henning), 1960, <span class="hl-place-name">Terrace</span>, BC.
+Canadian Biodiversity Information Facility. Bombus of Canada: 1960, <span class="hl-place-name">Terrace</span>, BC.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

@@ -1,0 +1,22 @@
+---
+title: Andrena sperryi
+engine: knitr
+categories:
+  - Andrenidae
+freeze: auto
+description:  <span class="lower-mainland-badge">Lower Mainland</span>
+image: /files/no_bee.png
+---
+![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
+
+## Observation notes  
+Ratti Masters thesis, Fraser valley
+
+## GBIF observations  
+No GBIF observations in Pacific Maritime to display.
+<br><br>
+<center>
+
+
+<a href="https://www.gbif.org/occurrence/126220742"><button type="button" class="btn btn-secondary">See all Andrena sperryi <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

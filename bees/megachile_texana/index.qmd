@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/209379431/large.jpe
 ![`r emo::ji("copyright")` [Russ Paul ](https://inaturalist.ca/photos/209379431).](https://inaturalist-open-data.s3.amazonaws.com/photos/209379431/large.jpeg){height=300}
 
 ## Observation notes  
-Buckell 1950: (G.J.Spencer), 1925, <span class="hl-place-name">Sidney</span>. Spencer Entomological Collection, UBC: (W.R.M.Mason), 1953, Hatzic L.
+Buckell 1950: 1925, <span class="hl-place-name">Sidney</span>. Spencer Entomological Collection, UBC: 1953, Hatzic L.
 
 ## GBIF observations  
 

@@ -1,5 +1,6 @@
 ---
 title: Megachile inermis
+subtitle: Unarmed leafcutter bee
 engine: knitr
 categories:
   - Megachilidae
@@ -13,10 +14,15 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/256878440/large.jpg
 iNaturalist: <span class="hl-place-name">Vancouver</span>, from 2021.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("inermis")
+```
 <br><br>
 <center>
 
 
-<a href="https://inaturalist.ca/observations?place_id=7085&quality_grade=research&subview=map&taxon_id=199134"><button type="button" class="btn btn-secondary">See all Megachile inermis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+<a href="https://inaturalist.ca/observations?place_id=any&quality_grade=research&subview=map&taxon_id=199134"><button type="button" class="btn btn-secondary">See all Megachile inermis <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
 </center>

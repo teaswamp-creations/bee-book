@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/117389498/medium.jp
 ![`r emo::ji("copyright")` [Cindy ](https://inaturalist.ca/photos/117389498).](https://inaturalist-open-data.s3.amazonaws.com/photos/117389498/medium.jpeg){height=300}
 
 ## Observation notes  
-Collected in the <span class="hl-place-name">Fraser Valley</span> in 1890 (specimen in the Snow Entomological Museum Collection). Guzman et al., 2023: (Gielens), 2010, <span class="hl-place-name">Cowichan</span>.
+Collected in the <span class="hl-place-name">Fraser Valley</span> in 1890. Guzman et al., 2023: 2010, <span class="hl-place-name">Cowichan</span>.
 
 ## GBIF observations  
 

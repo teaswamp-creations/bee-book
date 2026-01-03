@@ -10,7 +10,7 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Osmia%20juxta%20female%20(3lateral)%20.jpg){height=300}
 
 ## Observation notes  
-Sandhouse 1924: (E.C.Van Dyke), 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Spencer Entomological Collection, UBC: (Elle), 2009, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> River Provincial Park</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Gillespie), 2014, 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+Sandhouse 1924: 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Spencer Entomological Collection, UBC: 2009, <span class="hl-place-name"><span class="hl-place-name">Cowichan</span> River Provincial Park</span>. Guzman et al., 2023: 2005; 2007; 2009; 2014, 2015, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
 
 ## GBIF observations  
 

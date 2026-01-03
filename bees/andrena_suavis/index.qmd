@@ -10,10 +10,15 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Guzman et al., 2023: (Button), 2011, <span class="hl-place-name">Abbotsford</span>.
+Guzman et al., 2023: 2011, <span class="hl-place-name">Abbotsford</span>.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("suavis")
+```
 <br><br>
 <center>
 

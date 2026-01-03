@@ -1,0 +1,27 @@
+---
+title: Eucera frater
+engine: knitr
+categories:
+  - Apidae
+freeze: auto
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
+image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg
+---
+![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Apidae/Apinae/Eucera%20frater%20lata%20(3lateral)%20.jpg){height=300}
+
+## Observation notes  
+Provancher 1888: <span class="hl-place-name">Vancouver</span>. Cockerell 1906: <span class="hl-place-name">Vancouver</span> I. Cockerell 1912d: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Timberlake 1969: 1920, <span class="hl-place-name">Nanaimo</span> Biol. Station. Guzman et al., 2023: 2005; 2007; 2009, 2010; 2014, 2015; 2017, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>.
+
+## GBIF observations  
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("frater")
+```
+<br><br>
+<center>
+
+
+<a href="NA"><button type="button" class="btn btn-secondary">See all Eucera frater <i class="fa-solid fa-arrow-up-right-from-square"></i> </button></a>
+</center>

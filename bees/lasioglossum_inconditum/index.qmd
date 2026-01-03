@@ -5,16 +5,21 @@ engine: knitr
 categories:
   - Halictidae
 freeze: auto
-description:  <span class="coast-badge">Coast</span>
+description:  <span class="vanc-isl-badge">Vancouver Island</span>
 image: /files/no_bee.png
 ---
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-Gibbs et al. 2013: <span class="hl-place-name">Cowichan</span> Valley Reg. Dist.
+Gibbs et al. 2013: <span class="hl-place-name">Cowichan</span> Valley Reg. Dist. NBSBC Bee Atlas: 2023, <span class="hl-place-name">Duncan</span>.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("inconditum")
+```
 <br><br>
 <center>
 

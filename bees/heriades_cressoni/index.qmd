@@ -11,10 +11,15 @@ image: https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Heria
 ![`r emo::ji("copyright")` Photo courtesy of the Spencer Entomological Collection, Beaty Biodiversity Museum, UBC. Photographer: Don Griffiths.](https://www.zoology.ubc.ca/entomology/main/Hymenoptera/Megachilidae/Heriades%20cressoni%20male%20(3lateral).jpg){height=300}
 
 ## Observation notes  
-NBSBC Bee Atlas Database: (Young), 2023, <span class="hl-place-name">Sunshine Coast</span>.
+NBSBC Bee Atlas Database: 2023, <span class="hl-place-name">Sunshine Coast</span>.
 
 ## GBIF observations  
-No GBIF observations in Pacific Maritime to display.
+
+
+```{r warning=F, message=F, echo=F}
+source("../../page_functions.R")
+make_species_map("cressoni")
+```
 <br><br>
 <center>
 

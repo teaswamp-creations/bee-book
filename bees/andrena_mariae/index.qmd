@@ -10,7 +10,7 @@ image: /files/no_bee.png
 ![`r emo::ji("copyright")` Cait Harrigan.](/files/no_bee.png){height=300}
 
 ## Observation notes  
-LaBerge 1973: Robertson, 1891; <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Guzman et al., 2023: (Button), 2011, <span class="hl-place-name">Abbotsford</span>.
+LaBerge 1973: Robertson, 1891; <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. Guzman et al., 2023: 2011, <span class="hl-place-name">Abbotsford</span>.
 
 ## GBIF observations  
 No GBIF observations in Pacific Maritime to display.

@@ -11,7 +11,7 @@ image: https://inaturalist-open-data.s3.amazonaws.com/photos/140780732/large.jpe
 ![`r emo::ji("copyright")` [Bob ](McDougall ).](https://inaturalist-open-data.s3.amazonaws.com/photos/140780732/large.jpeg){height=300}
 
 ## Observation notes  
-Viereck 1905: <span class="hl-place-name">Vancouver</span>. Cockerell and Sandhouse 1924: (E.P. Van Duzee), 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Cresson 1928: <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: (Elle), 2005; (Neame), 2007; (Gielens), 2009; (Wray), 2012, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2021.
+Viereck 1905: <span class="hl-place-name">Vancouver</span>. Cockerell and Sandhouse 1924: 1920, <span class="hl-place-name"><span class="hl-place-name">Nanaimo</span> Biological Station</span>. Cresson 1928: <span class="hl-place-name">Vancouver</span>. Guzman et al., 2023: 2005; 2007; 2009; 2012, <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>. iNaturalist: <span class="hl-place-name"><span class="hl-place-name"><span class="hl-place-name">Vancouver</span> Is</span>land</span>, from 2021.
 
 ## GBIF observations  
 
