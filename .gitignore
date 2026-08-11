@@ -9,3 +9,4 @@ bees
 files
 _freeze
 docs_staging
+**/*.quarto_ipynb
