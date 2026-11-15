@@ -2,16 +2,18 @@ library(plotly)
 suppressPackageStartupMessages(library(tidyverse))
 
 
-# make species map
-gbif <- read_delim("../../files/0037810-231120084113126.csv", delim='\t') %>%
-  mutate(date = ymd(date(eventDate)), Year = year(date),
+# gbif data
+gbif <- read_delim("../../files/0050043-251120083545085.csv", delim = "\t") %>%
+  separate_wider_delim(eventDate, delim='/', names = c('eventDate', NA), too_few = "align_start") %>%
+  mutate(eventDate = parse_date_time(eventDate, orders = c("ymd", "ymd HM", 'ymd HMS', "ym", "y")),
+         date = ymd(date(eventDate)), Year = year(date),
          Month = lubridate::month(date, label=T),
          lat=decimalLatitude, lon=decimalLongitude) %>%
-  drop_na(date, lat, lon, genus, occurrenceID) %>%
-  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge') %>%
-  mutate(Species=ifelse(Species=='nr', NA, Species))
+  drop_na(date, lat, lon, occurrenceID) %>%
+  separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge', too_few = 'align_start') %>%
+  mutate(Species=ifelse(Species=='nr', NA, Species)) 
 
-
+# make_species_map
 make_species_map <- function(species){
   if (!(species %in% gbif$Species)){
     return("no GBIF data to display")
@@ -28,7 +30,7 @@ make_species_map <- function(species){
         basisOfRecord,
         '\nSpecies:', Genus, Species, 
         '\nObserved:', stamp("March 1, 1999")(date)
-        ),
+      ),
       size=10,
       name= ~Year,
       marker= list(opacity=0.6),
@@ -43,4 +45,3 @@ make_species_map <- function(species){
       title = 'GBIF observations in the Pacific Maritime region') %>%
     return()
 }
-

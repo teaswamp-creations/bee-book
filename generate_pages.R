@@ -1,6 +1,9 @@
+
 library(tidyverse)
 library(htmltools)
 library(googlesheets4)
+
+dir.create('bees')
 
 places <- read_csv('files/place_names.txt') %>% 
   arrange(desc(nchar(name))) %>%
@@ -29,6 +32,7 @@ df <- readxl::read_xlsx("files/Native bees of BC - PM_3rd edition.xlsx") %>%
 
 
 # gbif data
+# page_functions also holds gbif data
 gbif <- read_delim("files/0050043-251120083545085.csv", delim = "\t") %>%
   separate_wider_delim(eventDate, delim='/', names = c('eventDate', NA), too_few = "align_start") %>%
   mutate(eventDate = parse_date_time(eventDate, orders = c("ymd", "ymd HM", 'ymd HMS', "ym", "y")),
@@ -38,6 +42,7 @@ gbif <- read_delim("files/0050043-251120083545085.csv", delim = "\t") %>%
   drop_na(date, lat, lon, occurrenceID) %>%
   separate_wider_delim(species, ' ', names=c('Genus', 'Species'), too_many = 'merge', too_few = 'align_start') %>%
   mutate(Species=ifelse(Species=='nr', NA, Species)) 
+
 
 # make badges 
 make_badges <- function(row){
@@ -77,7 +82,7 @@ make_page <- function(row){
            ),
     '\n\n', '## Observation notes  \n', ifelse(!is.na(row['Abr. note']), row['Abr. note'], ''), 
     '\n\n', '## GBIF observations  \n', ifelse(!(row['Species'] %in% gbif$Species), 'No GBIF observations in Pacific Maritime to display.',
-                   paste0('\n\n```{r warning=F, message=F, echo=F}\nsource("../../page_functions.R")\nmake_species_map("', row["Species"], '")\n```')
+                                               paste0('\n\n```{r warning=F, message=F, echo=F}\nsource("../../page_functions.R")\nmake_species_map("', row["Species"], '")\n```')
                    ),
     '\n<br><br>\n<center>\n',
     '\n\n<a href="', row['Map Link'], '"><button type="button" class="btn btn-secondary">See all ', row['Genus'], ' ', row['Species'], 
@@ -134,4 +139,4 @@ table_summary <- function(df){
 
 # run this line to regenerate bee pages
 print(dim(df))
-apply((df), FUN=make_page, MARGIN=1)
+#apply((df), FUN=make_page, MARGIN=1)

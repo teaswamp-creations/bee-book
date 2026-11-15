@@ -15,7 +15,6 @@ library(tidyverse)
 library(kableExtra)
 library(googlesheets4)
 source('generate_pages.R')
-
 ```
 
 Created by Cait Harrigan & Kath Quayle
