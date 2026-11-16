@@ -1,6 +1,17 @@
 library(plotly)
 suppressPackageStartupMessages(library(tidyverse))
 
+basemap <- function(name = "light_gray") {
+  esri <- "https://server.arcgisonline.com/ArcGIS/rest/services/"
+  urls <- list(
+    light_gray = c(paste0(esri, "Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"),
+                   paste0(esri, "Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}")),
+    topo       =   paste0(esri, "World_Topo_Map/MapServer/tile/{z}/{y}/{x}"),
+    satellite  =   paste0(esri, "World_Imagery/MapServer/tile/{z}/{y}/{x}")
+  )
+  lapply(urls[[name]], function(u)
+    list(below = "traces", sourcetype = "raster", source = list(u)))
+}
 
 # gbif data
 gbif <- read_delim("../../files/0050043-251120083545085.csv", delim = "\t") %>%
@@ -39,7 +50,8 @@ make_species_map <- function(species){
     colorbar(tick0=0,
              dtick=max(3, ceiling(length(unique((filter(gbif, Species %in% species)$Year)))/3))) %>%
     layout(mapbox = list(
-      style = 'carto-positron', show_legend = T,
+      layers = basemap("light_gray"),
+      style = 'white-bg', show_legend = T,
       #zoom=7, center = list(lon = -123, lat = 49)),
       zoom=3.8, center = list(lon = -127, lat = 50)),
       title = 'GBIF observations in the Pacific Maritime region') %>%

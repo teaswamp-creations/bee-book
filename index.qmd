@@ -15,6 +15,18 @@ library(tidyverse)
 library(kableExtra)
 library(googlesheets4)
 source('generate_pages.R')
+
+basemap <- function(name = "light_gray") {
+  esri <- "https://server.arcgisonline.com/ArcGIS/rest/services/"
+  urls <- list(
+    light_gray = c(paste0(esri, "Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}"),
+                   paste0(esri, "Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}")),
+    topo       =   paste0(esri, "World_Topo_Map/MapServer/tile/{z}/{y}/{x}"),
+    satellite  =   paste0(esri, "World_Imagery/MapServer/tile/{z}/{y}/{x}")
+  )
+  lapply(urls[[name]], function(u)
+    list(below = "traces", sourcetype = "raster", source = list(u)))
+}
 ```
 
 Created by Cait Harrigan & Kath Quayle
@@ -101,7 +113,8 @@ map_plot <- function(df){
     colors='Paired'
   ) %>%
   layout(mapbox = list(
-    style = 'carto-positron', show_legend = T,
+    layers = basemap("light_gray"),
+    style = 'white-bg', show_legend = T,
     #zoom=7, center = list(lon = -123, lat = 49)))
     zoom=3.5, center = list(lon = -127, lat = 52)),
     title = 'GBIF observations') %>%

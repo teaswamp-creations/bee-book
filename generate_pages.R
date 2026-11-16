@@ -139,4 +139,4 @@ table_summary <- function(df){
 
 # run this line to regenerate bee pages
 print(dim(df))
-#apply((df), FUN=make_page, MARGIN=1)
+apply((df), FUN=make_page, MARGIN=1)
